@@ -1,0 +1,2240 @@
+metanit.com php:
+https://metanit.com/php/tutorial/
+
+PHP. Уровни 1-4 (Игорь Борисов)(???)
+https://rutracker.net/forum/viewtopic.php?t=5363270
+
+php + react:
+https://rutracker.net/forum/viewtopic.php?t=5825230
+
+
+lavarel
+
+https://rutracker.net/forum/viewtopic.php?t=5609229
+
+https://rutracker.net/forum/viewtopic.php?t=5823234
+
+https://rutracker.net/forum/viewtopic.php?t=5788697
+
+https://rutracker.net/forum/viewtopic.php?t=5310269(???)
+
+real-time laravel:
+https://rutracker.net/forum/viewtopic.php?t=5229223
+
+  ООП курс 3.0:
+https://rutracker.net/forum/viewtopic.php?t=5896988
+
+ интернет-магазин на yii2
+https://rutracker.net/forum/viewtopic.php?t=5429844
+
+  фреймворк yii2
+https://rutracker.net/forum/viewtopic.php?t=5864979
+
+symphony? https://rutracker.net/forum/viewtopic.php?t=5775309
+
+Apache Kafka???
+
+git elis))
+https://rutracker.net/forum/viewtopic.php?t=5169125(???)
+
+
+YOUTUBE links(php):
+
+
+
+-----------------------------------------------------------------------------
+
+
+frontend:
+	flexfrog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	
+	[Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)(диск Е)
+	https://rutracker.net/forum/viewtopic.php?t=5858801 (интересный курс)!!!!!!!!
+	
+	gulp - https://rutracker.net/forum/viewtopic.php?t=5775267(старый курс)!!!!(диск Е)
+	
+	gulp - https://rutracker.net/forum/viewtopic.php?t=5855667(лысый мужчина)(диск Е)
+
+курс по [12-2019] advanced-css-and-sass!!!!!!
+https://rutracker.net/forum/viewtopic.php?t=5898540(диск Е)
+
+курсы по udemy-advanced-css-sass!!!!!!!!!!
+https://rutracker.net/forum/viewtopic.php?t=5482390(диск Е)
+
+
+bootstrap
+materialize
+material.io
+tailwind css
+
+справочники:
+htmlbase.ru
+
+
+
+
+
+
+Курс по Adobe Photoshop - с нуля до макетного стокера(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5825077
+
+ui ux design (Adobe XD)
+https://rutracker.net/forum/viewtopic.php?t=5894746!!!!
+
+Mobile App Design In Sketch 3:
+https://rutracker.net/forum/viewtopic.php?t=5393361
+
+ios 12 swift 5 app design
+https://rutracker.net/forum/viewtopic.php?t=5905053!!!! 
+
+Introduction to the JAMStack
+https://rutracker.net/forum/viewtopic.php?t=5858902
+
+
+YOUTUBE links(css):
+Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии (Фрилансер по жизни):
+https://www.youtube.com/watch?v=HihYQVuH64U
+Responsive web design in 37 minutes + layout. You don’t need Bootstrap!(фрилансер по жизни):
+https://www.youtube.com/watch?v=XbnAKjjlgc4
+
+
+
+
+-----------------------------------------------------------------------------
+JAVASCRIPT
+
+gatsby(react based)
+
+
+scaling vue with nuxt.js
+https://rutracker.net/forum/viewtopic.php?t=5946767(13)
+
+frontendmasters:
+vuex for vuejs:
+https://rutracker.net/forum/viewtopic.php?t=5928682!!!!!(12)
+
+frontendmasters:
+angular9 fundamentals:
+https://rutracker.net/forum/viewtopic.php?t=5916908!!!!!(15)
+
+NextJS & React - The Complete Guide: (9.1)
+https://rutracker.net/forum/viewtopic.php?t=6020597
+
+Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(9.2)
+https://rutracker.net/forum/viewtopic.php?t=5483055
+
+Joomla 3 с Нуля до Гуру:(9.3)(диск D)
+https://rutracker.net/forum/viewtopic.php?t=5422954
+
+Build Cross-Platform Desktop Apps with Electron:
+https://rutracker.net/forum/viewtopic.php?t=5448417(17) end
+
+
+
+
+diodor7:
+
+typescript:
+https://rutracker.net/forum/viewtopic.php?t=5874684(16)
+
+javascript:
+https://rutracker.net/forum/viewtopic.php?t=5874667!!!!!!!(4)(диск Е)
+
+react:
+https://rutracker.net/forum/viewtopic.php?t=5874677!!!!!!!(5.1)(диск Е)
+
+OpenCart - Создание современного интернет-магазина от А до Я.:(5.2)(диск D)
+https://rutracker.net/forum/viewtopic.php?t=5383769
+
+
+vue:
+https://rutracker.net/forum/viewtopic.php?t=5874689(11)(диск Е)
+
+
+
+
+
+1 иван петриченко
+cms wordPress:
+https://rutracker.net/forum/viewtopic.php?t=5787814(3.2)(диск Е)
+web-razrabotchik:
+https://rutracker.net/forum/viewtopic.php?t=5764192(3.1)(диск Е)
+javascript(advanced):
+https://rutracker.net/forum/viewtopic.php?t=5864016!!!!!!!(2)(диск Е)
+Полный курс по JavaScript + React - с нуля до результата:
+https://rutracker.net/forum/viewtopic.php?t=5667570!!!!!!!!(1)(диск Е)
+
+
+2 владилен. 
+Фреймворк Vue.js:
+https://rutracker.net/forum/viewtopic.php?t=5584730!!!!!!!(10.1)(диск Е)
+Vue 3:
+https://rutracker.net/forum/viewtopic.php?t=6004151!!!!!!!(10.2)(диск Е)
+javascript:
+https://rutracker.net/forum/viewtopic.php?t=5697868!!!!!!!(6)(диск Е)
+react:
+https://rutracker.net/forum/viewtopic.php?t=5801137!!!!!!!(8)(диск Е)
+javascript senior:
+https://rutracker.net/forum/viewtopic.php?t=6020638!!!!!!!(7)(диск Е)
+angular:
+https://rutracker.net/forum/viewtopic.php?t=5775848(14)
+
+
+
+	1) WordPress +
+	2) OpenCart +	
+	3) Joomla +
+	4) MODX -
+
+
+{
+javascript:
+https://metanit.com/web/javascript/
+react:
+https://metanit.com/web/react/
+vuejs:
+https://metanit.com/web/vuejs/
+vue 3:
+https://metanit.com/web/vue/
+angularJS:
+https://metanit.com/web/angular/
+angular:
+https://metanit.com/web/angular2/
+typescript:
+https://metanit.com/web/typescript/
+jquery:
+https://metanit.com/web/jquery/
+webGL:
+https://metanit.com/web/webgl/
+D3.js:
+https://metanit.com/web/d3js/
+
+node.js:
+https://metanit.com/web/nodejs/
+}
+
+
+
+YOUTUBE links(javascript):
+JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]:
+https://www.youtube.com/watch?v=Bluxbh9CaQ0&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
+
+
+YOUTUBE links(react):
+
+YOUTUBE links(vue3 && vuejs):
+
+
+-----------------------------------------------------------------------------
+
+
+
+
+Node.js, Express, MongoDB & More: The Complete Bootcamp (2020)
+https://rutracker.net/forum/viewtopic.php?t=5819465!!!!!(8)
+
+node + koa.js
+https://rutracker.net/forum/viewtopic.php?t=5425486(10)
+
+
+FullStack-Мастер:
+MongoDB, Express.js, Angular и Node.js:(9)
+https://rutracker.net/forum/viewtopic.php?t=5582681
+
+
+
+
+
+
+
+Building Real-time Apps with React, Socket.io, and RethinkDB:(6)
+https://rutracker.net/forum/viewtopic.php?t=5548703
+
+vampiri6ka(nodejs) Build Collaborative editor and Real-time video call with NodeJS:
+https://rutracker.net/forum/viewtopic.php?t=5572754(5.2) 
+
+
+nodejs:
+https://rutracker.net/forum/viewtopic.php?t=5874675!!!!!!!(1)
+
+Microservices with Node JS and React:
+https://rutracker.net/forum/viewtopic.php?t=5953538!!!!!!!!!!!!!!!!!(2)
+
+The Modern GraphQL Bootcamp (Advanced Node.js):
+https://rutracker.net/forum/viewtopic.php?t=5638529(graphQL)(5.1)
+
+
+nosize: Complete Next.js with React & Node - Beautiful Portfolio App
+https://rutracker.net/forum/viewtopic.php?t=5924565!!!!!!!(3)
+
+
+Rapid Development on AWS: React, Node.js & GraphQL:
+https://rutracker.net/forum/viewtopic.php?t=5592645(4)
+
+
+
+
+
+MERN Stack Front To Back: Full Stack React, Redux & Node.js
+https://rutracker.net/forum/viewtopic.php?t=5554515!!!(7.1)
+
+Fullstack Social iOS NodeJS REST:
+https://rutracker.net/forum/viewtopic.php?t=5873176 (7.2)
+
+
+{
+Node.js and Raspberry Pi:
+https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
+}
+
+
+
+code4startup:
+https://rutracker.net/forum/tracker.php?nm=code4startup
+
+
+YOUTUBE links(nodejs):
+
+
+
+
+----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+
+	vscode flutter+dart: https://www.youtube.com/watch?v=nILDkRhlLVM&ab_channel=KonstantinKokorin
+	
+	[Udemy.com / Angela Yu] The Complete 2020 Flutter Development Bootcamp with Dart(диск D):
+	https://rutracker.net/forum/viewtopic.php?t=5736294
+
+	dart metanit.com:
+	https://metanit.com/dart/tutorial/
+
+	flutter metanit.com:
+	https://metanit.com/dart/flutter/
+
+	YT codeandart main:
+	Основы языка программирования Dart
+	https://www.youtube.com/playlist?list=PLQe4pvn2BjxBs48CiW5XNPpFUFFEj3t7g
+	Flutter разработка для начинающих. Приложение Quiz.
+	https://www.youtube.com/playlist?list=PLQe4pvn2BjxAJNOQzUKdemXZV0-iahuyO
+	
+
+
+	React Native - The Practical Guide [2021 Edition]:(нету)
+	https://rutracker.net/forum/viewtopic.php?t=5874682
+	
+	frontendmasters:(нету)
+	react native:
+	https://rutracker.net/forum/viewtopic.php?t=5898336
+	
+
+
+	Ionic:(нету)
+	https://rutracker.net/forum/viewtopic.php?t=5910449
+
+	ionic and angular:(нету)
+	https://rutracker.net/forum/viewtopic.php?t=5480837
+	
+
+
+
+	Brian Voong:
+	{
+	Maps UIKit SwiftUI:
+	https://rutracker.net/forum/viewtopic.php?t=5884983
+	Tinder Firestore Swipe and Match:
+	https://rutracker.net/forum/viewtopic.php?t=5873195
+	Twitter Slide Out Menu:
+	https://rutracker.net/forum/viewtopic.php?t=5873198
+	Intermediate Training Course with Core Data:
+	https://rutracker.net/forum/viewtopic.php?t=5873185
+	instagram firebase(https://rutracker.net/forum/viewtopic.php?t=5873180)	
+	AppStore JSON APIs:
+	https://rutracker.net/forum/viewtopic.php?t=5873172	
+	}
+
+
+
+	kotlin(https://rutracker.net/forum/viewtopic.php?t=5978669)
+	metanit.com kotlin:
+	https://metanit.com/kotlin/tutorial/
+	
+books:
+	kotlin(https://rutracker.net/forum/viewtopic.php?t=5791946
+		https://rutracker.net/forum/viewtopic.php?t=5791949
+	)	
+
+
+	swift(https://rutracker.net/forum/viewtopic.php?t=5671536)
+	metanit.com swift:
+	https://metanit.com/swift/tutorial/
+
+
+
+	java android metanit.com:
+	https://metanit.com/java/android/
+	Android O & Java - Mobile App Development | Beginning to End
+	https://rutracker.net/forum/viewtopic.php?t=5483806
+
+
+	metanit.com c# xamarin:
+	https://metanit.com/sharp/xamarin/
+
+
+
+
+
+
+YOUTUBE links(flutter/dart):
+
+
+YOUTUBE links(react native):
+
+
+YOUTUBE links(java):
+
+
+YOUTUBE links(xamarin):
+
+
+------------------------------------------------------------------------
+
+python: 
+
+python metanit.com: 
+https://metanit.com/python/tutorial/
+
+LINUX:
+ravesli(linux):
+https://ravesli.com/uroki-po-linux/
+
+YOUTUBE links(linux):
+
+
+хирьянов:
+2020 Практика программирования на Python 3
+https://www.youtube.com/watch?v=us7y0UhTq0s&list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe
+2021 Анализ данных на Python
+https://www.youtube.com/watch?v=Dx2SE4hYy4g&list=PLRDzFCPr95fIgPrFFW-0nXT5YH6ZnjRM6&ab_channel=%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2
+
+
+Online курс “Python для сетевых инженеров”
+https://rutracker.net/forum/viewtopic.php?t=5750842
+доп. материал(Natasha Samoylenko 3,94 тыс. подписчиков):
+https://www.youtube.com/channel/UCbp_f4rb5OR5hSUJW3F2FRg
+
+TCP/IP:
+Модель OSI и стек протоколов TCP-IP:
+https://rutracker.net/forum/viewtopic.php?t=5564604
+
+YOUTUBE links(tcp/ip):
+
+
+
+
+
+
+
+Books(python):
+
+книга Python для сетевых инженеров:
+https://pyneng.readthedocs.io/ru/latest/
+
+Python для сетевых инженеров. Том 2: Продвинутые возможности Python с примерами на сетевой тематике:
+https://advpyneng.readthedocs.io/ru/latest/
+
+Ansible для сетевых инженеров:
+https://ansible-for-network-engineers.readthedocs.io/ru/latest/
+
+
+YOUTUBE links(python):
+
+
+
+
+
+
+
+python + django metanit.com:
+https://metanit.com/python/django/
+
+python django + 
+https://rutracker.net/forum/viewtopic.php?t=5892080
+
+python django braintree:
+https://rutracker.net/forum/viewtopic.php?t=5482440
+
+Create UberEats with Python/Django and Swift 3:
+https://rutracker.net/forum/viewtopic.php?t=5482318
+
+Django Girls (бесплатно, есть в сети)
+
+
+
+
+
+
+
+
+Books(django):
+
+Django 3.0. Практика создания веб-сайтов на Python(Дронов):
+https://rutracker.net/forum/viewtopic.php?t=5966162
+
+Python 3. Самое необходимое(Дронов):(просто Python)
+https://rutracker.net/forum/viewtopic.php?t=5886556
+
+python books:(просто Python)
+https://rutracker.net/forum/viewtopic.php?t=5774960 Марк Лутц
+https://rutracker.net/forum/viewtopic.php?t=5838111 Марк Лутц
+
+
+YOUTUBE links(python + django):
+
+
+
+
+
+
+
+YT:
+automation simplified(message bots):
+https://www.youtube.com/watch?v=SsXcyoevkV0&list=PLqXS1b2lRpYSkvxnk3quzKL08oRJiP9LA&index=4&ab_channel=PythonSimplified
+
+
+gui simplified:
+https://www.youtube.com/playlist?list=PLqXS1b2lRpYRVrpyN19e3vzLZfFoPLTRL
+
+
+neural network:
+https://www.youtube.com/watch?v=GTyTG3XzPq8&list=PLqXS1b2lRpYTpUIEu3oxfhhTuBXmMPppA&index=2&ab_channel=PythonSimplified
+
+
+python projects:
+https://www.youtube.com/watch?v=2RocXKPPx4o&list=PLqXS1b2lRpYQRJuTuoEBHVpidXQ_Tc3CT&index=2&ab_channel=PythonSimplified
+
+Python Modules and Libraries:
+https://www.youtube.com/watch?v=NSHsaG2a4WU&list=PLqXS1b2lRpYTQQ8ziHakWZHLFIheVhcOg&ab_channel=PythonSimplified
+
+
+Data Science Simplified:
+https://www.youtube.com/watch?v=P4F3PzCMrtk&list=PLqXS1b2lRpYTC04DA9J8hta6oYEKOd91N&ab_channel=PythonSimplified
+
+
+
+
+ai:
+https://www.w3schools.com/ai/default.asp
+
+
+
+
+
+
+
+
+Hacking:
+
+The Complete Python Hacking Course: Beginner To Advance! (2020)
+https://www.youtube.com/watch?v=0NQ2aMxBYNE&ab_channel=AleksaTamburkovski
+
+
+Complete Python Hacking Course: Beginner To Advance Part 2:
+https://www.youtube.com/watch?v=7T_xVBwFdJA&ab_channel=AleksaTamburkovski
+
+
+
+Hacking Windows 10 Machine - SMBGhost Vulnerability (CVE 2020-0796):
+https://www.youtube.com/watch?v=Ltt2Cz_Dy9c&t=613s&ab_channel=AleksaTamburkovski
+
+
+Complete SSH & FTP Hacking Course!
+https://www.youtube.com/watch?v=3zP0lq7XiO8&ab_channel=AleksaTamburkovski
+
+
+Website Penetration Testing With Python:
+https://www.youtube.com/watch?v=kpiGBn96go0&ab_channel=AleksaTamburkovski
+
+
+Python Ethical Hacking: Creating A Keylogger Using Python 3:
+https://www.youtube.com/watch?v=hL3rB9ttZFU&ab_channel=AleksaTamburkovski
+
+
+Building an Email Scraper Using Python 3 For Penetration Testing!:
+https://www.youtube.com/watch?v=VbQ3f9nUj3Q&ab_channel=AleksaTamburkovski
+
+
+The Complete Ethical Hacking Course - Penetration Testing Beginner To Advance! (2020):
+https://www.youtube.com/watch?v=33Y2bSJQmhU&ab_channel=AleksaTamburkovski
+
+
+Learn Ethical Hacking With Python!:
+https://www.youtube.com/watch?v=b_N-HAn8zVs&ab_channel=AleksaTamburkovski
+
+
+--------------------------------------------------------
+Sony Vegas Pro
+YOUTUBE links(Sony Vegas Pro):
+https://www.youtube.com/playlist?list=PL-2XD_2BzphKdK7QENo1YFvaYCS3mlMVF:
+
+---------------------------------------------------------------
+
+
+афтер эффектс,
+Adobe After Effects. Базовый уровень. Гибридный курс(диск E)
+https://rutracker.net/forum/viewtopic.php?t=5887891
+
+https://rutracker.net/forum/viewtopic.php?t=5888490
+
+YOUTUBE links(after effects):
+( epilepsy warning ) shakes tutorial after effects #1
+https://www.youtube.com/watch?v=UMMGMelekC4&list=LL&index=1&t=14s
+https://www.youtube.com/watch?v=zI3f7IYZBjk&list=LL&index=7
+https://www.youtube.com/watch?v=YTnbF4nwvw8
+https://www.youtube.com/watch?v=o-kGig4QtmE
+https://www.youtube.com/watch?v=Qem8LvW5EFg
+https://www.youtube.com/watch?v=RnCsAIMCfww&list=LL&index=1&t=3s
+https://www.youtube.com/watch?v=-HxGEhDXyTA&list=LL&index=2&t=10s
+https://www.youtube.com/watch?v=hOs8q0ECZiQ
+https://www.youtube.com/watch?v=KqrMVGeYLdQ&list=LL&index=1&t=2s
+https://www.youtube.com/watch?v=n27-q1NXKjE
+https://www.youtube.com/watch?v=ICZbZE0vZ6w
+https://www.youtube.com/watch?v=UBD-8ms-eIE&list=LL&index=1&t=2s
+https://www.youtube.com/watch?v=EeEe0ES1umk
+https://www.youtube.com/watch?v=nktKRcGEbTQ
+https://www.youtube.com/watch?v=qXA7QToIpqQ&list=LL&index=4&t=8s
+https://www.youtube.com/watch?v=TApquNlLUa4
+https://www.youtube.com/watch?v=kiG4m8woSFs
+https://www.youtube.com/watch?v=-geTSrv_OvU
+https://www.youtube.com/watch?v=8rB0jsm2lFs&ab_channel=Kyrik
+
+монтаж:
+https://www.youtube.com/watch?v=e-EjuiRIGew
+
+davinci resolve - YouTube
+
+-----------------------------------------------------------------
+othershit:
+
+
+
+ai:
+Курс по рисованию векторных иллюстраций:(Диск E)
+https://rutracker.net/forum/viewtopic.php?t=5551027
+
+Lynda - Logo Design Techniques (2016): (Диск E)
+
+sai:
+new art school: (Диск E)
+
+
+рисование, adobe flash pro, 
+Adobe Flash Professional CS6:(Диск Е)
+https://rutracker.org/forum/viewtopic.php?t=5618500
+Adobe Flash Professional CS6 Essential:(Диск Е)
+https://rutracker.org/forum/viewtopic.php?t=4862263
+
+https://rutracker.org/forum/viewtopic.php?t=4191740(Нету)
+
+
+леттеринг:
+Делай лого:(Диск D)
+https://rutracker.net/forum/viewtopic.php?t=5553924
+
+
+photoshop:
+
+
+
+YOUTUBE links(illustrator):
+
+YOUTUBE links(sai):
+
+YOUTUBE links(adobe flash pro):
+
+YOUTUBE links(леттеринг):
+
+YOUTUBE links(photoshop):
+Photoshop for Beginners | FREE COURSE
+https://www.youtube.com/watch?v=IyR_uYsRdPs&ab_channel=EnvatoTuts%2B
+
+
+--------------------------------------------------------
+
+Beats:
+
+YOUTUBE links(Beats):
+HOW TO MAKE A BLADEE / DRAIN GANG TYPE BEAT || VENDR / CASH GLOBAL:
+https://www.youtube.com/watch?v=7ZzeIg3T9po&ab_channel=CashGlobalRecordsCashGlobalRecords
+HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20 // VENDR (DRAIN GANG):
+https://www.youtube.com/watch?v=DkC_z_FJSrU&ab_channel=CashGlobalRecords
+
+-------------------------------------------------------------
+
+
+C++ ravesli уроки:
+https://ravesli.com/uroki-cpp/#toc-1
+
+С++ ravesli opengl:
+https://ravesli.com/uroki-po-opengl/
+
+С++ ravesli prakticheskie zadaniya:
+https://ravesli.com/uroki-cpp/#toc-2
+
+C++ ravesli sfml:
+https://ravesli.com/uroki-po-sfml/
+
+С++ ravesli prakticheskie zadaniya:
+https://ravesli.com/uroki-cpp/#toc-2
+
+Unreal Engine
+
+YOUTUBE links(C++):
+Facebook Hacker Cup 2020 Qual' (2nd place)
+https://www.youtube.com/watch?v=91IAQUCbs14&ab_channel=Errichto
+Winning Google Kickstart Round C 2020
+https://www.youtube.com/watch?v=oY0PBQt36YM&ab_channel=WilliamLin
+
+--------------------------------------------------------
+
+
+UE:
+Learning C++ by Creating Games with Unreal Engine 4:(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5516695
+[Udemy] Learn to Code by Making Games The Unreal Engine Developer Part 1-2-3: (нету)
+https://rutracker.net/forum/viewtopic.php?t=5624739
+4 part: (нету)
+https://rutracker.net/forum/viewtopic.php?t=5629154
+The Art of Lighting for Games. Искусство Освещения в Играх (Unreal Engine 4): (нету)
+https://rutracker.net/forum/viewtopic.php?t=6052894
+FX for Games:(?????????)
+https://rutracker.net/forum/viewtopic.php?t=5965571 (Нету)
+[CGMA] - The Art of Lighting for Games [RUS]:(?????????)
+https://rutracker.net/forum/viewtopic.php?t=5943159(Нету)
+C++ multiplayer:
+https://rutracker.net/forum/viewtopic.php?t=5502000(Нету)
+3dMotive:
+https://rutracker.net/forum/viewtopic.php?t=5274157(Нету)
+vr:
+https://rutracker.net/forum/viewtopic.php?t=5275228(Нету)
+site:
+https://www.learncpp.com/
+
+YOUTUBE links(Unreal Engine):
+
+
+-------------------------------------------------------
+
+
+{
+
+a potom modelirovanie 3ds max
+knower school:
+https://rutracker.net/forum/viewtopic.php?t=5605316
+https://rutracker.net/forum/viewtopic.php?t=5607980
+https://rutracker.net/forum/viewtopic.php?t=5606347
+
+
+Графикана:
+https://rutracker.net/forum/viewtopic.php?t=5638325
+https://rutracker.net/forum/viewtopic.php?t=5682818
+https://rutracker.net/forum/viewtopic.php?t=5909329
+
+ghgfhfgd12
+https://rutracker.net/forum/viewtopic.php?t=5650127
+https://rutracker.net/forum/tracker.php?f=1656&pid=15881749
+
+etc:
+https://rutracker.net/forum/viewtopic.php?t=5515467
+https://rutracker.net/forum/viewtopic.php?t=5627680
+3ds MAX: https://www.youtube.com/watch?v=bMzfA38jGJ8&list=PLxt9ZAGPLIpeB8TcHrpzxvEI4Ve3SfZBC&index=5&ab_channel=Arrimus3D
+
+
+спец. эффекты(FX): 
+https://rutracker.net/forum/viewtopic.php?t=5930036!!!!!
+https://rutracker.net/forum/viewtopic.php?t=5834153!!!!
+
+
+zbrush4:
+https://rutracker.net/forum/viewtopic.php?t=3307876
+
+YOUTUBE links(3Ds MAX):
+}
+
+
+
+--------------------------------------------------------
+
+
+(EXTRA если что, если по учебе придется)
+java metanit.com:
+https://metanit.com/java/tutorial/
+java:
+https://rutracker.net/forum/viewtopic.php?t=5885966
+javaFX(windows forms c# на подобии):
+https://metanit.com/java/javafx/
+java rush:
+https://javarush.ru/
+
+javadatabase:
+https://metanit.com/java/database/
+javaEE(database):
+https://metanit.com/java/javaee/
+
+
+java start:
+https://rutracker.net/forum/viewtopic.php?t=5885351
+
+
+
+minecraft build custom modes:
+https://rutracker.net/forum/viewtopic.php?t=4969894
+
+
+java spring mvc(https://rutracker.net/forum/viewtopic.php?t=6003233)
+books: Java 8 Полное руководство " Герберта Шилда
+
+
+
+
+
+--------------------------------------------------------
+
+C# sergei
+
+c# metanit.com .NET:
+https://metanit.com/sharp/tutorial/
+metanit.com c# windows forms:
+https://metanit.com/sharp/windowsforms/
+graphics c#:
+http://grafika.me/node/24
+metanit.com с# патерны проектирования:
+https://metanit.com/sharp/patterns/
+metanit.com c# ado.net работа с базами данных:
+https://metanit.com/sharp/adonetcore/
+с# ado.net работа с базами данных:
+https://rutracker.net/forum/viewtopic.php?t=5889877
+
+
+unity
+
+
+
+metanit.com Руководство по ASP.NET Core 5:
+https://metanit.com/sharp/aspnet5/
+c# asp.net:
+https://rutracker.net/forum/viewtopic.php?t=5334510
+metanit.com c# Сетевое программирование в С# и .NET:
+https://metanit.com/sharp/net/
+metanit.com c# wpf:
+https://metanit.com/sharp/wpf/
+metanit.com c# Entity Framework Core:
+https://metanit.com/sharp/entityframeworkcore/
+
+YOUTUBE links(C#):
+
+
+-------------------------------------------------------------
+
+
+UNITY:
+
+
+main:
+Creating Portalethium Part 1: Modeling Modular Game Assets in Blender 2.78:(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5910945
+Creating Portalethium Part 2: Level Design with Modular Assets in Unity:(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5910946
+Creating Portalethium Part 3: Developing a Tower Defense Game in Unity:(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5910947
+
+Unity Game Development Academy: Make 2D & 3D Games(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5357076
+Learn to Code by Making Games The Complete Unity Developer: (диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5254137
+
+extra:
+https://rutracker.net/forum/viewtopic.php?t=5446867(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5443288(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5479665(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5791210(Нету)
+
+unity vr(book):
+https://rutracker.net/forum/viewtopic.php?t=5815906
+unity (books):
+https://rutracker.net/forum/viewtopic.php?t=5733530
+https://rutracker.net/forum/viewtopic.php?t=5815910
+
+YOUTUBE links(Unity):
+
+
+-------------------------------------------------------------
+BLENDER:
+
+хароший парен:
+https://rutracker.net/forum/search.php?uid=44297999&search_author
+volkov888
+
+Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners:(диск D)
+https://rutracker.net/forum/viewtopic.php?t=5872958
+
+BLENDER 2.8 LAUNCH PAD:
+https://rutracker.net/forum/viewtopic.php?t=5765869
+https://rutracker.net/forum/viewtopic.php?t=6014732
+
+Fundamentals of Dynamics in Blender 2.77:
+https://rutracker.net/forum/viewtopic.php?t=5980882
+Fundamentals of Texturing in Blender 2.9:
+https://rutracker.net/forum/viewtopic.php?t=6040978
+Fundamentals of Digital Lighting in Blender 2.82:
+https://rutracker.net/forum/viewtopic.php?t=5897702
+Fundamental of Shading in Blender 2.73:
+https://rutracker.net/forum/viewtopic.php?t=5998102
+Fundamentals of Blender Materials and Shading (Blender 2.83):
+https://rutracker.net/forum/viewtopic.php?t=5998646
+
+Substance Painter Launch Pad:
+https://rutracker.net/forum/viewtopic.php?t=6021796
+Hard Surface Rigging in Blender 2.83:
+https://rutracker.net/forum/viewtopic.php?t=5936542
+Blender 2.79 Intermediate: Crab Bot:
+https://rutracker.net/forum/viewtopic.php?t=5790467
+The ULTIMATE Guide to Hard Ops and BoxCutter for Blender 2.83 & 2.9:
+https://rutracker.net/forum/viewtopic.php?t=5966452
+SciFi Crate Design in Blender 2.8:
+https://rutracker.net/forum/viewtopic.php?t=5911206
+SciFi Weapon Design in Blender:
+https://rutracker.net/forum/viewtopic.php?t=5934967
+SciFi Mech Design in Blender 2.83 & 2.90:
+https://rutracker.net/forum/viewtopic.php?t=5949912
+Animated Sci-Fi Game Environment Creation in Blender 2.8:
+https://rutracker.net/forum/viewtopic.php?t=5872914
+
+[CG Masters] Complete Vehicle Production in Blender:
+https://rutracker.net/forum/viewtopic.php?t=5625684
+Master Car Creation in Blender:
+https://rutracker.net/forum/viewtopic.php?t=5684291
+Cargo Spaceship:
+https://rutracker.net/forum/viewtopic.php?t=5787601
+RTMG - Real Time Motion Graphics (Blender 2.83):
+https://rutracker.net/forum/viewtopic.php?t=5944519
+Blender Motion Graphics:
+https://rutracker.net/forum/viewtopic.php?t=5793925
+Hard Surface Modeling In Blender:
+https://rutracker.net/forum/viewtopic.php?t=5585540
+Non-Destructive Hard Surface Modeling in Blender 2.82:
+https://rutracker.net/forum/viewtopic.php?t=5882344
+NITROX3D Non-Destructive Modeling Course (Blender 2.8):
+https://rutracker.net/forum/viewtopic.php?t=5854704
+encyclopedia:
+https://rutracker.net/forum/viewtopic.php?t=6003076
+
+
+
+
+
+Environment:
+Create Realistic Industrial Environments with Blender 2.91 and Eevee:
+https://rutracker.net/forum/viewtopic.php?t=6060328
+Master 3D Environments in Blender 2.9:
+https://rutracker.net/forum/viewtopic.php?t=6020746
+Creating A Stylized 3D Forest Environment With Blender 2.90:
+https://rutracker.net/forum/viewtopic.php?t=5998097
+Create a VFX shot in Blender 2.92: Alien Abduction:
+https://rutracker.net/forum/viewtopic.php?t=5997984
+Sci-Fi Game Environment in Blender & UE4:
+https://rutracker.net/forum/viewtopic.php?t=5977294
+Substance Designer:
+https://rutracker.net/forum/viewtopic.php?t=5988480
+Weather Effects in Blender 2.81:
+https://rutracker.net/forum/viewtopic.php?t=5963887
+Sci-Fi Environment Design in Blender 2.82:
+https://rutracker.net/forum/viewtopic.php?t=5963775
+Production Design with Blender 2.8 and Eevee:
+https://rutracker.net/forum/viewtopic.php?t=5872627
+Space VFX Elements: Creating the Galaxy in Blender 2.77-2.78:
+https://rutracker.net/forum/viewtopic.php?t=5910324
+Creating a Looping Corridor in Blender 2.78
+https://rutracker.net/forum/viewtopic.php?t=5873560
+Creating Clouds with Blender 2.8 and Eevee:
+https://rutracker.net/forum/viewtopic.php?t=5937286
+Creating Procedural Sand Dunes with Blender 2.8:
+https://rutracker.net/forum/viewtopic.php?t=5873564
+Generative Modeling & Design with Blender 2.8:
+https://rutracker.net/forum/viewtopic.php?t=5794245
+[CGCookie] Creating Grass in Blender:
+https://rutracker.net/forum/viewtopic.php?t=5594749
+3D Workflow for Concept Art (Blender 2.82, Photoshop):
+https://rutracker.net/forum/viewtopic.php?t=5989336
+Interior Lighting - Futuristic Corridor (Modo, Blender 2.8, OctaneRender, Photoshop):
+https://rutracker.net/forum/viewtopic.php?t=5794331
+Megacity Streets - Kitbash, Design and Process (Modo, OctaneRender, Photoshop):
+https://rutracker.net/forum/viewtopic.php?t=5964192
+Intro to Octane for Blender 2.83:
+https://rutracker.net/forum/viewtopic.php?t=6040732
+Procedural Cityscapes in Blender 2.81:
+https://rutracker.net/forum/viewtopic.php?t=5963774
+Realistic Set Design in Blender 2.82:
+https://rutracker.net/forum/viewtopic.php?t=5962914
+
+
+
+
+
+
+characters:
+Blender Mesh Modeling Bootcamp (Blender 2.79):
+https://rutracker.net/forum/viewtopic.php?t=5990386
+Face Rigging in Blender 2.8 Tutorial:
+https://rutracker.net/forum/viewtopic.php?t=5943237
+Complete Guide to Realistic Character Creation in Blender 2.83:
+https://rutracker.net/forum/viewtopic.php?t=5995072
+
+some stuff:
+Modeling Weapons for a First Person Shooter in Blender 2.78
+https://rutracker.net/forum/viewtopic.php?t=5940223
+Modeling, Texturing and Shading a Treasure Chest in Blender 2.8:
+https://rutracker.net/forum/viewtopic.php?t=5776686
+
+Sculpting:
+Mastering Sculpting in Blender:
+https://rutracker.net/forum/viewtopic.php?t=5604994
+Sculpting an Alien in Blender 2.8:
+https://rutracker.net/forum/viewtopic.php?t=5881778
+
+
+CG Master
+CG Boost
+CGCookie
+Gumroad
+Creative Shrimp
+FlippedNormals
+Learn Squared
+Blender Market
+Blender Cloud
+
+
+YOUTUBE links(Blender):
+Beginner Blender Intraduction Tutorial (Your first render!):
+https://www.youtube.com/watch?v=iXOgG0m7fn8&ab_channel=intranetgirl
+
+-----------------------------------------------------------
+
+
+
+
+Houdini:
+[Online VFX] Houdini: 3D Artist [2018, RUS](диск D)
+https://rutracker.net/forum/viewtopic.php?t=5915855
+Частицы в Гудини:
+https://rutracker.net/forum/viewtopic.php?t=5922899
+[CG Masters Academy] CGMA - Mastering Destruction in Houdini [2019, RUS]:
+https://rutracker.net/forum/viewtopic.php?t=5940902
+programming:
+Процедурная анимация в Houdini 17.5:
+https://rutracker.net/forum/viewtopic.php?t=5838179
+[Online VFX] Houdini Procedurals [2017, RUS]:
+https://rutracker.net/forum/viewtopic.php?t=5916028
+Redshift в Гудини:
+https://rutracker.net/forum/viewtopic.php?t=5926239
+
+
+
+
+
+Houdini FX 17.5.173(229) + Redshift 2.6.41 (рабочая связка)
+https://rutracker.net/forum/viewtopic.php?t=5927611
+
+YOUTUBE links(Houdini):
+
+
+--------------------------------------------------------------
+SQL:
+YOUTUBE links:
+
+postgreSQL:
+YOUTUBE links:
+Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.(Диджитализируй!):
+https://www.youtube.com/watch?v=WpojDncIWOw&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
+
+mySQL:
+YOUTUBE links:
+
+mongoDB:
+YOUTUBE links:
+
+--------------------------------------------------------------
+MAIN:
+9:30, 21:30, 1:30;
+
+1.sql
+
+SQL and PostgreSQL The Complete Developer s Guide:(диск D)
+https://rutracker.net/forum/viewtopic.php?t=5962944
+
+
+Note(casey): postgreSQL\SQL and PostgreSQL The Complete Developer s Guide\85-97
+доп(casey): диск D: SQL and PostgreSQL The Complete Developer's Guide
+доп(casey): sql metanit.com - параллельно делать c postgreSQL [Илья Фофанов]
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
+
+
+
+
+
+sql metanit.com:
+https://metanit.com/sql/tutorial/
+Note(casey): sql metanit.com, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+sql YT:
+
+
+
+
+
+
+
+
+[Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)
+https://rutracker.net/forum/viewtopic.php?t=5885973
+Note(casey): Практический курс для новичков по SQL и PostgreSQL, 01 Введение в SQL, 001 Основные концепции
+доп(casey): диск D
+
+Note(casey): YOUTUBE, Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.(Диджитализируй!)
+доп(casey): 
+
+postgreSQL metanit.com:
+https://metanit.com/sql/postgresql/
+Note(casey): postgreSQL metanit.com, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+postgreSQL YT:
+
+
+
+
+
+MySQL Fundamentals part 1:(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5849881
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+MySQL Fundamentals Part 2:(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5859949
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+mysql metanit.com:
+https://metanit.com/sql/mysql/
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+mysql YT:
+
+
+
+
+ms sql server metanit.com:
+https://metanit.com/sql/sqlserver/
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+ms sql server YT:
+
+
+
+
+mongodb:(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5639171
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+mongodb metanit.com:
+https://metanit.com/nosql/mongodb/
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+mongoDB YT:
+
+
+
+
+
+
+
+
+
+2. mobile
+
+Note(casey): flutter_dart\[Udemy.com  Angela Yu] The Complete 2020 Flutter Development Bootcamp with Dart\6. MiCard - How to Build Beautiful UIs with Flutter Widgets
+доп(casey): диск D: [Udemy] The Complete 2020 Flutter Development Bootcamp with Dart (08.2020)
+доп(casey): 4. How to use Column & Row Widgets for Layout
+доп(casey): попробовать сделать робота в flutter/dart
+доп(casey): gradient: SweepGradient
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): dart metanit.com, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): flutter metanit.com, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+YT codeandart main
+Note(casey): Основы языка программирования Dart, Изучаем язык Dart - Часть 1. Основы, Типы данных, Функции, const и final.
+доп(casey):
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Flutter разработка для начинающих. Приложение Quiz., Flutter основы для начинающих #1 - Создание проекта, MaterialApp, Scaffold
+доп(casey):
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+flutter/dart YT:
+codeandart main
+Note(casey): ??? (источник)
+доп(casey):
+
+ 
+
+
+Note(casey): React Native - The Practical Guide [2021 Edition](нету)
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+react native YT:
+
+
+
+->ionic
+->Brian Voong
+->Kotlin
+->Swift
+
+->Java!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+3. css
+
+Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\21. Создание формы регистрации
+доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
+доп(casey): freecodecamp penguin
+доп(casey): flexfrog!!!! proiti
+
+Note(casey): YOUTUBE, Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии (Фрилансер по жизни)
+доп(casey): 
+
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+
+
+
+
+
+
+
+
+
+4. css YT
+
+{
+dark code
+Note(casey): YT channels\darkCode\Build a responsive personal website\Build a responsive personal website - Education & Works Sections
+доп(casey):
+
+online tutorials
+Note(casey): Button Ripple Effect on Click Using CSS3 & Vanilla Javascript (источник)
+доп(casey): 
+
+
+code nepal
+Note(casey): ??? (источник)
+доп(casey):
+
+
+code grid
+Note(casey): ??? (источник)
+доп(casey):
+
+
+Дмитрий валак
+Note(casey): https://www.youtube.com/c/BrainsCloud/videos(ссылка)
+Note(casey): ??? (источник)
+доп(casey): verstka brainscloud: https://www.youtube.com/watch?v=YKxua0wkgD8
+
+
+Bedimcode
+Note(casey): YT channels\Bedimcode\Responsive Personal Portfolio Website Using HTML CSS And JavaScript  DarkLight Mode
+доп(casey):
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. javascript
+
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\011 Как работать с GitHub с разных компьютеров, gitignore и Git Kraken
+доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
+доп(casey): githowto -> 18. Удаление тега oops
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
+Note(casey): react, ???
+доп(casey): 
+
+
+
+Note(casey): vuejs, ???
+доп(casey): (диск E)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
+Note(casey): vue3, ???
+доп(casey):  (диск E)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
+
+Note(casey): angular, ???
+доп(casey): 
+
+Note(casey): typescript, ???
+доп(casey): 
+
+
+Note(casey): electron.js, ???
+доп(casey): 
+
+
+
+
+
+
+
+Note(casey): javascript metanit.com, ???
+доп(casey): начинать когда окончательно изучу javascript, анал. для остальных; 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+javascript YT:
+Владилен Минин
+Note(casey): ??? (источник)
+доп(casey):
+
+
+
+Note(casey): react metanit.com, ???
+доп(casey): 
+
+
+
+Note(casey): vuejs metanit.com, ???
+доп(casey):
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
+Note(casey): vue3 metanit.com, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+Vue YT:
+JavaScript.Ninja
+Note(casey): Обзор курса по Vue.js 3 (автор: Владилен Минин) от Ильи Климова
+доп(casey): 
+
+
+
+
+
+Note(casey): angularJS metanit.com, ???
+доп(casey): 
+
+Note(casey): angular metanit.com, ???
+доп(casey): 
+
+
+Note(casey): typescript metanit.com, ???
+доп(casey): 
+
+
+
+
+Note(casey): jquery metanit.com, ???
+доп(casey):
+
+Note(casey): webGL metanit.com, ???
+доп(casey):
+
+Note(casey): D3.js metanit.com, ???
+доп(casey):
+
+
+
+nodejs:
+ 
+deno  ? node.js
+
+Note(casey): nodejs, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): nodejs metanit.com, ???
+доп(casey):
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+Nodejs YT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. python(tcp-ip, linux)
+Note(casey): Python\python metanit.com\Глава 3. Списки, кортежи и словари\Списки
+доп(casey): 
+
+LINUX
+Note(casey): ravesli linux, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+Note(casey): Проекты, ???
+доп(casey):
+
+linux YT:
+
+
+
+YT хирьянов
+Note(casey): 2020 Практика программирования на Python 3, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+Note(casey): 2021 Анализ данных на Python, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+->Online курс “Python для сетевых инженеров”(диск D Open PyNEng)
+->Online курс “Python для сетевых инженеров”(YOUTUBE_CONTINUE)
+
+Note(casey): Проекты, ???
+доп(casey):
+
+Python YT:
+Хирьянов Python
+Note(casey): ??? (источник)
+доп(casey):
+
+Олег Шпагин Изучаем мир ИТ(MOBILE DEVELOPMENT)
+Note(casey): ??? (источник)
+доп(casey):
+
+Python Simplified
+Note(casey): ??? (источник)
+доп(casey):
+
+Aleksa Tamburkovski
+Note(casey): ??? (источник)
+доп(casey):
+
+
+TCP-IP
+Note(casey): Модель OSI и стек протоколов TCP-IP, ???
+доп(casey): (диск E)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+Note(casey): Проекты, ???
+доп(casey):
+
+TCP-IP YT:
+
+
+
+
+
+->python + django metanit.com
+->python + django
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+Python django YT:
+
+
+->YT bots
+Note(casey): Проекты, ???
+доп(casey):
+
+->AI(artificial intelligence)!!!!!!!!!!!!!!
+Note(casey): Проекты, ???
+доп(casey):
+
+
+->YT hackING:D
+Note(casey): Проекты, ???
+доп(casey):
+
+
+
+
+php
+Note(casey): metanit.com php, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+PHP YT:
+
+
+
+
+->ruby ruby on rails(
+Build AirBnb with Ruby on Rails, Bootstrap, jQuery and PayPal
+https://rutracker.net/forum/viewtopic.php?t=5480635), 
+->goLang(https://metanit.com/go/), 
+->rust(https://metanit.com/rust/tutorial/
+Learn Rust by Building Real Applications:
+https://rutracker.net/forum/viewtopic.php?t=5920339)
+
+
+
+Note(casey): web 2021
+https://www.youtube.com/watch?v=VfGW0Qiy2I0
+
+-----------------------------------------------------------------------------
+
+17:00 - FIZRA
+
+-----------------------------------------------------------------------------
+EXTRA:
+5:30, 13:30
+
+7. C#
+
+Note(casey): Сергей C#, ???
+доп(casey): не забыть про него
+
+
+
+C# -> unity;
+Note(casey): C# tutorials\С#\c# metanit.com .NET\Глава 3. Классы. Объектно-ориентированное программирование\Классы и объекты
+доп(casey): Виртуальные методы и свойства
+доп(casey): Модуль 21. Классы и объекты в языке программирования C#
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+
+
+{
+Note(casey): metanit.com Windows Forms, Глава 4. Элементы управления, ListBox
+доп(casey):
+
+Note(casey): graphics c#, ???
+доп(casey): 
+}
+
+
+
+
+Note(casey): metanit.com Паттерны проектирования, ???
+доп(casey):
+
+
+
+
+{
+Note(casey): metanit.com ado.net работа с базами данных, ???
+доп(casey):
+
+
+Note(casey): с# ado.net работа с базами данных, ???
+доп(casey):
+}
+
+
+
+
+
+
+
+
+C# unity;
+Note(casey): Creating Portalethium, Creating Portalethium Part 1 Modeling Modular Game Assets in Blender 2.78, 01 - Modeling, 00. Introduction
+доп(casey): диск E
+
+Note(casey): Creating Portalethium, Creating Portalethium Part 2: Level Design with Modular Assets in Unity, Building a Modular Level, 00. Introduction
+доп(casey): диск Е
+
+Note(casey): Creating Portalethium, Creating Portalethium Part 3: Developing a Tower Defense Game in Unity, 00 - Setup, 00. Developing a Tower Defense Game
+доп(casey): диск Е
+
+Note(casey): Udemy - Unity Game Development Academy Make 2D & 3D Games, Section 1 Intro to Unity course, 07. How to access community & chat in this Unity 3D course
+доп(casey): диск E 
+доп(casey): Monobehaviour
+
+Note(casey): Udemy - Learn to Code by Making Games - The Complete Unity Developer, 01 Introduction And Setup, 001 Promo Video  Games List
+доп(casey): диск E 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+Unity YT:
+
+sebastian lauge
+Note(casey): ???
+доп(casey):
+
+EmeraldPowder
+Note(casey): ???
+доп(casey):
+
+Note(casey): Single Sapling Games
+Note(casey): ???
+доп(casey): https://www.youtube.com/channel/UCbvf5o21cb0Ra9pdpkogHYA
+
+
+
+
+
+
+
+{
+Note(casey): metanit.com Руководство по ASP.NET Core 5, ???
+доп(casey):
+
+Note(casey): c# asp.net, ???
+доп(casey):
+
+Note(casey): metanit.com c# Сетевое программирование в С# и .NET, ???
+доп(casey):
+
+Note(casey): metanit.com c# wpf, ???
+доп(casey):
+
+Note(casey): metanit.com c# Entity Framework Core, ???
+доп(casey):
+}
+
+
+Note(casey): Проекты, ???
+доп(casey):
+C# YT:
+
+
+
+8. C++
+
+->???? C++/C -> UE;
+Note(casey): С++ tutorials\С++\C++ ravesli уроки\ООП С++\Глава №13. Шаблоны в C++\итог тест 13
+доп(casey): посмотреть сортировки на листиках
+доп(casey): итог тест 11
+доп(casey): 180 зачем наследовать что-то ((( разобраться
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+Note(casey): ravesli openGL, Глава №0. Начало работы с OpenGL, Урок №1. Введение в OpenGL
+доп(casey):
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): ravesli prakticheskie zadaniya, ???
+доп(casey): первая половина
+
+
+Note(casey): ravesli sfml, ???
+доп(casey):
+
+
+Note(casey): ravesli prakticheskie zadaniya, ???
+доп(casey): вторая половина
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+C++ YT:
+
+
+
+С++ Unreal Engine;
+Note(casey): Learning C++ by Creating Games with Unreal Engine 4, 01. Setting Up Visual Studio for Windows, 01 - The Course Overview
+доп(casey): диск E: Packt Publishing – Learning C++ by Creating Games with Unreal Engine 4
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+Unreal Engine YT:
+
+Stylized Station
+Note(casey): You HAVE to learn Unreal Engine
+доп(casey): 
+
+Cyberstars - How to create a game
+Note(casey): Unreal Engine 5 Подробно о Nanite - Прорывная технология будущего в UE5
+доп(casey): 
+
+-----------------------------------------------------------------
+
+9. REST:
+
+Note(casey): ранобэ, (хан сяяяяо)
+доп(casey):
+
+Note(casey): манга, (domekano перечитать:D, тайные желания отвергнутых)
+доп(casey):
+
+Note(casey): книга по психологии, ??
+доп(casey):
+
+Note(casey): аниме, (jojo, april lies, токийские мстители, волейбол)
+доп(casey):
+
+
+
+Note(casey): toples
+доп(casey):
+
+Note(casey): utopia show 
+доп(casey):
+
+Note(casey): ЮРИСТ
+доп(casey):
+
+Note(casey): Валакас
+доп(casey):
+
+Note(casey): SHAPKA
+доп(casey):
+
+Note(casey): Maddy MURK
+доп(casey):
+
+Note(casey): ROZEN
+доп(casey):
+
+Note(casey): slidan
+доп(casey):
+
+Note(casey): Россия23
+доп(casey):
+
+Note(casey): xQcL
+доп(casey):
+
+Note(casey): forsen
+доп(casey):
+
+Note(casey): azazlo
+доп(casey):
+
+Note(casey): QCH
+доп(casey):
+
+Note(casey): kinkstou
+доп(casey):
+
+Note(casey): FranzJ
+доп(casey):
+
+Note(casey): Bozzeh
+доп(casey):
+
+Note(casey): J utah
+доп(casey):
+
+Note(casey): Joma Tech
+доп(casey): Coding a whole web app ONLY using my Phone.
+доп(casey): Can you solve my favorite interview question? (math + cs)
+
+Note(casey): Better Ideas
+доп(casey):
+
+Note(casey): PURIJIT
+доп(casey):
+
+Note(casey): FlynnFlyTaggart
+доп(casey):
+
+Note(casey): Give my Oscar
+доп(casey):
+
+мб осу????
+
+
+
+
+
+
+sony vegas pro
+Note(casey): Название курса, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, svp playlist, 3d tracking 
+доп(casey):
+
+
+Note(casey): Проекты, minecraftparasha.veg домонтировать
+доп(casey): 64 bit, 32 bit, 16bit, glitch effects, jojo orchestral, naruto peaceful songs, matrix :D;
+доп(casey): competible(Frankz) попробовать повт. что-нибудь с того видоса
+доп(casey): голосование тундц
+доп(casey): devilcrybaby song etc.
+доп(casey): new blue fx download
+
+
+Note(casey): Проекты, iv.veg
+доп(casey): 
+
+Note(casey): Проекты, свин
+доп(casey): 
+
+sony vegas pro YT:
+
+LaNNeR
+Note(casey): Туториал 2021 LaNNeR
+доп(casey):
+Note(casey): КАК сделать ЗВУКОВЫЕ ЭФФЕКТЫ для МУВИКА CSGO
+доп(casey):
+
+
+
+
+
+
+
+
+
+
+
+after effects(гибр. && ae tutorials);
+Note(casey): Adobe After Effects. Базовый уровень. Гибридный курс\Занятие №01\2-4
+доп(casey): диск E: [Никита Чесноков] Adobe After Effects. Базовый уровень. Гибридный курс (2020)
+
+Note(casey): YOUTUBE, ( epilepsy warning ) shakes tutorial after effects #1(voengi)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+after effects YT:
+
+leolide
+Note(casey): (источник)
+доп(casey):
+
+Jarxdd
+Note(casey): Smooth Position Shake After Effects AMV Tutorial
+доп(casey):
+
+
+
+
+
+
+
+
+
+
+othershit(ai(Диск E), sai(диск Е), adobe flash pro, леттеринг(диск D)); 
+
+illustrator
+Note(casey): Курс по рисованию векторных иллюстраций\1. Работа с пером\1. Интерфейс Adobe Illustrator
+доп(casey): диск E: risovan.vektor.ill
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+illustrator YT:
+
+Atlantis
+Note(casey): Универсальная техника рисования в Adobe Illustrator
+доп(casey):
+
+
+
+
+
+
+
+
+
+sai
+Note(casey): new art school\1. Введение\1
+доп(casey): диск Е: newartschool sketching
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+sai YT:
+
+
+
+
+
+
+
+
+
+adobe flash pro
+Note(casey): Adobe Flash Professional CS6 Essential\01. Understanding the Flash CS6 Interface\00. Introduction Understanding the Flash CS6 Interface
+доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+adobe flash pro YT:
+
+
+
+
+
+
+
+леттеринг
+Note(casey): Делай лого\Урок1\Урок 1 Теория
+доп(casey): диск D: delai.logo
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+леттеринг YT:
+
+
+
+
+
+
+photoshop
+Note(casey): ???
+доп(casey): диск D: ???
+
+Note(casey): YOUTUBE, Photoshop for Beginners | FREE COURSE(Envato Tuts+)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+photoshop YT:
+
+
+
+
+beats
+Note(casey): Название курса, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
+доп(casey):
+
+Note(casey): YOUTUBE, HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN GANG)(Cash Global Records)
+доп(casey):
+
+
+Note(casey): Проекты, название проекта
+доп(casey): 
+
+beats YT:
+
+
+
+
+
+
+
+
+
+
+3D(Blender);
+Note(casey): Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners\Chapter 3 - Animation and Final Rendering\7-11
+доп(casey): 07. Animating your Rocket
+доп(casey): посмотреть gumroad, Creative Shrimp, Learn Squared, Blender Cloud
+доп(casey): environment досмотреть чо то переделать
+доп(casey): диск D: CGCookie - Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners by Grant Wilk (2019)
+
+Note(casey): YOUTUBE, Beginner Blender Intraduction Tutorial (Your first render!)(intranetgirl)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+3D Blender YT:
+
+CG GEEK
+Note(casey): ???
+доп(casey): check explosion
+
+
+Andrew Florya
+Note(casey): ???
+доп(casey):
+
+
+William Landgren
+Note(casey): ???
+доп(casey): 
+
+blender playlist
+Note(casey): ???
+доп(casey): 
+
+pwnisher
+Note(casey): ???
+доп(casey): 
+
+
+
+
+
+
+
+
+3D(Houdini);
+Note(casey): [Online VFX] Houdini 3D Artist [2018, RUS]\Block 1\1\3D17_OVFX_0101_29_09_01(время)
+доп(casey): расписать всех челиков по houdini;
+доп(casey): диск D: OnlineVFX_Houdini_Artist
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+3D Houdini YT:
+
+------------------------------------------------------------
+стенка + турник + палка + ваакум(турник) + растяжка широчайших мышц + жопа
+nihon, english по очереди, 5 minutes keyboard;
+
+
+13:30 - EXTRA C#
+17:30 - EXTRA C++
+20:00 - FIZRA
+21:30 - MAIN javascript
+1:30 - EXTRA C#
+5:30 - MAIN python
+9:30 - MAIN sql
+ 
+
+
+
+REST - когда заебусь на денек можно, а именно
+{
+  13:30 - sony vegas, ae, othershit (sony vegas pro)
+  17:30 - sony vegas, ae, othershit (sony vegas pro)
+  20:00 - FIZRA
+  21:30 - anime, ranobe, kniga, manga, toples, utopia, shapka, Maddy MURK (свин)
+  1:30  - (anime)UNIVERSITY (filosofiya)
+  5:30  - 3D blender, 3D houdini (blender)
+  9:30  - 3D blender, 3D houdini (blender)
+}   
+
+-------------------------------------------------------------------------------
+стенка + турник + палка + ваакум(турник) + растяжка широчайших мышц + жопа
+nihon, english по очереди, 5 minutes keyboard;
+
+
+по учебе:
+13:30 - UNIVERSITY(MAIN) java 
+17:30 - UNIVERSITY(EXTRA) javascript 
+20:00 - FIZRA
+21:30 - MAIN sql
+1:30 - EXTRA C#
+5:30 - учеба(MAIN)	
+9:30 - учеба(EXTRA)
+
+
+на выходных:
+13:30 - EXTRA C++
+17:30 - EXTRA java
+20:00 - FIZRA
+21:30 - UNIVERSITY(MAIN) java
+1:30 - UNIVERSITY(EXTRA) javascript
+5:30 - MAIN css
+9:30 - MAIN css YT
+
+
+
+REST - когда заебусь на денек можно, а именно
+{
+  13:30 - sony vegas, ae, othershit (sony vegas pro)
+  17:30 - sony vegas, ae, othershit (sony vegas pro)
+  20:00 - FIZRA
+  21:30 - anime, ranobe, kniga, manga, toples, utopia, shapka, Maddy MURK (свин)
+  1:30  - (anime)UNIVERSITY (filosofiya)
+  5:30  - 3D blender, 3D houdini (blender)
+  9:30  - 3D blender, 3D houdini (blender)
+}   
+
+------------------------------------------------------------------------------
+СЛОЖНОЕ БЛИН:
