@@ -1364,6 +1364,9 @@ Note(casey): YOUTUBE, ???(???)
 Note(casey): react, ???
 доп(casey): 
 
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
 
 
 Note(casey): vuejs, ???
@@ -1413,14 +1416,26 @@ javascript YT:
 Note(casey): JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020] (источник)
 доп(casey):
 
-Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React, Node) (источник)
-доп(casey):
+
 
 
 
 
 Note(casey): react metanit.com, ???
 доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+react YT:
+Владилен Минин
+Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React, Node) (источник)
+доп(casey):
+
+
 
 
 
