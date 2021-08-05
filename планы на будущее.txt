@@ -1357,7 +1357,7 @@ Note(casey): YT channels\Bedimcode\Responsive Personal Portfolio Website Using H
 
 Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\011 Как работать с GitHub с разных компьютеров, gitignore и Git Kraken
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
-доп(casey): githowto -> 18. Удаление тега oops;
+доп(casey): githowto -> 18. Удаление тега oops; заново пройти))
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
