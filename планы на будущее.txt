@@ -386,17 +386,6 @@ books:
 YOUTUBE links(flutter/dart):
 
 
-https://icons8.com/illustrations
-
-https://www.vecteezy.com/
-
-https://www.canva.com/
-
-
-
-
-
-
 YOUTUBE links(react native):
 
 
@@ -1216,6 +1205,15 @@ Note(casey): flutter_dart\[Udemy.com  Angela Yu] The Complete 2020 Flutter Devel
 доп(casey): 4. How to use Column & Row Widgets for Layout
 доп(casey): попробовать сделать робота в flutter/dart
 доп(casey): gradient: SweepGradient
+доп(casey):
+	https://icons8.com/illustrations
+	https://www.vecteezy.com/
+	https://www.canva.com/
+
+
+
+
+
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
@@ -2202,13 +2200,13 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
-13:30 - EXTRA C++
-17:30 - EXTRA C#
+13:30 - EXTRA C#
+17:30 - EXTRA C++
 20:00 - FIZRA
-21:30 - MAIN javascript
-1:30 - EXTRA C++
-5:30 - MAIN python
-9:30 - MAIN sql
+21:30 - MAIN python
+1:30 - EXTRA C#
+5:30 - MAIN sql
+9:30 - MAIN mobile
  
 
 
