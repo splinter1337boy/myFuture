@@ -1269,6 +1269,9 @@ Note(casey): Проекты, ???
 доп(casey):
 
 react native YT:
+Владилен Минин
+Note(casey): Курс React Native. Пишем Мобильное Приложение на JavaScript (источник)
+доп(casey):
 
 
 
