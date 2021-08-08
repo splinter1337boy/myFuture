@@ -2222,8 +2222,9 @@ REST - когда заебусь на денек можно, а именно
   20:00 - FIZRA
   21:30 - anime, ranobe, kniga, manga, toples, utopia, shapka, Maddy MURK (свин)
   1:30  - (anime)UNIVERSITY (filosofiya)
-  5:30  - 3D blender, 3D houdini (blender)
-  9:30  - 3D blender, 3D houdini (blender)
+  4:30  - sleep
+  7:00  - 3D blender, 3D houdini (blender)
+  10:00 - 3D blender, 3D houdini (blender)
 }   
 
 -------------------------------------------------------------------------------
@@ -2259,9 +2260,10 @@ REST - когда заебусь на денек можно, а именно
   20:00 - FIZRA
   21:30 - anime, ranobe, kniga, manga, toples, utopia, shapka, Maddy MURK (свин)
   1:30  - (anime)UNIVERSITY (filosofiya)
-  5:30  - 3D blender, 3D houdini (blender)
-  9:30  - 3D blender, 3D houdini (blender)
-}   
+  4:30  - sleep
+  7:00  - 3D blender, 3D houdini (blender)
+  10:00 - 3D blender, 3D houdini (blender)
+}    
 
 ------------------------------------------------------------------------------
 —Ћќ∆Ќќ≈ ЅЋ»Ќ:
