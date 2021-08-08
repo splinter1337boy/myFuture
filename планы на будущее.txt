@@ -2217,14 +2217,14 @@ nihon, english по очереди, 5 minutes keyboard;
 
 REST - когда заебусь на денек можно, а именно
 {
-  13:30 - sony vegas, ae, othershit (sony vegas pro)
-  17:30 - sony vegas, ae, othershit (sony vegas pro)
+  13:30 - (sony vegas pro)
+  17:30 - (sony vegas pro)
   20:00 - FIZRA
-  21:30 - anime, ranobe, kniga, manga, toples, utopia, shapka, Maddy MURK (свин)
-  1:30  - (anime)UNIVERSITY (filosofiya)
+  21:30 - (свин)
+  1:30  - (razvlechenie)UNIVERSITY (filosofiya)
   4:30  - sleep
-  7:00  - 3D blender, 3D houdini (blender)
-  10:00 - 3D blender, 3D houdini (blender)
+  7:00  - (blender)
+  10:00 - (blender)
 }   
 
 -------------------------------------------------------------------------------
@@ -2233,38 +2233,38 @@ nihon, english по очереди, 5 minutes keyboard;
 
 
 по учебе:
-13:30 - UNIVERSITY(MAIN)
-17:30 - UNIVERSITY(EXTRA) 
+13:30 - UNIVERSITY(MAIN) java
+17:30 - UNIVERSITY(EXTRA) javascript
 20:00 - FIZRA
-21:30 - MAIN 
-0:30 - EXTRA 
+21:30 - MAIN sql
+0:30 - EXTRA C#
 3:30 - sleep
-6:00 - учеба(MAIN)	
-10:00 - учеба(EXTRA)
+6:00 - учеба(MAIN) mobile	
+10:00 - учеба(EXTRA) C++
 
 
 на выходных:
-13:30 - EXTRA 
-17:30 - MAIN
+13:30 - EXTRA C#
+17:30 - MAIN sql
 20:00 - FIZRA
-21:30 - UNIVERSITY(EXTRA) 
-0:30 - UNIVERSITY(MAIN) 
+21:30 - UNIVERSITY(EXTRA) java
+0:30 - UNIVERSITY(MAIN) javascript
 3:30 - sleep
-6:00 - MAIN 
-10:00 - EXTRA 
+6:00 - MAIN mobile
+10:00 - EXTRA C++
 
 
 
 REST - когда заебусь на денек можно, а именно
 {
-  13:30 - sony vegas, ae, othershit (sony vegas pro)
-  17:30 - sony vegas, ae, othershit (sony vegas pro)
+  13:30 - (sony vegas pro)
+  17:30 - (sony vegas pro)
   20:00 - FIZRA
-  21:30 - anime, ranobe, kniga, manga, toples, utopia, shapka, Maddy MURK (свин)
-  0:30  - (anime)UNIVERSITY (filosofiya)
+  21:30 - (свин)
+  0:30  - (razvlechenie)UNIVERSITY (filosofiya)
   3:30  - sleep
-  6:00  - 3D blender, 3D houdini (blender)
-  10:00 - 3D blender, 3D houdini (blender)
+  6:00  - (blender)
+  10:00 - (blender)
 }    
 
 ------------------------------------------------------------------------------
