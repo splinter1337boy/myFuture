@@ -2220,7 +2220,7 @@ REST - когда заебусь на денек можно, а именно
   13:30 - (sony vegas pro)
   17:30 - (sony vegas pro)
   20:00 - FIZRA
-  21:30 - (свин)
+  21:30 - (razvlechenie)
   1:30  - (razvlechenie)UNIVERSITY (filosofiya)
   4:30  - sleep
   7:00  - (blender)
@@ -2260,7 +2260,7 @@ REST - когда заебусь на денек можно, а именно
   13:30 - (sony vegas pro)
   17:30 - (sony vegas pro)
   20:00 - FIZRA
-  21:30 - (свин)
+  21:30 - (razvlechenie)
   0:30  - (razvlechenie)UNIVERSITY (filosofiya)
   3:30  - sleep
   6:00  - (blender)
