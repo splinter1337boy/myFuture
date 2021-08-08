@@ -2233,23 +2233,25 @@ nihon, english по очереди, 5 minutes keyboard;
 
 
 по учебе:
-13:30 - UNIVERSITY(MAIN) java 
-17:30 - UNIVERSITY(EXTRA) javascript 
+13:30 - UNIVERSITY(MAIN)
+17:30 - UNIVERSITY(EXTRA) 
 20:00 - FIZRA
-21:30 - MAIN sql
-1:30 - EXTRA C#
-5:30 - учеба(MAIN)	
-9:30 - учеба(EXTRA)
+21:30 - MAIN 
+0:30 - EXTRA 
+3:30 - sleep
+6:00 - учеба(MAIN)	
+10:00 - учеба(EXTRA)
 
 
 на выходных:
-13:30 - EXTRA C++
-17:30 - EXTRA java
+13:30 - EXTRA 
+17:30 - MAIN
 20:00 - FIZRA
-21:30 - UNIVERSITY(MAIN) java
-1:30 - UNIVERSITY(EXTRA) javascript
-5:30 - MAIN css
-9:30 - MAIN css YT
+21:30 - UNIVERSITY(EXTRA) 
+0:30 - UNIVERSITY(MAIN) 
+3:30 - sleep
+6:00 - MAIN 
+10:00 - EXTRA 
 
 
 
@@ -2259,9 +2261,9 @@ REST - когда заебусь на денек можно, а именно
   17:30 - sony vegas, ae, othershit (sony vegas pro)
   20:00 - FIZRA
   21:30 - anime, ranobe, kniga, manga, toples, utopia, shapka, Maddy MURK (свин)
-  1:30  - (anime)UNIVERSITY (filosofiya)
-  4:30  - sleep
-  7:00  - 3D blender, 3D houdini (blender)
+  0:30  - (anime)UNIVERSITY (filosofiya)
+  3:30  - sleep
+  6:00  - 3D blender, 3D houdini (blender)
   10:00 - 3D blender, 3D houdini (blender)
 }    
 
