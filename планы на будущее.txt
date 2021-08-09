@@ -1366,7 +1366,7 @@ Note(casey): YT channels\Bedimcode\Responsive Personal Portfolio Website Using H
 
 Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\011 Как работать с GitHub с разных компьютеров, gitignore и Git Kraken
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
-доп(casey): githowto -> 29. Создание конфликта;
+доп(casey): githowto -> 30. Разрешение конфликтов;
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
