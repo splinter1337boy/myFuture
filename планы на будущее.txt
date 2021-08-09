@@ -2207,9 +2207,9 @@ nihon, english по очереди, 5 minutes keyboard;
 17:30 - MAIN javascript
 20:00 - FIZRA
 21:30 - MAIN python
-1:30 - UNIVERSITY (filosofiya)
-4:30 - sleep
-7:00 - MAIN sql
+0:30 - UNIVERSITY (filosofiya)
+3:30 - sleep
+6:00 - MAIN sql
 10:00 - EXTRA C++
  
 
@@ -2221,9 +2221,9 @@ REST - когда заебусь на денек можно, а именно
   17:30 - (sony vegas pro)
   20:00 - FIZRA
   21:30 - (razvlechenie)
-  1:30  - (razvlechenie)UNIVERSITY (filosofiya)
-  4:30  - sleep
-  7:00  - (blender)
+  0:30  - (razvlechenie)UNIVERSITY (filosofiya)
+  3:30  - sleep
+  6:00  - (blender)
   10:00 - (blender)
 }   
 
