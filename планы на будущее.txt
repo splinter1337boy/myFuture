@@ -1075,6 +1075,7 @@ https://rutracker.net/forum/viewtopic.php?t=5962944
 Note(casey): postgreSQL\SQL and PostgreSQL The Complete Developer s Guide\85-97
 доп(casey): диск D: SQL and PostgreSQL The Complete Developer's Guide
 доп(casey): sql metanit.com - параллельно делать c postgreSQL [Илья Фофанов]
+доп(casey): 95
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
