@@ -1295,7 +1295,7 @@ Note(casey): Курс React Native. Пишем Мобильное Приложение на JavaScript (источн
 
 3. css
 
-Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\21. Создание формы регистрации
+Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\22. Позиционирование
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 доп(casey): freecodecamp penguin
 доп(casey): flexfrog!!!! proiti
