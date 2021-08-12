@@ -1321,7 +1321,7 @@ Note(casey): Проекты, ???
 
 {
 dark code
-Note(casey): YT channels\darkCode\Build a responsive personal website\Build a responsive personal website - Education & Works Sections
+Note(casey): css_YOUTUBE\YT channels\darkCode\Build a responsive personal website\Build a responsive personal website - Contact & Footer
 доп(casey):
 
 online tutorials
@@ -1346,7 +1346,7 @@ Note(casey): ??? (источник)
 
 
 Bedimcode
-Note(casey): YT channels\Bedimcode\Responsive Personal Portfolio Website Using HTML CSS And JavaScript  DarkLight Mode
+Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Website Using HTML CSS And JavaScript  DarkLight Mode
 доп(casey):
 }
 
