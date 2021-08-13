@@ -2207,11 +2207,11 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
-13:30 - EXTRA C++
-17:30 - MAIN mobile
+13:30 - EXTRA 
+17:30 - MAIN 
 20:00 - FIZRA
-21:30 - MAIN
-0:30 - UNIVERSITY filosofiya
+21:30 - MAIN 
+0:30 - UNIVERSITY 
 3:30 - sleep
 6:00 - MAIN sql
 10:00 - EXTRA C#
