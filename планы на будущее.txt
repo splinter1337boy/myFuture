@@ -1016,6 +1016,8 @@ Blender Cloud
 YOUTUBE links(Blender):
 Beginner Blender Intraduction Tutorial (Your first render!):
 https://www.youtube.com/watch?v=iXOgG0m7fn8&ab_channel=intranetgirl
+Easy Satisfying Animation in Blender (Blender Tutorial):
+https://www.youtube.com/watch?v=6zcpOrg8Vqs&ab_channel=CGCookie
 
 -----------------------------------------------------------
 
