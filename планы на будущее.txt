@@ -2206,14 +2206,14 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
-13:30 - EXTRA C#
-17:30 - MAIN python
+13:30 - EXTRA C++
+17:30 - MAIN mobile
 20:00 - FIZRA
-21:30 - MAIN sql
+21:30 - MAIN css
 0:30 - UNIVERSITY filosofiya
 3:30 - sleep
-6:00 - MAIN mobile
-10:00 - EXTRA C++
+6:00 - MAIN sql/css YT
+10:00 - EXTRA C#
  
 
 
