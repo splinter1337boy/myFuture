@@ -2210,10 +2210,10 @@ nihon, english по очереди, 5 minutes keyboard;
 13:30 - EXTRA C++
 17:30 - MAIN mobile
 20:00 - FIZRA
-21:30 - MAIN sony/css
+21:30 - MAIN sony
 0:30 - UNIVERSITY filosofiya
 3:30 - sleep
-6:00 - MAIN sql/css YT
+6:00 - MAIN sql
 10:00 - EXTRA C#
  
 
