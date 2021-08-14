@@ -2210,7 +2210,7 @@ nihon, english по очереди, 5 minutes keyboard;
 17:30 - MAIN
 20:00 - FIZRA
 21:30 - MAIN 
-0:30 - UNIVERSITY 
+0:30 - UNIVERSITY(EXTRA)
 3:30 - sleep
 6:00 - MAIN
 10:00 - EXTRA
