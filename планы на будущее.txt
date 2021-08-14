@@ -2207,12 +2207,12 @@ nihon, english по очереди, 5 minutes keyboard;
 
 
 13:30 - EXTRA 
-17:30 - MAIN 
+17:30 - MAIN sql 
 20:00 - FIZRA
 21:30 - MAIN 
 0:30 - UNIVERSITY 
 3:30 - sleep
-6:00 - MAIN sql
+6:00 - MAIN
 10:00 - EXTRA C#
  
 
