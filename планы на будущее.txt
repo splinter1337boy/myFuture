@@ -2221,10 +2221,10 @@ nihon, english по очереди, 5 minutes keyboard;
 REST - когда заебусь на денек можно, а именно
 {
   13:30 - MONTAGE
-  17:30 - MONTAGE sony vegas
+  17:30 - MONTAGE
   20:00 - FIZRA
-  21:30 - RAZVLECHENIE nikita
-  0:30  - UNIVERSITY  (RAZVLECHENIE)
+  21:30 - RAZVLECHENIE
+  0:30  - UNIVERSITY(RAZVLECHENIE)
   3:30  - sleep
   6:00  - 3D 
   10:00 - 3D 
@@ -2260,11 +2260,11 @@ nihon, english по очереди, 5 minutes keyboard;
 
 REST - когда заебусь на денек можно, а именно
 {
-  13:30 - MONTAGE 
-  17:30 - MONTAGE 
+  13:30 - MONTAGE
+  17:30 - MONTAGE
   20:00 - FIZRA
-  21:30 - RAZVLECHENIE 
-  0:30  - UNIVERSITY  (RAZVLECHENIE)
+  21:30 - RAZVLECHENIE
+  0:30  - UNIVERSITY(RAZVLECHENIE)
   3:30  - sleep
   6:00  - 3D 
   10:00 - 3D 
