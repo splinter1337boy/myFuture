@@ -2206,8 +2206,8 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
-13:30 - EXTRA 
-17:30 - MAIN sql 
+13:30 - EXTRA
+17:30 - MAIN
 20:00 - FIZRA
 21:30 - MAIN 
 0:30 - UNIVERSITY 
