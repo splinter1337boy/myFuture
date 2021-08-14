@@ -2220,7 +2220,7 @@ nihon, english по очереди, 5 minutes keyboard;
 
 REST - когда заебусь на денек можно, а именно
 {
-  13:30 - MONTAGE sony vegas
+  13:30 - MONTAGE
   17:30 - MONTAGE sony vegas
   20:00 - FIZRA
   21:30 - RAZVLECHENIE nikita
