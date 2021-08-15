@@ -2142,8 +2142,7 @@ beats YT:
 
 
 3D(Blender);
-Note(casey): Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners\Chapter 3 - Animation and Final Rendering\7-11
-доп(casey): 07. Animating your Rocket
+Note(casey): Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners\Chapter 3 - Animation and Final Rendering\7
 доп(casey): посмотреть gumroad, Creative Shrimp, Learn Squared, Blender Cloud
 доп(casey): environment досмотреть чо то переделать
 доп(casey): диск D: CGCookie - Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners by Grant Wilk (2019)
