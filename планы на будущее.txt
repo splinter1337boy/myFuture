@@ -1298,7 +1298,8 @@ Note(casey): Курс React Native. Пишем Мобильное Приложение на JavaScript (источн
 
 Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\22. Позиционирование
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
-доп(casey): freecodecamp penguin/mb proiti :D
+доп(casey): freecodecamp penguin
+доп(casey): freecodecamp css
 доп(casey): flexfrog!!!! proiti
 
 Note(casey): YOUTUBE, Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии (Фрилансер по жизни)
