@@ -1074,7 +1074,7 @@ SQL and PostgreSQL The Complete Developer s Guide:(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5962944
 
 
-Note(casey): postgreSQL\SQL and PostgreSQL The Complete Developer s Guide\98
+Note(casey): postgreSQL\SQL and PostgreSQL The Complete Developer s Guide\98-99
 доп(casey): диск D: SQL and PostgreSQL The Complete Developer's Guide
 
 
