@@ -2211,11 +2211,11 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
-13:30 - EXTRA
-17:30 - MAIN
+13:30 - MAIN
+17:30 - EXTRA
 20:00 - FIZRA
-21:30 - MAIN 
-0:30 - UNIVERSITY(EXTRA)
+21:30 - RAZVLECHENIE
+0:30 - UNIVERSITY(MAIN)
 3:30 - sleep
 6:00 - MAIN
 10:00 - EXTRA
@@ -2244,22 +2244,22 @@ nihon, english по очереди, 5 minutes keyboard;
 13:30 - UNIVERSITY(MAIN)
 17:30 - UNIVERSITY(EXTRA)
 20:00 - FIZRA
-21:30 - MAIN
-0:30 - EXTRA
+21:30 - MAIN(RAZVLECHENIE)
+0:30 - EXTRA(UNIVERSITY(MAIN))
 3:30 - sleep
 6:00 - учеба(MAIN)	
 10:00 - учеба(EXTRA)
 
 
 на выходных:
-13:30 - EXTRA
-17:30 - MAIN 
+13:30 - MAIN
+17:30 - EXTRA
 20:00 - FIZRA
-21:30 - UNIVERSITY(EXTRA)
+21:30 - RAZVLECHENIE
 0:30 - UNIVERSITY(MAIN)
 3:30 - sleep
-6:00 - MAIN 
-10:00 - EXTRA 
+6:00 - MAIN
+10:00 - EXTRA
 
 
 
