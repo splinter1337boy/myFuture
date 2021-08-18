@@ -2243,14 +2243,14 @@ nihon, english по очереди, 5 minutes keyboard;
 
 
 по учебе:
-13:30 - UNIVERSITY(MAIN)
-17:30 - UNIVERSITY(EXTRA)
-20:00 - FIZRA
-21:30 - MAIN(RAZVLECHENIE)
-0:30 - EXTRA(UNIVERSITY(MAIN))
-3:30 - sleep
-6:00 - учеба(MAIN)	
-10:00 - учеба(EXTRA)
+13:30 - UNIVERSITY		(MAIN)
+17:30 - UNIVERSITY		(EXTRA)
+20:00 - FIZRA			(FIZRA)
+21:30 - MAIN			(RAZVLECHENIE)
+0:30 - EXTRA			(UNIVERSITY(MAIN))
+3:30 - sleep			(sleep)
+6:00 - учеба			(MAIN)	
+10:00 - учеба			(EXTRA)
 
 
 на выходных:
