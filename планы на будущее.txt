@@ -1804,6 +1804,7 @@ C# YT:
 ->???? C++/C -> UE;
 Note(casey): С++ tutorials\С++\C++ ravesli уроки\ООП С++\Глава №14. Исключения в C++\181 
 доп(casey): итог тест 11
+доп(casey): ввода с клавиатуры;
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
