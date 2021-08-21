@@ -1892,6 +1892,9 @@ Note(casey): ЮРИСТ
 Note(casey): Валакас
 доп(casey):
 
+Note(casey): СЕРЕГА ПИРАТ 
+доп(casey):
+
 Note(casey): SHAPKA
 доп(casey):
 
