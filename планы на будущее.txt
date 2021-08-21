@@ -317,6 +317,16 @@ YOUTUBE links(nodejs):
 	https://www.youtube.com/playlist?list=PLQe4pvn2BjxAJNOQzUKdemXZV0-iahuyO
 	
 
+	kotlin(https://rutracker.net/forum/viewtopic.php?t=5978669)
+	metanit.com kotlin:
+	https://metanit.com/kotlin/tutorial/
+	
+books:
+	kotlin(https://rutracker.net/forum/viewtopic.php?t=5791946
+		https://rutracker.net/forum/viewtopic.php?t=5791949
+	)	
+	
+
 
 	React Native - The Practical Guide [2021 Edition]:(нету)
 	https://rutracker.net/forum/viewtopic.php?t=5874682
@@ -325,6 +335,24 @@ YOUTUBE links(nodejs):
 	react native:
 	https://rutracker.net/forum/viewtopic.php?t=5898336
 	
+
+	swift(https://rutracker.net/forum/viewtopic.php?t=5671536)
+	metanit.com swift:
+	https://metanit.com/swift/tutorial/
+
+
+
+	java android metanit.com:
+	https://metanit.com/java/android/
+	Android O & Java - Mobile App Development | Beginning to End
+	https://rutracker.net/forum/viewtopic.php?t=5483806
+
+
+	metanit.com c# xamarin:
+	https://metanit.com/sharp/xamarin/
+
+
+
 
 
 	Ionic:(нету)
@@ -353,30 +381,10 @@ YOUTUBE links(nodejs):
 
 
 
-	kotlin(https://rutracker.net/forum/viewtopic.php?t=5978669)
-	metanit.com kotlin:
-	https://metanit.com/kotlin/tutorial/
 	
-books:
-	kotlin(https://rutracker.net/forum/viewtopic.php?t=5791946
-		https://rutracker.net/forum/viewtopic.php?t=5791949
-	)	
-
-
-	swift(https://rutracker.net/forum/viewtopic.php?t=5671536)
-	metanit.com swift:
-	https://metanit.com/swift/tutorial/
 
 
 
-	java android metanit.com:
-	https://metanit.com/java/android/
-	Android O & Java - Mobile App Development | Beginning to End
-	https://rutracker.net/forum/viewtopic.php?t=5483806
-
-
-	metanit.com c# xamarin:
-	https://metanit.com/sharp/xamarin/
 
 
 
