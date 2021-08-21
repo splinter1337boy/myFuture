@@ -2236,7 +2236,7 @@ nihon, english по очереди, 5 minutes keyboard;
 17:30 - EXTRA
 20:00 - FIZRA
 21:30 - RAZVLECHENIE
-0:30 - UNIVERSITY(MAIN)
+0:30 - UNIVERSITY(MAIN/EXTRA)
 3:30 - sleep
 6:00 - MAIN
 10:00 - EXTRA
