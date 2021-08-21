@@ -1962,7 +1962,7 @@ Note(casey): Biteki
 доп(casey):
 
 Note(casey): Sergey Nemchinskiy
-доп(casey):
+доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
 
 GAMES:
 osu
