@@ -1328,7 +1328,7 @@ Note(casey): css_YOUTUBE\YT channels\darkCode\Build a responsive personal websit
 доп(casey):
 
 online tutorials
-Note(casey): Button Ripple Effect on Click Using CSS3 & Vanilla Javascript (источник)
+Note(casey): Parallax Scrolling Website | How to Make Website using Html CSS & Javascript (источник)
 доп(casey): 
 
 
