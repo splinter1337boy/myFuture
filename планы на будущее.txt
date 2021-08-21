@@ -336,12 +336,6 @@ books:
 	https://rutracker.net/forum/viewtopic.php?t=5898336
 	
 
-	swift(https://rutracker.net/forum/viewtopic.php?t=5671536)
-	metanit.com swift:
-	https://metanit.com/swift/tutorial/
-
-
-
 	java android metanit.com:
 	https://metanit.com/java/android/
 	Android O & Java - Mobile App Development | Beginning to End
@@ -352,9 +346,6 @@ books:
 	https://metanit.com/sharp/xamarin/
 
 
-
-
-
 	Ionic:(нету)
 	https://rutracker.net/forum/viewtopic.php?t=5910449
 
@@ -362,6 +353,12 @@ books:
 	https://rutracker.net/forum/viewtopic.php?t=5480837
 	
 
+
+	
+	swift(https://rutracker.net/forum/viewtopic.php?t=5671536)
+	metanit.com swift:
+	https://metanit.com/swift/tutorial/
+	
 
 
 	Brian Voong:
