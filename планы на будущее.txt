@@ -2233,26 +2233,14 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
-dlya resheniya s dolgami:
-13:30 - UNIVERSITY
-17:30 - UNIVERSITY
-20:00 - FIZRA
-21:30 - RAZVLECHENIE
-0:30 - MAIN/EXTRA
-3:30 - sleep
-6:00 - RAZVLECHENIE
-10:00 - MAIN/EXTRA
-
-
-
 13:30 - MAIN
 17:30 - EXTRA
 20:00 - FIZRA
 21:30 - RAZVLECHENIE
-0:30 - UNIVERSITY(MAIN)
+0:30 - UNIVERSITY(MAIN/EXTRA)
 3:30 - sleep
 6:00 - RAZVLECHENIE
-10:00 - EXTRA
+10:00 - MAIN/EXTRA
 
 
 
@@ -2266,10 +2254,8 @@ REST - когда заебусь на денек можно, а именно
   0:30  - UNIVERSITY(MONTAGE)
   3:30  - sleep
   6:00  - MONTAGE
-  10:00 - MONTAGE
+  10:00 - RAZVLECHENIE
 }   
-
-
 
 
 по учебе:
@@ -2281,6 +2267,18 @@ REST - когда заебусь на денек можно, а именно
 3:30 - sleep
 6:00 - учеба
 10:00 - учеба
+
+
+dlya resheniya s dolgami:
+13:30 - UNIVERSITY
+17:30 - UNIVERSITY
+20:00 - FIZRA
+21:30 - RAZVLECHENIE
+0:30 - MAIN/EXTRA
+3:30 - sleep
+6:00 - RAZVLECHENIE
+10:00 - MAIN/EXTRA
+
 
 
 ------------------------------------------------------------------------------
