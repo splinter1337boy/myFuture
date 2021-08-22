@@ -2232,14 +2232,26 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
+dlya resheniya s dolgami:
+13:30 - UNIVERSITY
+17:30 - UNIVERSITY
+20:00 - FIZRA
+21:30 - RAZVLECHENIE
+0:30 - MAIN/EXTRA
+3:30 - sleep
+6:00 - RAZVLECHENIE
+10:00 - MAIN/EXTRA
+
+
+
 13:30 - MAIN
 17:30 - EXTRA
 20:00 - FIZRA
 21:30 - RAZVLECHENIE
 0:30 - UNIVERSITY(MAIN/EXTRA)
 3:30 - sleep
-6:00 - MAIN
-10:00 - EXTRA
+6:00 - RAZVLECHENIE
+10:00 - MAIN/EXTRA
 
 
 
