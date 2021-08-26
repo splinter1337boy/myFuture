@@ -1210,9 +1210,8 @@ mongoDB YT:
 
 Note(casey): flutter_dart\[Udemy.com  Angela Yu] The Complete 2020 Flutter Development Bootcamp with Dart\6. MiCard - How to Build Beautiful UIs with Flutter Widgets
 доп(casey): диск D: [Udemy] The Complete 2020 Flutter Development Bootcamp with Dart (08.2020)
-доп(casey): 4. How to use Column & Row Widgets for Layout
+доп(casey): 6. Tapping into Widget Properties
 доп(casey): попробовать сделать робота в flutter/dart
-доп(casey): полностью пройти стандартную хрень + анимацию пройти))
 
 доп(casey):
 	https://icons8.com/illustrations
