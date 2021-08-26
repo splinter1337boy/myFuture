@@ -2086,20 +2086,21 @@ Note(casey): Универсальная техника рисования в Adobe Illustrator
 
 
 
-
-
-sai
-Note(casey): new art school\1. Введение\1
-доп(casey): диск Е: newartschool sketching
-
-Note(casey): YOUTUBE, ???(???)
+beats
+Note(casey): Название курса, ???
 доп(casey): 
 
-
-Note(casey): Проекты, ???
+Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
 доп(casey):
 
-sai YT:
+Note(casey): YOUTUBE, HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN GANG)(Cash Global Records)
+доп(casey):
+
+
+Note(casey): Проекты, название проекта
+доп(casey): 
+
+beats YT:
 
 
 
@@ -2126,6 +2127,46 @@ adobe flash pro YT:
 
 
 
+photoshop
+Note(casey): ???
+доп(casey): диск D: ???
+
+Note(casey): YOUTUBE, Photoshop for Beginners | FREE COURSE(Envato Tuts+)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+photoshop YT:
+
+
+
+
+
+
+
+
+
+sai
+Note(casey): new art school\1. Введение\1
+доп(casey): диск Е: newartschool sketching
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+sai YT:
+
+
+
+
+
+
+
 
 
 леттеринг
@@ -2146,37 +2187,12 @@ Note(casey): Проекты, ???
 
 
 
-photoshop
-Note(casey): ???
-доп(casey): диск D: ???
-
-Note(casey): YOUTUBE, Photoshop for Beginners | FREE COURSE(Envato Tuts+)
-доп(casey): 
-
-
-Note(casey): Проекты, ???
-доп(casey):
-
-photoshop YT:
 
 
 
 
-beats
-Note(casey): Название курса, ???
-доп(casey): 
-
-Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
-доп(casey):
-
-Note(casey): YOUTUBE, HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN GANG)(Cash Global Records)
-доп(casey):
 
 
-Note(casey): Проекты, название проекта
-доп(casey): 
-
-beats YT:
 
 
 
