@@ -1937,7 +1937,7 @@ Note(casey): slidan
 Note(casey): Россия23
 доп(casey):
 
-Note(casey): xQcL
+Note(casey): xQcOW
 доп(casey):
 
 Note(casey): forsen
@@ -2082,6 +2082,8 @@ Note(casey): Marine Ch.
 Note(casey): мысли папича
 доп(casey):
 
+Note(casey): Subber Vitalya
+доп(casey):
 
 GAMES:
 osu
