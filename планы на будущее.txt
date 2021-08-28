@@ -2076,6 +2076,9 @@ Note(casey): Velaskes
 Note(casey): Marine Ch.
 доп(casey):
 
+Note(casey): мысли папича
+доп(casey):
+
 GAMES:
 osu
 minecraft
