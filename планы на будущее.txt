@@ -1989,6 +1989,12 @@ Note(casey): Biteki
 Note(casey): Virus
 доп(casey):
 
+Note(casey): eptSOUL
+доп(casey):
+
+Note(casey): Blurred
+доп(casey):
+
 Note(casey): Sergey Nemchinskiy
 доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
 
@@ -2009,6 +2015,60 @@ Note(casey): 39daph vods
 
 Note(casey): Chotto.translate Vtubers RU
 доп(casey): 
+
+Note(casey): Грустный Пакет
+доп(casey): 
+
+Note(casey): macaroni
+доп(casey): 
+
+Note(casey): j3remym3mes
+доп(casey): 
+
+Note(casey): manadaiari
+доп(casey): 
+
+Note(casey): BORCH
+доп(casey): 
+
+Note(casey): Kopla Vtuber Clips
+доп(casey): 
+
+Note(casey): Kazuma Sensei
+доп(casey): 
+
+Note(casey): Shrimp Subs
+доп(casey): 
+
+Note(casey): Hensei Productions
+доп(casey): 
+
+Note(casey): Бустер
+доп(casey): 
+
+Note(casey): Ragones
+доп(casey):
+
+Note(casey): Dreamy
+доп(casey):
+
+Note(casey): mafumafuchaneru
+доп(casey):
+
+Note(casey): kyaami 
+доп(casey):
+
+Note(casey): Vert Dider 
+доп(casey):
+
+Note(casey): Elegant Sister
+доп(casey):
+
+Note(casey): kinkstou
+доп(casey):
+
+Note(casey): апвоут 
+доп(casey):
 
 GAMES:
 osu
