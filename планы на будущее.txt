@@ -1988,6 +1988,9 @@ Note(casey): Sergey Nemchinskiy
 Note(casey): WeatherNewFans
 доп(casey): 
 
+Note(casey): hololive
+доп(casey): 
+
 GAMES:
 osu
 minecraft
