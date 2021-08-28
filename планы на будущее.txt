@@ -1913,7 +1913,10 @@ Note(casey): utopia show
 Note(casey): ЮРИСТ
 доп(casey):
 
-Note(casey): Валакас
+Note(casey): Вася ворон
+доп(casey):
+
+Note(casey): Trich tv
 доп(casey):
 
 Note(casey): СЕРЕГА ПИРАТ 
@@ -2078,6 +2081,7 @@ Note(casey): Marine Ch.
 
 Note(casey): мысли папича
 доп(casey):
+
 
 GAMES:
 osu
