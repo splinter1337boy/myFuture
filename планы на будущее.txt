@@ -1985,9 +1985,13 @@ Note(casey): Virus
 Note(casey): Sergey Nemchinskiy
 доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
 
+Note(casey): WeatherNewFans
+доп(casey): 
+
 GAMES:
 osu
 minecraft
+шахматы
 
 
 
