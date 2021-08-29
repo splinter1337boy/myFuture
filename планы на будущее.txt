@@ -2092,6 +2092,9 @@ Note(casey): Subber Vitalya
 Note(casey): s7ptember
 доп(casey):
 
+Note(casey): GMHikaru
+доп(casey):
+
 GAMES:
 osu
 minecraft
