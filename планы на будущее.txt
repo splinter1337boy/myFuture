@@ -2047,6 +2047,9 @@ Note(casey): Kazuma Sensei
 Note(casey): Shrimp Subs
 доп(casey): 
 
+Note(casey): Mistrin
+доп(casey): 
+
 Note(casey): Hensei Productions
 доп(casey): 
 
@@ -2098,7 +2101,10 @@ Note(casey): GMHikaru
 Note(casey): EgorXD
 доп(casey):
 
-Note(casey): EgorXD
+Note(casey): Ruby_
+доп(casey):
+
+Note(casey): Over Engineer
 доп(casey):
 
 GAMES:
