@@ -1550,7 +1550,7 @@ Nodejs YT:
 
 6. python(tcp-ip, linux)
 Note(casey): Python\python metanit.com\Глава 3. Списки, кортежи и словари\Списки
-доп(casey): 
+доп(casey): freecodecamp
 
 LINUX
 Note(casey): ravesli linux, ???
