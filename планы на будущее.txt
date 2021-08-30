@@ -2108,7 +2108,7 @@ Note(casey): Over Engineer
 доп(casey):
 
 Note(casey): Sebastian Lague
-доп(casey):
+доп(casey): Coding Adventure: Chess AI
 
 GAMES:
 osu
