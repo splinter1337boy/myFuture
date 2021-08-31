@@ -2009,6 +2009,9 @@ Note(casey): eptSOUL
 Note(casey): Blurred
 доп(casey):
 
+Note(casey): Needle
+доп(casey):
+
 Note(casey): Sergey Nemchinskiy
 доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
 
