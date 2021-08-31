@@ -2123,6 +2123,9 @@ Note(casey): Over Engineer
 Note(casey): Sebastian Lague
 доп(casey): Coding Adventure: Chess AI
 
+Note(casey): rinrin doll life in japan
+доп(casey):
+
 GAMES:
 osu
 minecraft
