@@ -1375,10 +1375,11 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 5. javascript
 
-Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\011 Как работать с GitHub с разных компьютеров, gitignore и Git Kraken
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\015 Практика, ч2. Применяем условия и циклы
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
 доп(casey): githowto -> 21. Подробнее о структуре;
 доп(casey): freecodecamp js
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
