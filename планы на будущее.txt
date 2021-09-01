@@ -2445,7 +2445,7 @@ REST - когда заебусь на денек можно, а именно
 13:30 - UNIVERSITY
 17:30 - UNIVERSITY
 20:00 - FIZRA
-21:30 - RAZVLECHENIE(MAIN/EXTRA)
+21:30 - RAZVLECHENIE
 0:30 - MAIN/EXTRA
 3:30 - sleep
 6:00 - учеба
