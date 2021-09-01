@@ -2490,22 +2490,6 @@ EXTRA:
 
 10. REST
 
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-MAIN:
-1. sql
-2. mobile
-3. css
-4. css YT
-5. javascript
-6. python
-
-EXTRA:
-7. C#
-8. C++
-
-9. REST
-
 
 
 
