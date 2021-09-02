@@ -1869,7 +1869,7 @@ Note(casey): Unreal Engine 5 Подробно о Nanite - Прорывная технология будущего в
 
 9. JAVA
 
-Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\???
+Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
 доп(casey): диск Е: [Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)
 
 Note(casey): YOUTUBE, ???(???)
