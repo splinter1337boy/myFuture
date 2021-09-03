@@ -2482,6 +2482,7 @@ dlya resheniya s dolgami:
 UNIVERSITY:
 1. java
 2. javascript
+3. sql server
 
 MAIN:
 1. sql
