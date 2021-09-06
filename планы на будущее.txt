@@ -771,24 +771,22 @@ YOUTUBE links(3Ds MAX):
 
 
 (EXTRA если что, если по учебе придется)
+java start:(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5885351
 java:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5885966
+java rush:
+https://javarush.ru/
 java metanit.com:
 https://metanit.com/java/tutorial/
 javaFX(windows forms c# на подобии):
 https://metanit.com/java/javafx/
-java rush:
-https://javarush.ru/
+
 
 javadatabase:
 https://metanit.com/java/database/
 javaEE(database):
 https://metanit.com/java/javaee/
-
-
-java start:
-https://rutracker.net/forum/viewtopic.php?t=5885351
-
 
 
 minecraft build custom modes:
@@ -1869,9 +1867,23 @@ Note(casey): Unreal Engine 5 Подробно о Nanite - Прорывная технология будущего в
 
 
 9. JAVA
+Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\???
+доп(casey): диск Е: [foxminded] [Сергей Немчинский] Java Start (2020)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
 
 Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
 доп(casey): диск Е: [Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+Note(casey): java\java rush\???
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
@@ -1882,8 +1894,6 @@ Note(casey): java\java metanit.com\???
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
-
-
 
 -----------------------------------------------------------------
 
