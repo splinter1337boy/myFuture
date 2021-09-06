@@ -1867,7 +1867,7 @@ Note(casey): Unreal Engine 5 Подробно о Nanite - Прорывная технология будущего в
 
 
 9. JAVA
-Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\???
+Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\2. Классы и объекты\2.3 Создание экземпляров классов (объектов)
 доп(casey): диск Е: [foxminded] [Сергей Немчинский] Java Start (2020)
 
 Note(casey): YOUTUBE, ???(???)
