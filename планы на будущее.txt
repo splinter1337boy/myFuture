@@ -2019,6 +2019,8 @@ Note(casey): Needle
 Note(casey): Kurai
 доп(casey):
 
+Note(casey): brokeboys
+доп(casey):
 
 Note(casey): Sergey Nemchinskiy
 доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
