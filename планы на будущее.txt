@@ -335,11 +335,11 @@ books:
 	react native:
 	https://rutracker.net/forum/viewtopic.php?t=5898336
 	
-
-	java android metanit.com:
-	https://metanit.com/java/android/
 	Android O & Java - Mobile App Development | Beginning to End
 	https://rutracker.net/forum/viewtopic.php?t=5483806
+	java android metanit.com:
+	https://metanit.com/java/android/
+	
 
 
 	metanit.com c# xamarin:
