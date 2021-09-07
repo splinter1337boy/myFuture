@@ -2498,6 +2498,9 @@ UNIVERSITY:
 1. java
 2. javascript
 3. sql server
+4. 4islyaki
+5. filosofiya
+6. english
 
 MAIN:
 1. sql
