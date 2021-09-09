@@ -1379,6 +1379,7 @@ Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата
 доп(casey): githowto -> 21. Подробнее о структуре;
 доп(casey): freecodecamp js
 доп(casey): JavaScript Algorithms and Data Structures -> Basic JavaScript -> Word Blanks
+доп(casey): https://learn.javascript.ru/js
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
