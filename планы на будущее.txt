@@ -2487,7 +2487,7 @@ REST - когда заебусь на денек можно, а именно
 
 dlya resheniya s dolgami:
 13:30 - MAIN/EXTRA
-17:30 - RAZVLECHENIE
+17:30 - RAZVLECHENIE(UNIVERSITY)
 20:00 - FIZRA
 21:30 - UNIVERSITY
 0:30 - MAIN/EXTRA(RAZVLECHENIE)
