@@ -1079,6 +1079,7 @@ https://rutracker.net/forum/viewtopic.php?t=5962944
 
 Note(casey): postgreSQL\SQL and PostgreSQL The Complete Developer s Guide\100-105
 доп(casey): диск D: SQL and PostgreSQL The Complete Developer's Guide
+доп(casey): 88
 
 
 Note(casey): YOUTUBE, ???(???)
