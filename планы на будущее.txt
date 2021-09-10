@@ -2242,22 +2242,25 @@ Note(casey): Smooth Position Shake After Effects AMV Tutorial
 
 othershit(ai(Диск E), sai(диск Е), adobe flash pro, леттеринг(диск D)); 
 
-illustrator
-Note(casey): Курс по рисованию векторных иллюстраций\1. Работа с пером\1. Интерфейс Adobe Illustrator
-доп(casey): диск E: risovan.vektor.ill
-
-Note(casey): YOUTUBE, ???(???)
+beats
+Note(casey): Название курса, ???
 доп(casey): 
 
-
-Note(casey): Проекты, ???
+Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
 доп(casey):
 
-illustrator YT:
-
-Atlantis
-Note(casey): Универсальная техника рисования в Adobe Illustrator
+Note(casey): YOUTUBE, HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN GANG)(Cash Global Records)
 доп(casey):
+
+
+Note(casey): Проекты, название проекта
+доп(casey): 
+
+beats YT:
+
+
+
+
 
 
 
@@ -2284,21 +2287,32 @@ adobe flash pro YT:
 
 
 
-beats
-Note(casey): Название курса, ???
+
+
+
+
+
+illustrator
+Note(casey): Курс по рисованию векторных иллюстраций\1. Работа с пером\1. Интерфейс Adobe Illustrator
+доп(casey): диск E: risovan.vektor.ill
+
+Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
-Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
+
+Note(casey): Проекты, ???
 доп(casey):
 
-Note(casey): YOUTUBE, HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN GANG)(Cash Global Records)
+illustrator YT:
+
+Atlantis
+Note(casey): Универсальная техника рисования в Adobe Illustrator
 доп(casey):
 
 
-Note(casey): Проекты, название проекта
-доп(casey): 
 
-beats YT:
+
+
 
 
 
