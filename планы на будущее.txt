@@ -1870,7 +1870,7 @@ Note(casey): Unreal Engine 5 Подробно о Nanite - Прорывная технология будущего в
 9. JAVA
 Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\3. Основы ООП\3.4 Интерфейсы
 доп(casey): диск Е: [foxminded] [Сергей Немчинский] Java Start (2020)
-
+доп(casey): https://javarush.ru/groups/posts/1941-kak-ne-poterjatjhsja-vo-vremeni--datetime-i-calendar
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
 
