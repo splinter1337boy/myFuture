@@ -2483,7 +2483,7 @@ nihon, english по очереди, 5 minutes keyboard;
 0:30 - MAIN/EXTRA(RAZVLECHENIE)
 3:30 - sleep
 6:00 - учеба(UNIVERSITY)
-10:00 - учеба
+10:00 - учеба(MAIN/EXTRA)
 
 
 dlya resheniya s dolgami:
