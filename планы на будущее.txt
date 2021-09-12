@@ -2513,6 +2513,7 @@ UNIVERSITY:
 4. 4islyaki
 5. filosofiya
 6. english
+7. C++
 
 MAIN:
 1. sql
