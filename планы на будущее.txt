@@ -1914,7 +1914,7 @@ Note(casey): манга, (domekano перечитать:D, тайные желания отвергнутых, человек-
 Note(casey): книга по психологии, философия
 доп(casey):
 
-Note(casey): аниме, (jojo, april lies, angel beats, токийские мстители, волейбол, тайные желания отвергнутых, Сайт волшебниц, vrata shteina)
+Note(casey): аниме, (jojo, april lies, angel beats, токийские мстители, волейбол, тайные желания отвергнутых, Сайт волшебниц, vrata shteina, исчезновение харухи судзумии)
 доп(casey): 
 
 TWITCH:
@@ -2168,6 +2168,9 @@ Note(casey): Nexpo
 доп(casey):
 
 Note(casey): qAkasha
+доп(casey):
+
+Note(casey): HoneyMad
 доп(casey):
 
 GAMES:
