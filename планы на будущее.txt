@@ -1875,6 +1875,7 @@ Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\4. Коллекции
 
 https://ru.stackoverflow.com/questions/771664/%D0%9A%D0%B0%D0%BA-%D1%81%D0%BF%D0%B0%D1%80%D1%81%D0%B8%D1%82%D1%8C-csv-file-in-java
 https://techcave.ru/posts/99-rabotaem-s-failami-csv-v-java-s-ispolzovaniem-biblioteki-opencsv.html
+https://www.youtube.com/watch?v=zKDmzKaAQro&ab_channel=BroCode
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
