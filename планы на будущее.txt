@@ -1883,6 +1883,7 @@ Note(casey): YOUTUBE, ???(???)
 
 Note(casey): java\java rush\
 доп(casey): 
+доп(casey): https://metanit.com/java/tutorial/6.10.php
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
