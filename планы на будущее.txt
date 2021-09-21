@@ -1877,6 +1877,7 @@ Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\4. Коллекции
 доп(casey): https://www.youtube.com/watch?v=zKDmzKaAQro&ab_channel=BroCode
 
 доп(casey): https://stackoverflow.com/questions/4547453/can-you-write-virtual-functions-methods-in-java
+доп(casey): https://howtodoinjava.com/java/serialization/custom-serialization-readobject-writeobject/
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
