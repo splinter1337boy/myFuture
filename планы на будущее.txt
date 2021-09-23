@@ -2542,8 +2542,7 @@ UNIVERSITY:
 3. sql server
 4. 4islyaki
 5. filosofiya
-6. english
-7. C++
+6. C++
 
 MAIN:
 1. sql
