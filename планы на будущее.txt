@@ -2494,40 +2494,14 @@ Note(casey): Проекты, ???
 nihon, english по очереди, 5 minutes keyboard;
 
 
-13:30 - MAIN
-17:30 - EXTRA(RAZVLECHENIE)
+13:30
+17:30
 20:00 - FIZRA
-21:30 - RAZVLECHENIE(MAIN/EXTRA)
-0:30 - RAZVLECHENIE(MAIN/EXTRA)
+21:30
+0:30
 3:30 - sleep
-6:00 - RAZVLECHENIE(MAIN/EXTRA)
-10:00 - MAIN/EXTRA
-
-
-
-по учебе:
-13:30 - UNIVERSITY
-17:30 - UNIVERSITY(RAZVLECHENIE)
-20:00 - FIZRA
-21:30 - RAZVLECHENIE(UNIVERSITY)
-0:30 - MAIN/EXTRA(RAZVLECHENIE)
-3:30 - sleep
-6:00 - учеба(UNIVERSITY)(RAZVLECHENIE)
-10:00 - учеба(MAIN/EXTRA)
-
-
-dlya resheniya s dolgami:
-13:30 - MAIN/EXTRA
-17:30 - RAZVLECHENIE(UNIVERSITY)
-20:00 - FIZRA
-21:30 - UNIVERSITY(RAZVLECHENIE)
-0:30 - MAIN/EXTRA(RAZVLECHENIE)
-3:30 - sleep
-6:00 - RAZVLECHENIE(UNIVERSITY)
-10:00 - UNIVERSITY
-
-
-
+6:00
+10:00
 ------------------------------------------------------------------------------
 СЛОЖНОЕ БЛИН:
 
