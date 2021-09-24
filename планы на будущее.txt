@@ -2512,6 +2512,7 @@ UNIVERSITY:
 4. 4islyaki
 5. filosofiya
 6. C++
+7. python
 
 MAIN:
 1. sql
