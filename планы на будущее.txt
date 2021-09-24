@@ -2300,7 +2300,7 @@ beats YT:
 
 
 adobe flash pro
-Note(casey): Adobe Flash Professional CS6 Essential\01. Understanding the Flash CS6 Interface\00. Introduction Understanding the Flash CS6 Interface
+Note(casey): Adobe Flash Professional CS6 Essential\02. Working with the Drawing and Shape Tool\01. Drawing Shapes in Flash
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
 Note(casey): YOUTUBE, ???(???)
