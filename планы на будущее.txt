@@ -2513,10 +2513,10 @@ UNIVERSITY:
 1. java
 2. javascript
 3. sql server
-4. 4islyaki
+4. python(randomchisla)
 5. filosofiya
 6. C++
-7. python(operacionka)
+7. 4islyaki
 8. shemotehnika
 
 MAIN:
