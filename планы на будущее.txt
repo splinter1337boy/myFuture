@@ -2514,10 +2514,12 @@ UNIVERSITY:
 2. javascript
 3. sql server
 4. python(randomchisla)
-5. filosofiya
-6. C++
-7. 4islyaki
-8. shemotehnika
+5. OS
+6. filosofiya
+7. C++
+8. 4islyaki
+9. shemotehnika
+
 
 MAIN:
 1. sql
