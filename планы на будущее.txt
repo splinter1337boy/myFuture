@@ -920,7 +920,6 @@ NITROX3D Non-Destructive Modeling Course (Blender 2.8):
 https://rutracker.net/forum/viewtopic.php?t=5854704
 encyclopedia:
 https://rutracker.net/forum/viewtopic.php?t=6003076
-
 {
 Fundamentals of Dynamics in Blender 2.77:
 https://rutracker.net/forum/viewtopic.php?t=5980882
@@ -933,6 +932,14 @@ https://rutracker.net/forum/viewtopic.php?t=5998102
 Fundamentals of Blender Materials and Shading (Blender 2.83):
 https://rutracker.net/forum/viewtopic.php?t=5998646
 }
+
+
+
+
+
+
+
+
 
 
 
