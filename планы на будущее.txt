@@ -2515,6 +2515,8 @@ UNIVERSITY:
 3. sql server
 4. python(моделирование систем)
 5. OS
+6. TPR
+7. metodi optimization
 6. filosofiya
 7. C++
 8. 4islyaki
