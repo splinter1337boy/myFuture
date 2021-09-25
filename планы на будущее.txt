@@ -2517,6 +2517,7 @@ UNIVERSITY:
 5. filosofiya
 6. C++
 7. python
+8. shemotehnika
 
 MAIN:
 1. sql
