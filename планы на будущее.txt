@@ -2517,6 +2517,7 @@ UNIVERSITY:
 5. OS
 6. TPR
 7. metodi optimization
+
 6. filosofiya
 7. C++
 8. 4islyaki
