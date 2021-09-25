@@ -2513,7 +2513,7 @@ UNIVERSITY:
 1. java
 2. javascript
 3. sql server
-4. python(randomchisla)
+4. python(моделирование систем)
 5. OS
 6. filosofiya
 7. C++
