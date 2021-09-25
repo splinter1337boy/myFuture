@@ -884,16 +884,6 @@ BLENDER 2.8 LAUNCH PAD:
 https://rutracker.net/forum/viewtopic.php?t=5765869
 https://rutracker.net/forum/viewtopic.php?t=6014732
 
-Fundamentals of Dynamics in Blender 2.77:
-https://rutracker.net/forum/viewtopic.php?t=5980882
-Fundamentals of Texturing in Blender 2.9:
-https://rutracker.net/forum/viewtopic.php?t=6040978
-Fundamentals of Digital Lighting in Blender 2.82:
-https://rutracker.net/forum/viewtopic.php?t=5897702
-Fundamental of Shading in Blender 2.73:
-https://rutracker.net/forum/viewtopic.php?t=5998102
-Fundamentals of Blender Materials and Shading (Blender 2.83):
-https://rutracker.net/forum/viewtopic.php?t=5998646
 
 Substance Painter Launch Pad:
 https://rutracker.net/forum/viewtopic.php?t=6021796
@@ -931,6 +921,18 @@ https://rutracker.net/forum/viewtopic.php?t=5854704
 encyclopedia:
 https://rutracker.net/forum/viewtopic.php?t=6003076
 
+{
+Fundamentals of Dynamics in Blender 2.77:
+https://rutracker.net/forum/viewtopic.php?t=5980882
+Fundamentals of Texturing in Blender 2.9:
+https://rutracker.net/forum/viewtopic.php?t=6040978
+Fundamentals of Digital Lighting in Blender 2.82:
+https://rutracker.net/forum/viewtopic.php?t=5897702
+Fundamental of Shading in Blender 2.73:
+https://rutracker.net/forum/viewtopic.php?t=5998102
+Fundamentals of Blender Materials and Shading (Blender 2.83):
+https://rutracker.net/forum/viewtopic.php?t=5998646
+}
 
 
 
@@ -2435,7 +2437,7 @@ Note(casey): Проекты, ???
 
 3D(Blender);
 Note(casey): Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners\Chapter 3 - Animation and Final Rendering\7-11
-Note(casey): 09. BONUS Making the Smoke Particle Material
+Note(casey): 10. Preparing for Rendering and Loose Ends
 доп(casey): посмотреть gumroad, Creative Shrimp, Learn Squared, Blender Cloud
 доп(casey): environment досмотреть чо то переделать
 доп(casey): диск D: CGCookie - Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners by Grant Wilk (2019)
