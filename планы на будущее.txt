@@ -2305,7 +2305,7 @@ beats YT:
 
 
 adobe flash pro
-Note(casey): Adobe Flash Professional CS6 Essential\03. Working with Symbols\01. Understanding the Characteristics of Symbols
+Note(casey): Adobe Flash Professional CS6 Essential\04. Importing and Modifying Graphics\01. Importing Bitmap Graphics and Basic Shape Modifications
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
 Note(casey): YOUTUBE, ???(???)
