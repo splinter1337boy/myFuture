@@ -1566,6 +1566,9 @@ Nodejs YT:
 Note(casey): Python\python metanit.com\Глава 3. Списки, кортежи и словари\Списки
 доп(casey): freecodecamp
 
+Note(casey): YOUTUBE, Python Full Course(https://www.youtube.com/watch?v=XKHEtdqhLK8&ab_channel=BroCode)
+доп(casey):
+
 LINUX
 Note(casey): ravesli linux, ???
 доп(casey): 
