@@ -777,8 +777,6 @@ java rush:
 https://javarush.ru/
 java:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5885966
-java metanit.com:
-https://metanit.com/java/tutorial/
 javaFX(windows forms c# на подобии):
 https://metanit.com/java/javafx/
 
@@ -1909,15 +1907,6 @@ Note(casey): YOUTUBE, ???(???)
 
 Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
 доп(casey): диск Е: [Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
-
-
-
-Note(casey): java\java metanit.com\???
-доп(casey):
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
