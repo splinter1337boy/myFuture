@@ -2198,6 +2198,9 @@ Note(casey): HoneyMad
 Note(casey): Visual Studio Code 
 доп(casey): https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w
 
+Note(casey): Nifty
+доп(casey): https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A
+
 GAMES:
 osu
 minecraft
