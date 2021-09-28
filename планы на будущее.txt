@@ -2183,6 +2183,9 @@ Note(casey): qAkasha
 Note(casey): HoneyMad
 доп(casey):
 
+Note(casey): Visual Studio Code 
+доп(casey): https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w
+
 GAMES:
 osu
 minecraft
