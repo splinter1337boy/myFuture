@@ -2033,9 +2033,6 @@ Note(casey): Biteki
 Note(casey): Virus
 доп(casey):
 
-Note(casey): eptSOUL
-доп(casey):
-
 Note(casey): Blurred
 доп(casey):
 
