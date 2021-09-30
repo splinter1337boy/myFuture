@@ -2043,9 +2043,6 @@ Note(casey):
 Note(casey): SoundCloud
 доп(casey):
 
-Note(casey): branwen
-доп(casey):
-
 Note(casey): Kurai
 доп(casey):
 
