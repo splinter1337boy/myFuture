@@ -2318,11 +2318,11 @@ beats YT:
 
 
 adobe flash pro
-Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\03. Creating a Frame-by-Frame Animation and Onion Skin Part 1
+Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\06. Working with the Motion Editor
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
-Note(casey): YOUTUBE, 21 Useful Shortcuts for Adobe Flash CS6 & CC (Part 5)(Jesse J. Jones)
-доп(casey): https://www.youtube.com/watch?v=fJ2tgyCH2Go&feature=youtu.be&ab_channel=JesseJ.Jones
+Note(casey): YOUTUBE, How To Animate in Flash CS6 & CC | Tutorial for Beginners(Jesse J. Jones)
+доп(casey): https://www.youtube.com/watch?v=vG41n5jrgBc&t=1s&ab_channel=JesseJ.Jones
 
 
 Note(casey): Проекты, ???
@@ -2430,9 +2430,20 @@ Note(casey): Проекты, ???
 леттеринг YT:
 
 
+
+
 clip studio paint
 Note(casey):
 доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+clip studio paint YT:
+
 
 
 Toon Boom Harmony
@@ -2446,7 +2457,11 @@ Note(casey): YOUTUBE, Toon Boom Harmony Tutorial for Beginners: How To Make a Ca
 доп(casey): https://www.youtube.com/watch?v=MI65MRdKfIY&ab_channel=JesseJ.Jones
 
 
+Note(casey): Проекты, ???
+доп(casey):
 
+
+Toon Boom Harmony YT:
 
 
 
