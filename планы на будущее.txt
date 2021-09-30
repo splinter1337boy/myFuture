@@ -654,6 +654,8 @@ YOUTUBE links(illustrator):
 YOUTUBE links(sai):
 
 YOUTUBE links(adobe flash pro):
+Create a zoom and fade effect in Adobe Flash
+https://www.youtube.com/watch?v=joi6AZsF0X4&ab_channel=DanielWood
 
 YOUTUBE links(леттеринг):
 
@@ -781,10 +783,10 @@ javaFX(windows forms c# на подобии):
 https://metanit.com/java/javafx/
 
 
-javadatabase:
-https://metanit.com/java/database/
 javaEE(database):
 https://metanit.com/java/javaee/
+javadatabase:
+https://metanit.com/java/database/
 
 
 minecraft build custom modes:
@@ -2321,7 +2323,7 @@ beats YT:
 
 
 adobe flash pro
-Note(casey): Adobe Flash Professional CS6 Essential\05. Working with Text\01. Selecting Text and Other Basic Techniques
+Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\02. Animating Text with Shape Tweens - Creating Frames and Keyframes
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
 Note(casey): YOUTUBE, ???(???)
