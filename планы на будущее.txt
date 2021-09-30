@@ -1313,6 +1313,7 @@ Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS дл
 доп(casey): freecodecamp css
 доп(casey): Responsive Web Design -> Basic HTML and HTML5 -> Create a Form Element
 доп(casey): flexfrog!!!! proiti
+доп(casey): margin in text?
 
 Note(casey): YOUTUBE, Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии (Фрилансер по жизни)
 доп(casey): 
@@ -2320,7 +2321,7 @@ beats YT:
 
 
 adobe flash pro
-Note(casey): Adobe Flash Professional CS6 Essential\04. Importing and Modifying Graphics\04. Importing a Photoshop File into Flash
+Note(casey): Adobe Flash Professional CS6 Essential\05. Working with Text\01. Selecting Text and Other Basic Techniques
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
 Note(casey): YOUTUBE, ???(???)
