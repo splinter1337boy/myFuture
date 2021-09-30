@@ -1719,39 +1719,8 @@ Note(casey): YOUTUBE, ???(???)
 доп(casey):
 
 
-
-
-{
-Note(casey): metanit.com Windows Forms, √лава 4. Ёлементы управлени€, ListBox
-доп(casey):
-
-Note(casey): graphics c#, ???
-доп(casey): 
-}
-
-
-
-
 Note(casey): metanit.com ѕаттерны проектировани€, ???
 доп(casey):
-
-
-
-
-{
-Note(casey): metanit.com ado.net работа с базами данных, ???
-доп(casey):
-
-
-Note(casey): с# ado.net работа с базами данных, ???
-доп(casey):
-}
-
-
-
-
-
-
 
 
 C# unity;
@@ -1814,6 +1783,28 @@ Note(casey): metanit.com c# wpf, ???
 Note(casey): metanit.com c# Entity Framework Core, ???
 доп(casey):
 }
+
+
+
+{
+Note(casey): metanit.com Windows Forms, √лава 4. Ёлементы управлени€, ListBox
+доп(casey):
+
+Note(casey): graphics c#, ???
+доп(casey): 
+}
+
+
+
+{
+Note(casey): metanit.com ado.net работа с базами данных, ???
+доп(casey):
+
+
+Note(casey): с# ado.net работа с базами данных, ???
+доп(casey):
+}
+
 
 
 Note(casey): ѕроекты, ???
