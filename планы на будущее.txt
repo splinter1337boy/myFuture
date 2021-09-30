@@ -2321,8 +2321,8 @@ adobe flash pro
 Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\02. Animating Text with Shape Tweens - Creating Frames and Keyframes
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+Note(casey): YOUTUBE, 21 Useful Shortcuts for Adobe Flash CS6 & CC (Part 5)(Jesse J. Jones)
+доп(casey): https://www.youtube.com/watch?v=fJ2tgyCH2Go&feature=youtu.be&ab_channel=JesseJ.Jones
 
 
 Note(casey): Проекты, ???
@@ -2330,7 +2330,9 @@ Note(casey): Проекты, ???
 
 adobe flash pro YT:
 
-
+Jesse J. Jones
+Note(casey): 
+доп(casey):
 
 
 
