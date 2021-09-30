@@ -2318,7 +2318,7 @@ beats YT:
 
 
 adobe flash pro
-Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\02. Animating Text with Shape Tweens - Creating Frames and Keyframes
+Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\03. Creating a Frame-by-Frame Animation and Onion Skin Part 1
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
 Note(casey): YOUTUBE, 21 Useful Shortcuts for Adobe Flash CS6 & CC (Part 5)(Jesse J. Jones)
@@ -2435,6 +2435,15 @@ Note(casey):
 доп(casey): 
 
 
+Toon Boom Harmony
+Note(casey):
+доп(casey): 
+
+Note(casey): YOUTUBE, Toon Boom Harmony Tutorial for Beginners: How to Make a Cartoon (PART 2)(Jesse J. Jones)
+доп(casey): https://www.youtube.com/watch?v=iZseMGi0J5g&ab_channel=JesseJ.Jones
+
+Note(casey): YOUTUBE, Toon Boom Harmony Tutorial for Beginners: How To Make a Cartoon!(Jesse J. Jones)
+доп(casey): https://www.youtube.com/watch?v=MI65MRdKfIY&ab_channel=JesseJ.Jones
 
 
 
