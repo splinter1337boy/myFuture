@@ -2285,6 +2285,17 @@ live2d
 Note(casey):
 доп(casey):
 
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
+
+live2d YT:
+
+
 
 
 
