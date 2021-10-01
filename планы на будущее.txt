@@ -2331,7 +2331,7 @@ beats YT:
 
 
 adobe flash pro
-Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\06. Working with the Motion Editor
+Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\07. Using Inverse Kinematics
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
 Note(casey): YOUTUBE, How To Animate in Flash CS6 & CC | Tutorial for Beginners(Jesse J. Jones)
