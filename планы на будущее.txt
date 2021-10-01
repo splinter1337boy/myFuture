@@ -2233,6 +2233,7 @@ Note(casey): Проекты, minecraftparasha.veg домонтировать
 доп(casey): ghost effect
 доп(casey): DATAMOSH effect
 доп(casey): kinkstou!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+доп(casey): camera motion tracking tutorial 
 
 
 Note(casey): Проекты, iv.veg
