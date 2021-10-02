@@ -2439,8 +2439,6 @@ sai YT:
 
 
 
-
-
 леттеринг
 Note(casey): Делай лого\Урок1\Урок 1 Теория
 доп(casey): диск D: delai.logo
@@ -2457,6 +2455,9 @@ Note(casey): Проекты, ???
 
 
 
+
+
+
 clip studio paint
 Note(casey):
 доп(casey): 
@@ -2468,6 +2469,11 @@ Note(casey): Проекты, ???
 доп(casey):
 
 clip studio paint YT:
+
+
+
+
+
 
 
 
