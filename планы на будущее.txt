@@ -2521,6 +2521,7 @@ Note(casey): Проекты, ???
 
 3D Blender YT:
 
+
 CG GEEK
 Note(casey): ???
 доп(casey): check explosion
@@ -2535,13 +2536,6 @@ William Landgren
 Note(casey): ???
 доп(casey): 
 
-blender playlist
-Note(casey): ???
-доп(casey): 
-
-pwnisher
-Note(casey): ???
-доп(casey): 
 
 Polyfjord
 Note(casey): ???
