@@ -2570,7 +2570,7 @@ nihon, english по очереди, 5 minutes keyboard;
 20:00 
 21:30
 0:30
-3:30 - sleep
+2:00 - sleep
 6:00 - FIZRA
 10:00
 
