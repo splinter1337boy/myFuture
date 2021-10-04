@@ -2594,7 +2594,7 @@ UNIVERSITY:
 4. python(моделирование систем)
 5. OS
 6. TPR
-7. metodi optimization
+7. metodi optimization(ИСО)
 
 6. filosofiya
 7. C++
