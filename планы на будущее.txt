@@ -2586,6 +2586,9 @@ nihon, english по очереди, 5 minutes keyboard;
 0:00 - sleep
 5:00 - FIZRA
 
+PROGRAMIROVANIE
+REST
+
 ------------------------------------------------------------------------------
 UNIVERSITY:
 1. java
