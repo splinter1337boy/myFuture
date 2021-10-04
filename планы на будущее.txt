@@ -1886,6 +1886,22 @@ Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\4. Коллекции
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
 
+
+Note(casey): java\java rush\
+доп(casey): 
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
+доп(casey): диск Е: [Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
 {
 	Note(casey): java.swing
 	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/index.html
@@ -1901,22 +1917,6 @@ Note(casey): YOUTUBE, ???(???)
 	доп(casey):
 }
 
-
-Note(casey): java\java rush\
-доп(casey): 
-доп(casey): 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
-
-
-
-Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
-доп(casey): диск Е: [Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
 
 -----------------------------------------------------------------
 
