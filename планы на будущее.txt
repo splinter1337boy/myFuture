@@ -1886,20 +1886,20 @@ Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\4. Коллекции
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
 
+{
+	Note(casey): java.swing
+	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/index.html
 
-Note(casey): java.swing
-доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/index.html
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
+	Note(casey): YOUTUBE, ???(???)
+	доп(casey):
 
 
-Note(casey): javadatabase(JDBC):
-доп(casey): https://metanit.com/java/database/
+	Note(casey): javadatabase(JDBC):
+	доп(casey): https://metanit.com/java/database/
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
+	Note(casey): YOUTUBE, ???(???)
+	доп(casey):
+}
 
 
 Note(casey): java\java rush\
