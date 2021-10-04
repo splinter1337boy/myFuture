@@ -1762,6 +1762,28 @@ Note(casey): ???
 
 
 
+{
+Note(casey): metanit.com Windows Forms, Глава 4. Элементы управления, ListBox
+доп(casey):
+
+Note(casey): graphics c#, ???
+доп(casey): 
+}
+
+
+
+{
+Note(casey): metanit.com ado.net работа с базами данных, ???
+доп(casey):
+
+
+Note(casey): с# ado.net работа с базами данных, ???
+доп(casey):
+}
+
+
+
+
 
 
 {
@@ -1783,24 +1805,6 @@ Note(casey): metanit.com c# Entity Framework Core, ???
 
 
 
-{
-Note(casey): metanit.com Windows Forms, Глава 4. Элементы управления, ListBox
-доп(casey):
-
-Note(casey): graphics c#, ???
-доп(casey): 
-}
-
-
-
-{
-Note(casey): metanit.com ado.net работа с базами данных, ???
-доп(casey):
-
-
-Note(casey): с# ado.net работа с базами данных, ???
-доп(casey):
-}
 
 
 
