@@ -776,18 +776,18 @@ YOUTUBE links(3Ds MAX):
 (EXTRA если что, если по учебе придется)
 java start:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5885351
+java.swing:
+https://docs.oracle.com/javase/tutorial/uiswing/index.html
+javadatabase(JDBC):
+https://metanit.com/java/database/
 java rush:
 https://javarush.ru/
 java:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5885966
-javaFX(windows forms c# на подобии):
-https://metanit.com/java/javafx/
 
-
-javaEE(database):
+javaEE:
 https://metanit.com/java/javaee/
-javadatabase:
-https://metanit.com/java/database/
+
 
 
 minecraft build custom modes:
@@ -1881,6 +1881,21 @@ Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\4. Коллекции
 
 доп(casey): https://stackoverflow.com/questions/4547453/can-you-write-virtual-functions-methods-in-java
 доп(casey): https://howtodoinjava.com/java/serialization/custom-serialization-readobject-writeobject/
+доп(casey): https://metanit.com/java/tutorial/6.10.php
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+Note(casey): java.swing
+доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/index.html
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+
+Note(casey): javadatabase(JDBC):
+доп(casey): https://metanit.com/java/database/
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
@@ -1889,7 +1904,7 @@ Note(casey): YOUTUBE, ???(???)
 
 Note(casey): java\java rush\
 доп(casey): 
-доп(casey): https://metanit.com/java/tutorial/6.10.php
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
