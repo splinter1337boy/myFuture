@@ -1831,6 +1831,11 @@ Note(casey): YOUTUBE, Making a C++ Game with No Experience!(Barji)
 Note(casey): ravesli sfml, ???
 доп(casey):
 
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+
+
 
 Note(casey): ravesli openGL, Глава №0. Начало работы с OpenGL, Урок №1. Введение в OpenGL
 доп(casey):
