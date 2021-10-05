@@ -1836,21 +1836,28 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
+Note(casey): ravesli prakticheskie zadaniya, ???
+доп(casey): первая половина
+
+
+
+
+
 
 Note(casey): ravesli openGL, Глава №0. Начало работы с OpenGL, Урок №1. Введение в OpenGL
 доп(casey):
-
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
 
-Note(casey): ravesli prakticheskie zadaniya, ???
-доп(casey): первая половина
 
 
 Note(casey): ravesli prakticheskie zadaniya, ???
 доп(casey): вторая половина
+
+
+
 
 
 Note(casey): Проекты, ???
