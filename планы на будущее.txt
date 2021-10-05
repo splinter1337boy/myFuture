@@ -1563,6 +1563,7 @@ Nodejs YT:
 
 6. python(tcp-ip, linux)
 Note(casey): Python\python metanit.com\Глава 3. Списки, кортежи и словари\Списки
+доп(casey): На чем остановились?
 доп(casey): freecodecamp
 
 Note(casey): YOUTUBE, Python Full Course(https://www.youtube.com/watch?v=XKHEtdqhLK8&ab_channel=BroCode)
@@ -1710,7 +1711,7 @@ Note(casey): Сергей C#, ???
 
 C# -> unity;
 Note(casey): C# tutorials\С#\c# metanit.com .NET\Глава 3. Классы. Объектно-ориентированное программирование\Виртуальные методы и свойства
-доп(casey): начинай с картежа и далее
+доп(casey): Глава 2. Основы программирования на C#. Кортежи
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
