@@ -2284,10 +2284,10 @@ Note(casey): Проекты, minecraftparasha.veg домонтировать
 доп(casey): flicker
 доп(casey): rsmb
 доп(casey): ghost effect
-доп(casey): DATAMOSH effect
 доп(casey): kinkstou!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 доп(casey): camera motion tracking tutorial 
 доп(casey): pinch/punch
+доп(casey): shake effect
 
 
 Note(casey): Проекты, свин
