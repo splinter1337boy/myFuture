@@ -2287,6 +2287,7 @@ Note(casey): Проекты, minecraftparasha.veg домонтировать
 доп(casey): DATAMOSH effect
 доп(casey): kinkstou!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 доп(casey): camera motion tracking tutorial 
+доп(casey): pinch/punch
 
 
 Note(casey): Проекты, свин
