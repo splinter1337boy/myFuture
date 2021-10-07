@@ -2151,9 +2151,6 @@ Note(casey): Optimus Gang
 Note(casey): Nimbo
 доп(casey):
 
-Note(casey): Sergey Nemchinskiy
-доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
-
 Note(casey): WeatherNewFans
 доп(casey): 
 
@@ -2294,7 +2291,8 @@ https://www.youtube.com/watch?v=FLy0LEis5Hs&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%
 доп(casey): Без ЭТОГО не стать ХОРОШИМ программистом
 https://www.youtube.com/watch?v=Aj2uhPrGvK8&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2
 
-
+Note(casey): Sergey Nemchinskiy
+доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
 
 
 GAMES:
