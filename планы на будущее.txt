@@ -2263,6 +2263,12 @@ Note(casey): EgorXD
 Note(casey): Ruby_
 доп(casey):
 
+Note(casey): Nifty
+доп(casey): https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A
+
+
+
+
 Note(casey): Over Engineer
 доп(casey):
 
@@ -2274,9 +2280,6 @@ Note(casey): CodeTrain
 
 Note(casey): Visual Studio Code 
 доп(casey): https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w
-
-Note(casey): Nifty
-доп(casey): https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A
 
 Note(casey): Лёша Корепанов
 доп(casey): 12 вещей о ПРОГРАММИРОВАНИИ, которые я хотел бы знать в 20 лет
