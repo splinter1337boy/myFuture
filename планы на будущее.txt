@@ -1968,7 +1968,7 @@ https://avatanplus.com/search?s=%D0%B4%D1%80%D0%B5%D0%B9%D0%BD
 
 SOUNDCLOUD~(digicore playlist, 17 seventeen etc.)
 
-shitmontage:
+shitmontage(soundcloud):
 
 Note(casey): dj #GORECORE 
 доп(casey): 
@@ -1992,7 +1992,7 @@ Note(casey): franzj
 доп(casey):
 
 
-sc artists:
+sc artists(soundcloud):
 
 Note(casey): kurai
 доп(casey):
@@ -2021,7 +2021,7 @@ Note(casey): beanie jane
 Note(casey): grimori
 доп(casey): https://soundcloud.com/grimorixo
 
-hypershit:
+hypershit(YT):
 
 Note(casey): Itai
 доп(casey):
@@ -2045,7 +2045,7 @@ Note(casey): brokeboys
 доп(casey):
 
 
-lofi:
+lofi(YT):
 
 Note(casey): Blurred
 доп(casey):
