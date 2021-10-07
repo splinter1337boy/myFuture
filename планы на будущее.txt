@@ -2098,6 +2098,9 @@ Note(casey): Россия23
 Note(casey): xQcOW
 доп(casey):
 
+Note(casey): xQc Clips 
+доп(casey):
+
 Note(casey): forsen
 доп(casey):
 
@@ -2124,6 +2127,7 @@ Note(casey): kriper2004
 
 Note(casey): J utah
 доп(casey):
+
 
 Note(casey): Joma Tech
 доп(casey): Coding a whole web app ONLY using my Phone.
