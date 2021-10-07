@@ -2304,6 +2304,7 @@ Note(casey): Проекты, minecraftparasha.veg домонтировать
 доп(casey): camera motion tracking tutorial 
 доп(casey): pinch/punch
 доп(casey): shake effect
+доп(casey): nikita viseri
 
 
 Note(casey): Проекты, свин
