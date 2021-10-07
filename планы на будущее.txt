@@ -2252,9 +2252,13 @@ Note(casey): Nifty
 доп(casey): https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A
 
 Note(casey): Лёша Корепанов
+доп(casey): 12 вещей о ПРОГРАММИРОВАНИИ, которые я хотел бы знать в 20 лет
+https://www.youtube.com/watch?v=Z9FvlPpSS3U&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2
 доп(casey): Самые востребованные языки программирования для начинающих
 https://www.youtube.com/watch?v=FLy0LEis5Hs&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2
-доп(casey):
+доп(casey): Без ЭТОГО не стать ХОРОШИМ программистом
+https://www.youtube.com/watch?v=Aj2uhPrGvK8&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2
+
 
 
 
