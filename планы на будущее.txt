@@ -2251,6 +2251,9 @@ Note(casey): Visual Studio Code
 Note(casey): Nifty
 доп(casey): https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A
 
+Note(casey): Лёша Корепанов
+доп(casey):
+
 GAMES:
 osu
 minecraft
