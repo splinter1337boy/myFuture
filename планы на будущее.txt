@@ -2230,6 +2230,18 @@ Note(casey): Velaskes
 Note(casey): Marine Ch.
 доп(casey):
 
+Note(casey): rinrin doll life in japan
+доп(casey):
+
+Note(casey): Nexpo
+доп(casey):
+
+Note(casey): qAkasha
+доп(casey):
+
+Note(casey): HoneyMad
+доп(casey):
+
 Note(casey): мысли папича
 доп(casey):
 
@@ -2258,18 +2270,6 @@ Note(casey): Sebastian Lague
 доп(casey): Coding Adventure: Chess AI
 
 Note(casey): CodeTrain
-доп(casey):
-
-Note(casey): rinrin doll life in japan
-доп(casey):
-
-Note(casey): Nexpo
-доп(casey):
-
-Note(casey): qAkasha
-доп(casey):
-
-Note(casey): HoneyMad
 доп(casey):
 
 Note(casey): Visual Studio Code 
