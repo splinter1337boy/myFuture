@@ -134,10 +134,10 @@ https://rutracker.net/forum/viewtopic.php?t=5448417(17) end
 
 diodor7:
 
-typescript:
+Understanding TypeScript - 2021 Edition:
 https://rutracker.net/forum/viewtopic.php?t=5874684(16)
 
-javascript:
+JavaScript - The Complete Guide 2021 (Beginner + Advanced):
 https://rutracker.net/forum/viewtopic.php?t=5874667!!!!!!!(4)(диск Е)
 
 react:
