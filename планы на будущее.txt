@@ -1101,7 +1101,7 @@ Note(casey): YOUTUBE, ???(???)
 
 sql metanit.com:
 https://metanit.com/sql/tutorial/
-Note(casey): sql metanit.com, ???
+Note(casey): 
 доп(casey): sql metanit.com - параллельно делать c postgreSQL [Илья Фофанов]
 
 Note(casey): YOUTUBE, ???(???)
