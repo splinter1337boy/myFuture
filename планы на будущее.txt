@@ -452,10 +452,6 @@ YOUTUBE links(python):
 
 
 
-
-python + django metanit.com:
-https://metanit.com/python/django/
-
 python django + 
 https://rutracker.net/forum/viewtopic.php?t=5892080
 
@@ -464,6 +460,9 @@ https://rutracker.net/forum/viewtopic.php?t=5482440
 
 Create UberEats with Python/Django and Swift 3:
 https://rutracker.net/forum/viewtopic.php?t=5482318
+
+python + django metanit.com:
+https://metanit.com/python/django/
 
 Django Girls (бесплатно, есть в сети)
 
