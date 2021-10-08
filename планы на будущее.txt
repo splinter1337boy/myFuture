@@ -1140,18 +1140,24 @@ postgreSQL YT:
 
 MySQL Fundamentals part 1:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5849881
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
 MySQL Fundamentals Part 2:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5859949
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
 mysql metanit.com:
 https://metanit.com/sql/mysql/
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
@@ -1167,6 +1173,8 @@ mysql YT:
 
 ms sql server metanit.com:
 https://metanit.com/sql/sqlserver/
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
@@ -1182,12 +1190,16 @@ ms sql server YT:
 
 MongoDB - The Complete Developer's Guide:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5639171
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
 mongodb metanit.com:
 https://metanit.com/nosql/mongodb/
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
