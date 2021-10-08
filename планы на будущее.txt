@@ -1123,7 +1123,7 @@ Note(casey): YOUTUBE, Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP,
 
 postgreSQL metanit.com:
 https://metanit.com/sql/postgresql/
-Note(casey): postgreSQL metanit.com, ???
+Note(casey): 
 доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
