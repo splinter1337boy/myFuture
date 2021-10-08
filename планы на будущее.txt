@@ -325,15 +325,10 @@ YOUTUBE links(nodejs):
 	metanit.com kotlin:
 	https://metanit.com/kotlin/tutorial/
 	
-books:
+	books:
 	kotlin(https://rutracker.net/forum/viewtopic.php?t=5791946
 		https://rutracker.net/forum/viewtopic.php?t=5791949
 	)	
-	
-	
-	frontendmasters:(нету)
-	react native:
-	https://rutracker.net/forum/viewtopic.php?t=5898336
 	
 	Android O & Java - Mobile App Development | Beginning to End
 	https://rutracker.net/forum/viewtopic.php?t=5483806
