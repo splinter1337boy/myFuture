@@ -2709,8 +2709,13 @@ Note(casey): Проекты, ???
 
 
 
-maybe try p5.js?
+maybe try p5.js?(codetrain)
 
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
 
 
 ------------------------------------------------------------
