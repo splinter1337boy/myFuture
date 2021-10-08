@@ -2335,6 +2335,7 @@ Note(casey): Проекты, minecraftparasha.veg домонтировать
 доп(casey): nikita viseri
 доп(casey): geshka genadi gorin
 доп(casey): hikaru montage
+доп(casey): GORESET
 
 
 Note(casey): Проекты, свин
