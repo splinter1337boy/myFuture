@@ -146,6 +146,8 @@ https://rutracker.net/forum/viewtopic.php?t=5874677!!!!!!!(5.1)(диск Е)
 OpenCart - Создание современного интернет-магазина от А до Я.:(5.2)(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5383769
 
+React Native - The Practical Guide [2021 Edition]:(5.3)(нету)
+https://rutracker.net/forum/viewtopic.php?t=5874682
 
 vue:
 https://rutracker.net/forum/viewtopic.php?t=5874689(11)(диск Е)
@@ -328,10 +330,6 @@ books:
 		https://rutracker.net/forum/viewtopic.php?t=5791949
 	)	
 	
-
-
-	React Native - The Practical Guide [2021 Edition]:(нету)
-	https://rutracker.net/forum/viewtopic.php?t=5874682
 	
 	frontendmasters:(нету)
 	react native:
