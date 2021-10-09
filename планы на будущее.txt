@@ -2734,7 +2734,7 @@ Note(casey): Проекты, ???
 
 maybe try p5.js(codetrain)
 
-Note(casey): 
+Note(casey): p5.js\codetrain\???
 доп(casey): 
 
 Note(casey): Проекты, ???
@@ -2743,7 +2743,7 @@ Note(casey): Проекты, ???
 
 Build Cross-Platform Desktop Apps with Electron:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5448417
-Note(casey): 
+Note(casey): electron.js\
 доп(casey): диск
 
 Note(casey): YOUTUBE, ???(???)
