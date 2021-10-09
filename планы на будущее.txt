@@ -2716,7 +2716,7 @@ Note(casey): Проекты, ???
 
 
 
-maybe try p5.js? so let's try processing 3.5.4 (диск Е)(codetrain)
+maybe try p5.js(диск Е)(codetrain)
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
