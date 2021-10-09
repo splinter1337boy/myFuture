@@ -1065,8 +1065,8 @@ sql YT:
 
 [Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)
 https://rutracker.net/forum/viewtopic.php?t=5885973
-Note(casey): Практический курс для новичков по SQL и PostgreSQL, 01 Введение в SQL, 001 Основные концепции
-доп(casey): диск D: 
+Note(casey): postgreSQL\[Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)\01 Введение в SQL\001 Основные концепции
+доп(casey): диск D: [Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)
 
 Note(casey): YOUTUBE, Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.(Диджитализируй!)
 доп(casey): 
