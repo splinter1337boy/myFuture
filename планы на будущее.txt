@@ -2475,7 +2475,7 @@ Note(casey):
 доп(casey): 
 
 
-Note(casey): FL Studio 20 playlist
+FL Studio 20 playlist
 доп(casey): https://www.youtube.com/playlist?list=PLx5i827-FDqPiLPjGxlUv3gjq7uCEVVfl
 
 
@@ -2488,7 +2488,9 @@ YOUTUBE, ???
 
 
 
-fl studio playlist:
+fl studio playlist
+доп(casey): https://www.youtube.com/playlist?list=PL-2XD_2BzphLJYMXO-9WomjDSsE05vm7X
+
 Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
 доп(casey): 
 
