@@ -2482,15 +2482,16 @@ beats
 Note(casey): Название курса, ???
 доп(casey): 
 
-Note(casey): YOUTUBE, FL Studio 20 - Complete Beginner Basics Tutorial
-доп(casey): https://www.youtube.com/watch?v=pDIsEZsalAo&ab_channel=InTheMix
+YOUTUBE, FL Studio 20 playlist
+доп(casey): https://www.youtube.com/playlist?list=PLx5i827-FDqPiLPjGxlUv3gjq7uCEVVfl
+
+
+
 
 Note(casey): Проекты, название проекта
 доп(casey): 
 
 beats YT:
-
-срочно найти чо нить поделать
 
 
 
