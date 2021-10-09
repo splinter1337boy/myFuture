@@ -214,14 +214,6 @@ https://metanit.com/web/nodejs/
 }
 
 
-
-YOUTUBE links(javascript):
-
-YOUTUBE links(react):
-
-YOUTUBE links(vue3 && vuejs):
-
-
 -----------------------------------------------------------------------------
 
 
