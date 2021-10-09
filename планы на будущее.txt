@@ -620,14 +620,6 @@ https://rutracker.org/forum/viewtopic.php?t=4191740(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5553924
 
 
-photoshop:
-нету
-
-clip studio paint:
-нету
-
-Toon Boom Harmony:
-нету
 
 YOUTUBE links(illustrator):
 
@@ -638,17 +630,6 @@ Create a zoom and fade effect in Adobe Flash
 https://www.youtube.com/watch?v=joi6AZsF0X4&ab_channel=DanielWood
 
 YOUTUBE links(леттеринг):
-
-YOUTUBE links(photoshop):
-Photoshop for Beginners | FREE COURSE
-https://www.youtube.com/watch?v=IyR_uYsRdPs&ab_channel=EnvatoTuts%2B
-
-
-YOUTUBE links(clip studio paint):
-
-
-YOUTUBE links(Toon Boom Harmony):
-
 
 -------------------------------------------------------------
 
@@ -2595,7 +2576,7 @@ Note(casey): ???
 доп(casey): диск
 
 Note(casey): YOUTUBE, Photoshop for Beginners | FREE COURSE(Envato Tuts+)
-доп(casey): 
+доп(casey): https://www.youtube.com/watch?v=IyR_uYsRdPs&ab_channel=EnvatoTuts%2B
 
 Note(casey): YOUTUBE, How To Use Liquify Tool In Photoshop CC 2019 EASY TUTORIAL
 доп(casey): https://www.youtube.com/watch?v=8uDbKW4RTB0&ab_channel=ASMRCooking
@@ -2687,9 +2668,6 @@ Note(casey): Проекты, ???
 
 
 Toon Boom Harmony YT:
-
-
-найти курс по-хорошему
 
 
 
