@@ -607,9 +607,11 @@ new art school: (Диск E)
 рисование, adobe flash pro, 
 Adobe Flash Professional CS6:(Диск Е)
 https://rutracker.org/forum/viewtopic.php?t=5618500
+
 Adobe Flash Professional CS6 Essential:(Диск Е)
 https://rutracker.org/forum/viewtopic.php?t=4862263
 
+Adobe Flash Professional CS6: New Features Workshop
 https://rutracker.org/forum/viewtopic.php?t=4191740(Нету)
 
 
@@ -619,13 +621,13 @@ https://rutracker.net/forum/viewtopic.php?t=5553924
 
 
 photoshop:
-
+нету
 
 clip studio paint:
-
+нету
 
 Toon Boom Harmony:
-
+нету
 
 YOUTUBE links(illustrator):
 
@@ -2590,7 +2592,7 @@ Note(casey): Универсальная техника рисования в Adobe Illustrator
 
 photoshop
 Note(casey): ???
-доп(casey): диск D: ???
+доп(casey): диск
 
 Note(casey): YOUTUBE, Photoshop for Beginners | FREE COURSE(Envato Tuts+)
 доп(casey): 
