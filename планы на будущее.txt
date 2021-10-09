@@ -2561,6 +2561,9 @@ illustrator
 Note(casey): Курс по рисованию векторных иллюстраций\1. Работа с пером\1. Интерфейс Adobe Illustrator
 доп(casey): диск E: risovan.vektor.ill
 
+illustrator playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphLX8l76qmMhs5H4Cis3JVzy
+
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
@@ -2571,8 +2574,11 @@ Note(casey): Проекты, ???
 illustrator YT:
 
 Atlantis
+Note(casey): Простая и эффективная техника рисования в Adobe Illustrator
+доп(casey): https://www.youtube.com/watch?v=Kzwvc-0O1jA&ab_channel=Atlantis
+
 Note(casey): Универсальная техника рисования в Adobe Illustrator
-доп(casey):
+доп(casey): https://www.youtube.com/watch?v=FHhVznQp754&t=5s&ab_channel=Atlantis
 
 
 
@@ -2620,6 +2626,8 @@ sai
 Note(casey): new art school\1. Введение\1
 доп(casey): диск Е: newartschool sketching
 
+sai playlist????
+
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
@@ -2639,12 +2647,9 @@ sai YT:
 Note(casey): Делай лого\Урок1\Урок 1 Теория
 доп(casey): диск D: delai.logo
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
 
 Note(casey): Проекты, ???
-доп(casey):
+доп(casey): а нужно ли?
 
 леттеринг YT:
 
@@ -2730,22 +2735,23 @@ Note(casey): Проекты, ???
 
 
 CG GEEK
-Note(casey): ???
+Note(casey): 
+доп(casey): 
 доп(casey): check explosion
 
 
 Andrew Florya
-Note(casey): ???
+Note(casey): 
 доп(casey):
 
 
 William Landgren
-Note(casey): ???
+Note(casey): 
 доп(casey): 
 
 
 Polyfjord
-Note(casey): ???
+Note(casey): 
 доп(casey): 
 
 
@@ -2759,6 +2765,9 @@ Note(casey): ???
 Note(casey): [Online VFX] Houdini 3D Artist [2018, RUS]\Block 1\1\3D17_OVFX_0101_29_09_01(время)
 доп(casey): расписать всех челиков по houdini;
 доп(casey): диск D: OnlineVFX_Houdini_Artist
+
+3D Houdini playlist????
+
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
@@ -2786,11 +2795,16 @@ https://rutracker.net/forum/viewtopic.php?t=5448417
 Note(casey): electron.js\
 доп(casey): диск
 
+electron playlist???
+
+
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
 Note(casey): Проекты, ???
 доп(casey):
+
+Electron YT:
 
 
 ------------------------------------------------------------
