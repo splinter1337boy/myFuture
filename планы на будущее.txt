@@ -2423,24 +2423,24 @@ Note(casey): Проекты, ???
 
 after effects YT:
 
-leolide
-Note(casey): (источник)
+leolide(https://www.youtube.com/c/leolide0)
+Note(casey):
 доп(casey):
 
-Jarxdd
+Jarxdd(https://www.youtube.com/channel/UCEmv84lt0IhGPPiyPSFxFCg)
 Note(casey): Smooth Position Shake After Effects AMV Tutorial
-доп(casey):
+доп(casey): https://www.youtube.com/watch?v=tu0c2RUnHsc&ab_channel=Jarxdd
 
 
-Kyrik
+Kyrik(https://www.youtube.com/c/Kyrik/videos)
 Note(casey):
-доп(casey): https://www.youtube.com/c/Kyrik/videos
+доп(casey): 
 
-Crepling
+Crepling(https://www.youtube.com/c/Crepling%E8%AE%B2%E8%A7%A3/videos)
 Note(casey):
-доп(casey): https://www.youtube.com/c/Crepling%E8%AE%B2%E8%A7%A3/videos
+доп(casey): 
 
-Добавить в плейлист ae + закончить сверху ыыыы
+закончить сверху ыыыы
 
 
 
@@ -2457,8 +2457,8 @@ live2d playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphI9TSwduXtjd_ybWGT9cLzr
 
 
-Note(casey): YOUTUBE, How to animate using live2d cubism! - Part 1 (basics)
-доп(casey): https://www.youtube.com/watch?v=w5htysrkUyk&ab_channel=GachaEmika
+How to animate using live2d cubism! - Part 1 (basics)
+https://www.youtube.com/watch?v=w5htysrkUyk&ab_channel=GachaEmika
 
 
 Note(casey): Проекты, ???
@@ -2466,9 +2466,7 @@ Note(casey): Проекты, ???
 
 
 live2d YT:
-Gacha Emika
-https://www.youtube.com/channel/UCuAOtXDDARmpOMu3aVlPmNQ
-
+Gacha Emika(https://www.youtube.com/c/GachaEmika)
 Note(casey): 
 доп(casey):
 
@@ -2491,11 +2489,11 @@ FL Studio 20 playlist
 https://www.youtube.com/playlist?list=PLx5i827-FDqPiLPjGxlUv3gjq7uCEVVfl
 
 
-YOUTUBE, ???
-доп(casey): 
+???
+???
 
-YOUTUBE, ???
-доп(casey): 
+???
+???
 
 
 
@@ -2503,11 +2501,11 @@ YOUTUBE, ???
 fl studio playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphLJYMXO-9WomjDSsE05vm7X
 
-Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
-доп(casey): 
+HOW TO MAKE A BLADEE(Cash Global Records)
+ссылка нужна
 
-Note(casey): YOUTUBE, HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN GANG)(Cash Global Records)
-доп(casey):
+HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN GANG)(Cash Global Records)
+ссылка нужна
 
 
 
