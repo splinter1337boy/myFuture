@@ -461,10 +461,10 @@ YOUTUBE links(python):
 python django(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5892080
 
-python django braintree:
+python django braintree:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5482440
 
-Create UberEats with Python/Django and Swift 3:
+Create UberEats with Python/Django and Swift 3:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5482318
 
 python + django metanit.com:
