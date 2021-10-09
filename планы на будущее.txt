@@ -2448,8 +2448,12 @@ live2d
 Note(casey):
 доп(casey):
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+live2d playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphI9TSwduXtjd_ybWGT9cLzr
+
+
+Note(casey): YOUTUBE, How to animate using live2d cubism! - Part 1 (basics)
+доп(casey): https://www.youtube.com/watch?v=w5htysrkUyk&ab_channel=GachaEmika
 
 
 Note(casey): Проекты, ???
@@ -2457,8 +2461,11 @@ Note(casey): Проекты, ???
 
 
 live2d YT:
+Gacha Emika
+https://www.youtube.com/channel/UCuAOtXDDARmpOMu3aVlPmNQ
 
-тут чото нужно найти хотя бы get some basics
+Note(casey): 
+доп(casey):
 
 
 
@@ -2476,7 +2483,7 @@ Note(casey):
 
 
 FL Studio 20 playlist
-доп(casey): https://www.youtube.com/playlist?list=PLx5i827-FDqPiLPjGxlUv3gjq7uCEVVfl
+https://www.youtube.com/playlist?list=PLx5i827-FDqPiLPjGxlUv3gjq7uCEVVfl
 
 
 YOUTUBE, ???
@@ -2489,7 +2496,7 @@ YOUTUBE, ???
 
 
 fl studio playlist
-доп(casey): https://www.youtube.com/playlist?list=PL-2XD_2BzphLJYMXO-9WomjDSsE05vm7X
+https://www.youtube.com/playlist?list=PL-2XD_2BzphLJYMXO-9WomjDSsE05vm7X
 
 Note(casey): YOUTUBE, HOW TO MAKE A BLADEE(Cash Global Records)
 доп(casey): 
