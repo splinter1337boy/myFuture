@@ -570,7 +570,7 @@ https://www.youtube.com/watch?v=b_N-HAn8zVs&ab_channel=AleksaTamburkovski
 --------------------------------------------------------
 Sony Vegas Pro
 YOUTUBE links(Sony Vegas Pro):
-https://www.youtube.com/playlist?list=PL-2XD_2BzphKdK7QENo1YFvaYCS3mlMVF:
+https://www.youtube.com/playlist?list=PL-2XD_2BzphKdK7QENo1YFvaYCS3mlMVF
 
 ---------------------------------------------------------------
 
@@ -583,7 +583,6 @@ Adobe After Effects. Продвинутый уровень. Гибридный курс(нету)
 https://rutracker.net/forum/viewtopic.php?t=5888490
 
 YOUTUBE links(after effects):
-https://www.youtube.com/watch?v=Qem8LvW5EFg
 https://www.youtube.com/watch?v=RnCsAIMCfww&list=LL&index=1&t=3s
 https://www.youtube.com/watch?v=-HxGEhDXyTA&list=LL&index=2&t=10s
 https://www.youtube.com/watch?v=hOs8q0ECZiQ
@@ -2418,6 +2417,10 @@ Smooth Basic Transitions + Shake | After Effects AMV Tutorial
 
 x shake tutorial after effects (updated):
 https://www.youtube.com/watch?v=o-kGig4QtmE
+
+[AMV Tutorial] S_EdgeDetect Animation || After Effects
+https://www.youtube.com/watch?v=Qem8LvW5EFg
+
 
 
 Note(casey): Проекты, ???
