@@ -1063,7 +1063,7 @@ sql YT:
 
 
 
-[Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)
+[Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020):(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5885973
 Note(casey): postgreSQL\[Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)\01 Введение в SQL\001 Основные концепции
 доп(casey): диск D: [Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)
