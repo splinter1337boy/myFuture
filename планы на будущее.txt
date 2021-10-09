@@ -1373,46 +1373,6 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
-Note(casey): react, ???
-доп(casey): 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-
-
-Note(casey): vuejs, ???
-доп(casey): (диск E)
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-
-
-Note(casey): vue3, ???
-доп(casey):  (диск E)
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-
-
-
-Note(casey): angular, ???
-доп(casey): 
-
-Note(casey): typescript, ???
-доп(casey): 
-
-
-Note(casey): electron.js, ???
-доп(casey): 
-
-
-
-
-
-
 
 Note(casey): javascript metanit.com, ???
 доп(casey): начинать когда окончательно изучу javascript, анал. для остальных; 
