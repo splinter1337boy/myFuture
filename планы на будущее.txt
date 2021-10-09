@@ -2510,9 +2510,6 @@ adobe flash pro
 Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\07. Using Inverse Kinematics
 доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
 
-Note(casey): YOUTUBE, How To Animate in Flash for Beginners (Part 2) | Motion Tweens(Jesse J. Jones)
-доп(casey): https://www.youtube.com/watch?v=E4ETFOU40i8&ab_channel=JesseJ.Jones
-
 Note(casey): YOUTUBE, Create a zoom and fade effect in Adobe Flash
 доп(casey): https://www.youtube.com/watch?v=joi6AZsF0X4&ab_channel=DanielWood
 
@@ -2523,9 +2520,11 @@ Note(casey): Проекты, heylog
 adobe flash pro YT:
 
 Jesse J. Jones
-Note(casey): 
-доп(casey):
+Note(casey): How To Animate in Flash for Beginners (Part 2) | Motion Tweens(Jesse J. Jones)
+доп(casey): https://www.youtube.com/watch?v=E4ETFOU40i8&ab_channel=JesseJ.Jones
 
+Note(casey): 
+доп(casey): 
 
 
 
