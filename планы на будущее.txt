@@ -248,26 +248,28 @@ https://rutracker.net/forum/viewtopic.php?t=5582681
 Building Real-time Apps with React, Socket.io, and RethinkDB:(6)
 https://rutracker.net/forum/viewtopic.php?t=5548703
 
-vampiri6ka(nodejs) Build Collaborative editor and Real-time video call with NodeJS:
-https://rutracker.net/forum/viewtopic.php?t=5572754(5.2) 
-
-
 NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL):
-https://rutracker.net/forum/viewtopic.php?t=5874675!!!!!!!(1)
+https://rutracker.net/forum/viewtopic.php?t=5874675!!!!!!!(1.1)
+
+Docker & Kubernetes: The Practical Guide:
+https://rutracker.net/forum/viewtopic.php?t=5962665(1.2)
 
 Microservices with Node JS and React:
 https://rutracker.net/forum/viewtopic.php?t=5953538!!!!!!!!!!!!!!!!!(2)
 
-The Modern GraphQL Bootcamp (Advanced Node.js):
-https://rutracker.net/forum/viewtopic.php?t=5638529(graphQL)(5.1)
-
-
 nosize: Complete Next.js with React & Node - Beautiful Portfolio App
 https://rutracker.net/forum/viewtopic.php?t=5924565!!!!!!!(3)
 
-
 Rapid Development on AWS: React, Node.js & GraphQL:
 https://rutracker.net/forum/viewtopic.php?t=5592645(4)
+
+The Modern GraphQL Bootcamp (Advanced Node.js):
+https://rutracker.net/forum/viewtopic.php?t=5638529(graphQL)(5.1)
+
+vampiri6ka(nodejs) Build Collaborative editor and Real-time video call with NodeJS:
+https://rutracker.net/forum/viewtopic.php?t=5572754(5.2) 
+
+
 
 
 
@@ -287,7 +289,7 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 
 
 
-code4startup:
+code4startup(vampirka):
 https://rutracker.net/forum/tracker.php?nm=code4startup
 
 
