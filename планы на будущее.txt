@@ -2364,6 +2364,11 @@ after effects(гибр. && ae tutorials);
 Note(casey): Adobe After Effects. Базовый уровень. Гибридный курс (2020)\Занятие №01\4. Простая Анимация в After Effects
 доп(casey): диск E: [Никита Чесноков] Adobe After Effects. Базовый уровень. Гибридный курс (2020)
 
+
+ae playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphKhHQzLd7dpGzFH5_8Q_ExP
+
+
 Using LIQUIFY for Muscles in video! - After Effects VFX
 доп(casey): https://www.youtube.com/watch?v=KWonFlsa7iM&ab_channel=Studio2Magic
 
@@ -2587,6 +2592,10 @@ photoshop
 Note(casey): ???
 доп(casey): диск
 
+
+photoshop playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphJ3twuh5-u54zNWEtHFbO5O
+
 Note(casey): YOUTUBE, Photoshop for Beginners | FREE COURSE(Envato Tuts+)
 доп(casey): https://www.youtube.com/watch?v=IyR_uYsRdPs&ab_channel=EnvatoTuts%2B
 
@@ -2649,6 +2658,9 @@ clip studio paint
 Note(casey):
 доп(casey): 
 
+clip studio paint playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphLhFJmtrTbdDsiCIlCop9X-
+
 Note(casey): YOUTUBE, How to Animate in Clip Studio Paint for Beginners
 доп(casey): https://www.youtube.com/watch?v=KdPkP0boBOo&ab_channel=WhytManga
 
@@ -2665,6 +2677,9 @@ clip studio paint YT:
 Toon Boom Harmony
 Note(casey):
 доп(casey): 
+
+Toon Boom Harmony playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphK5dN7bOgR5U4jY5JmJyB-w
 
 Note(casey): YOUTUBE, Toon Boom Harmony Tutorial for Beginners: How to Make a Cartoon (PART 2)(Jesse J. Jones)
 доп(casey): https://www.youtube.com/watch?v=iZseMGi0J5g&ab_channel=JesseJ.Jones
@@ -2695,6 +2710,14 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 доп(casey): посмотреть gumroad, Creative Shrimp, Learn Squared, Blender Cloud
 доп(casey): environment досмотреть чо то переделать
 доп(casey): диск D: CGCookie - Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners by Grant Wilk (2019)
+
+
+
+3D masterpieces playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphJXHA9J-UioQaBNXpKCWrsw
+
+Blender pog playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphLzw0YEnyqZgDY70vg6706F
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
