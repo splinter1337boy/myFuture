@@ -2731,7 +2731,7 @@ Note(casey): Проекты, ???
 
 
 
-maybe try p5.js(диск Е)(codetrain)
+maybe try p5.js(codetrain)
 
 Note(casey): 
 доп(casey): 
