@@ -1077,7 +1077,7 @@ https://www.youtube.com/watch?v=WpojDncIWOw&t=10s&ab_channel=%D0%94%D0%B8%D0%B4%
 
 postgreSQL metanit.com:
 https://metanit.com/sql/postgresql/
-Note(casey): 
+Note(casey): postgreSQL\postgreSQL metanit.com\
 доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
@@ -1110,7 +1110,7 @@ Note(casey): YOUTUBE, ???(???)
 
 mysql metanit.com:
 https://metanit.com/sql/mysql/
-Note(casey): 
+Note(casey): mysql\mysql metanit.com\
 доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
@@ -1135,7 +1135,7 @@ Note(casey): YOUTUBE, ???(???)
 
 ms sql server metanit.com:
 https://metanit.com/sql/sqlserver/
-Note(casey): 
+Note(casey): ms sql server\ms sql server metanit.com\
 доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
@@ -1160,7 +1160,7 @@ Note(casey): YOUTUBE, ???(???)
 
 mongodb metanit.com:
 https://metanit.com/nosql/mongodb/
-Note(casey): 
+Note(casey): mongoDB\mongodb metanit.com\
 доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
