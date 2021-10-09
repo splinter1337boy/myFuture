@@ -126,16 +126,13 @@ https://rutracker.net/forum/viewtopic.php?t=5483055
 Joomla 3 с Нуля до Гуру:(9.3)(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5422954
 
-Build Cross-Platform Desktop Apps with Electron:
-https://rutracker.net/forum/viewtopic.php?t=5448417(17) end
-
 
 
 
 diodor7:
 
 Understanding TypeScript - 2021 Edition:
-https://rutracker.net/forum/viewtopic.php?t=5874684(16)
+https://rutracker.net/forum/viewtopic.php?t=5874684(16) end
 
 JavaScript - The Complete Guide 2021 (Beginner + Advanced):
 https://rutracker.net/forum/viewtopic.php?t=5874667!!!!!!!(4)(диск Е)
@@ -2742,6 +2739,10 @@ Note(casey): YOUTUBE, ???(???)
 
 Note(casey): Проекты, ???
 доп(casey):
+
+
+Build Cross-Platform Desktop Apps with Electron:
+https://rutracker.net/forum/viewtopic.php?t=5448417
 
 
 ------------------------------------------------------------
