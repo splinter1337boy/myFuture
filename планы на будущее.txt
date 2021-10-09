@@ -2296,11 +2296,17 @@ https://humanbenchmark.com/tests/reactiontime
 
 
 sony vegas pro
-Note(casey): Название курса, ???
+Note(casey):
 доп(casey): 
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
+svp playlist
+https://www.youtube.com/playlist?list=PL-2XD_2BzphKdK7QENo1YFvaYCS3mlMVF
+
+
+HOW TO MAKE A CONTENT AWARE SCALE + SHAKY VOICE MEME TUTORIAL!
+https://www.youtube.com/watch?v=ZrncX033cvE&ab_channel=StephenClark
+
+
 
 
 Note(casey): Проекты, minecraftparasha.veg домонтировать
@@ -2326,8 +2332,7 @@ Note(casey): Проекты, minecraftparasha.veg домонтировать
 доп(casey): xQc INTRO
 
 
-HOW TO MAKE A CONTENT AWARE SCALE + SHAKY VOICE MEME TUTORIAL!
-доп(casey): https://www.youtube.com/watch?v=ZrncX033cvE&ab_channel=StephenClark
+
 
 
 Note(casey): Проекты, свин
@@ -2339,16 +2344,18 @@ Note(casey): Проекты, heylog
 
 sony vegas pro YT:
 
-LaNNeR
+LaNNeR(https://www.youtube.com/c/LaNNeRMVM)
 Note(casey): Туториал 2021 LaNNeR
-доп(casey):
+доп(casey): https://www.youtube.com/watch?v=8qi3zD0CLNQ&t=2843s&ab_channel=LaNNeR
 Note(casey): КАК сделать ЗВУКОВЫЕ ЭФФЕКТЫ для МУВИКА CSGO
-доп(casey):
+доп(casey): https://www.youtube.com/watch?v=3tlNbpHBch4&t=4s&ab_channel=LaNNeR
+Note(casey): Как сделать мувик в кс го? Editing/flicker/render settings/vfx/cc tutorial 
+доп(casey): https://www.youtube.com/watch?v=D3KAIJF-3_U&ab_channel=LaNNeR
 
-Lebanese Lizard
+Lebanese Lizard(https://www.youtube.com/c/LebaneseLizard)
 Note(casey): How to Datamosh with 1-click in VEGAS (EASY)
-доп(casey):
-https://www.youtube.com/c/LebaneseLizard/videos
+доп(casey): https://www.youtube.com/watch?v=o-KWRoCiHz0&t=2s&ab_channel=LebaneseLizard
+
 
 
 
@@ -2370,24 +2377,24 @@ https://www.youtube.com/playlist?list=PL-2XD_2BzphKhHQzLd7dpGzFH5_8Q_ExP
 
 
 Using LIQUIFY for Muscles in video! - After Effects VFX
-доп(casey): https://www.youtube.com/watch?v=KWonFlsa7iM&ab_channel=Studio2Magic
+https://www.youtube.com/watch?v=KWonFlsa7iM&ab_channel=Studio2Magic
 
 
 
 ( epilepsy warning ) shakes tutorial after effects #1
-доп(casey): https://www.youtube.com/watch?v=UMMGMelekC4&list=LL&index=3&t=14s
+https://www.youtube.com/watch?v=UMMGMelekC4&list=LL&index=3&t=14s
 
 1 Frame Transitions - After Effects AMV Tutorial
-доп(casey): https://www.youtube.com/watch?v=WjL8qHdW77M&ab_channel=Kyrik
+https://www.youtube.com/watch?v=WjL8qHdW77M&ab_channel=Kyrik
 
 Frame Blend Transitions - After Effects AMV Tutorial
-доп(casey): https://www.youtube.com/watch?v=FoM7U38kIUU&ab_channel=Kyrik
+https://www.youtube.com/watch?v=FoM7U38kIUU&ab_channel=Kyrik
 
 Rotation & Slides Transitions | After Effects AMV Tutorial
 https://www.youtube.com/watch?v=zI3f7IYZBjk&ab_channel=Crepling%E8%AE%B2%E8%A7%A3
 
 Smooth Basic Transitions + Shake | After Effects AMV Tutorial
-доп(casey): https://www.youtube.com/watch?v=730pdh4DMG4&ab_channel=Crepling%E8%AE%B2%E8%A7%A3
+https://www.youtube.com/watch?v=730pdh4DMG4&ab_channel=Crepling%E8%AE%B2%E8%A7%A3
 
 x shake tutorial after effects (updated):
 https://www.youtube.com/watch?v=o-kGig4QtmE
@@ -2539,7 +2546,7 @@ Note(casey): Проекты, heylog
 
 adobe flash pro YT:
 
-Jesse J. Jones
+Jesse J. Jones(https://www.youtube.com/c/JesseJJones)
 Note(casey): How To Animate in Flash for Beginners (Part 2) | Motion Tweens(Jesse J. Jones)
 доп(casey): https://www.youtube.com/watch?v=E4ETFOU40i8&ab_channel=JesseJ.Jones
 
@@ -2569,7 +2576,7 @@ Note(casey): Проекты, ???
 
 illustrator YT:
 
-Atlantis
+Atlantis(https://www.youtube.com/c/Atlantis_art_project)
 Note(casey): Простая и эффективная техника рисования в Adobe Illustrator
 доп(casey): https://www.youtube.com/watch?v=Kzwvc-0O1jA&ab_channel=Atlantis
 
@@ -2729,23 +2736,23 @@ Note(casey): Проекты, ???
 3D Blender YT:
 
 
-CG GEEK
+CG GEEK(https://www.youtube.com/c/CGGeek)
 Note(casey): 
 доп(casey): 
 доп(casey): check explosion
 
 
-Andrew Florya
+Andrew Florya(https://www.youtube.com/channel/UCeflP1goa7XgO-6KHFXYGxA)
 Note(casey): 
 доп(casey):
 
 
-William Landgren
+William Landgren(https://www.youtube.com/channel/UC_v-Rg-FYBUfkF4GLcMDEcg)
 Note(casey): 
 доп(casey): 
 
 
-Polyfjord
+Polyfjord(https://www.youtube.com/c/Polyfjord)
 Note(casey): 
 доп(casey): 
 
