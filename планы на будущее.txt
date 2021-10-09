@@ -642,14 +642,14 @@ https://www.youtube.com/watch?v=IyR_uYsRdPs&ab_channel=EnvatoTuts%2B
 C++ ravesli уроки:
 https://ravesli.com/uroki-cpp/#toc-1
 
-С++ ravesli opengl:
-https://ravesli.com/uroki-po-opengl/
+C++ ravesli sfml:
+https://ravesli.com/uroki-po-sfml/
 
 С++ ravesli prakticheskie zadaniya:
 https://ravesli.com/uroki-cpp/#toc-2
 
-C++ ravesli sfml:
-https://ravesli.com/uroki-po-sfml/
+С++ ravesli opengl:
+https://ravesli.com/uroki-po-opengl/
 
 С++ ravesli prakticheskie zadaniya:
 https://ravesli.com/uroki-cpp/#toc-2
