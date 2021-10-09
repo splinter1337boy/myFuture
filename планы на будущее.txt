@@ -1120,10 +1120,10 @@ mysql YT:
 
 
 
-MS SQL Server разработчик(нету):
+MS SQL Server разработчик(диск Е):
 https://rutracker.net/forum/viewtopic.php?t=5863999
-Note(casey): 
-доп(casey): 
+Note(casey): ms sql server\[OTUS] MS SQL Server разработчик (2019)\
+доп(casey): диск Е: [OTUS] MS SQL Server разработчик (2019)
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
