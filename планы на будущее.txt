@@ -2511,7 +2511,7 @@ Note(casey): YOUTUBE, HOW TO SOUND LIKE WHITEARMOR IN FL STUDIO 20  VENDR (DRAIN
 
 
 
-Note(casey): Проекты, название проекта
+Note(casey): Проекты, ???
 доп(casey): 
 
 beats YT:
@@ -2532,9 +2532,8 @@ Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\
 flash pro cs6 playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphKKQcDtDbjbqn4QFdTOH8aV
 
-
-Note(casey): YOUTUBE, Create a zoom and fade effect in Adobe Flash
-доп(casey): https://www.youtube.com/watch?v=joi6AZsF0X4&ab_channel=DanielWood
+Create a zoom and fade effect in Adobe Flash
+https://www.youtube.com/watch?v=joi6AZsF0X4&ab_channel=DanielWood
 
 
 Note(casey): Проекты, heylog
@@ -2545,9 +2544,6 @@ adobe flash pro YT:
 Jesse J. Jones
 Note(casey): How To Animate in Flash for Beginners (Part 2) | Motion Tweens(Jesse J. Jones)
 доп(casey): https://www.youtube.com/watch?v=E4ETFOU40i8&ab_channel=JesseJ.Jones
-
-Note(casey): 
-доп(casey): 
 
 
 
@@ -2564,8 +2560,10 @@ Note(casey): Курс по рисованию векторных иллюстраций\1. Работа с пером\1. Интерф
 illustrator playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphLX8l76qmMhs5H4Cis3JVzy
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+Простая и эффективная техника рисования в Adobe Illustrator
+https://www.youtube.com/watch?v=Kzwvc-0O1jA&ab_channel=Atlantis
+
+
 
 
 Note(casey): Проекты, ???
@@ -2602,14 +2600,14 @@ Note(casey): ???
 photoshop playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphJ3twuh5-u54zNWEtHFbO5O
 
-Note(casey): YOUTUBE, Photoshop for Beginners | FREE COURSE(Envato Tuts+)
-доп(casey): https://www.youtube.com/watch?v=IyR_uYsRdPs&ab_channel=EnvatoTuts%2B
+Photoshop for Beginners | FREE COURSE(Envato Tuts+)
+https://www.youtube.com/watch?v=IyR_uYsRdPs&ab_channel=EnvatoTuts%2B
 
-Note(casey): YOUTUBE, How To Use Liquify Tool In Photoshop CC 2019 EASY TUTORIAL
-доп(casey): https://www.youtube.com/watch?v=8uDbKW4RTB0&ab_channel=ASMRCooking
+How To Use Liquify Tool In Photoshop CC 2019 EASY TUTORIAL
+https://www.youtube.com/watch?v=8uDbKW4RTB0&ab_channel=ASMRCooking
 
-Note(casey): YOUTUBE, How To Use The Content Aware Scale Tool In Photoshop To Make Memes
-доп(casey): https://www.youtube.com/watch?v=UThUUvmsmq0&ab_channel=DanielJayRobinson
+How To Use The Content Aware Scale Tool In Photoshop To Make Memes
+https://www.youtube.com/watch?v=UThUUvmsmq0&ab_channel=DanielJayRobinson
 
 
 Note(casey): Проекты, ???
@@ -2666,8 +2664,8 @@ Note(casey):
 clip studio paint playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphLhFJmtrTbdDsiCIlCop9X-
 
-Note(casey): YOUTUBE, How to Animate in Clip Studio Paint for Beginners
-доп(casey): https://www.youtube.com/watch?v=KdPkP0boBOo&ab_channel=WhytManga
+How to Animate in Clip Studio Paint for Beginners
+https://www.youtube.com/watch?v=KdPkP0boBOo&ab_channel=WhytManga
 
 Note(casey): Проекты, ???
 доп(casey):
@@ -2686,11 +2684,11 @@ Note(casey):
 Toon Boom Harmony playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphK5dN7bOgR5U4jY5JmJyB-w
 
-Note(casey): YOUTUBE, Toon Boom Harmony Tutorial for Beginners: How to Make a Cartoon (PART 2)(Jesse J. Jones)
-доп(casey): https://www.youtube.com/watch?v=iZseMGi0J5g&ab_channel=JesseJ.Jones
+Toon Boom Harmony Tutorial for Beginners: How to Make a Cartoon (PART 2)(Jesse J. Jones)
+https://www.youtube.com/watch?v=iZseMGi0J5g&ab_channel=JesseJ.Jones
 
-Note(casey): YOUTUBE, Toon Boom Harmony Tutorial for Beginners: How To Make a Cartoon!(Jesse J. Jones)
-доп(casey): https://www.youtube.com/watch?v=MI65MRdKfIY&ab_channel=JesseJ.Jones
+Toon Boom Harmony Tutorial for Beginners: How To Make a Cartoon!(Jesse J. Jones)
+https://www.youtube.com/watch?v=MI65MRdKfIY&ab_channel=JesseJ.Jones
 
 
 Note(casey): Проекты, ???
@@ -2724,9 +2722,8 @@ https://www.youtube.com/playlist?list=PL-2XD_2BzphJXHA9J-UioQaBNXpKCWrsw
 Blender pog playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphLzw0YEnyqZgDY70vg6706F
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
+???
+???
 
 Note(casey): Проекты, ???
 доп(casey):
@@ -2769,9 +2766,8 @@ Note(casey): [Online VFX] Houdini 3D Artist [2018, RUS]\Block 1\1\3D17_OVFX_0101
 3D Houdini playlist????
 
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
+???
+???
 
 
 Note(casey): Проекты, ???
@@ -2798,8 +2794,9 @@ Note(casey): electron.js\
 electron playlist???
 
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+???
+???
+
 
 Note(casey): Проекты, ???
 доп(casey):
