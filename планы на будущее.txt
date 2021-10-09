@@ -1371,18 +1371,6 @@ Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
-
-
-
-Note(casey): javascript metanit.com, ???
-доп(casey): начинать когда окончательно изучу javascript, анал. для остальных; 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-Note(casey): Проекты, ???
-доп(casey):
-
 javascript YT:
 Владилен Минин
 Note(casey): JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020] (источник)
@@ -1393,14 +1381,6 @@ Note(casey): JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020] (и
 
 
 
-Note(casey): react metanit.com, ???
-доп(casey): 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-Note(casey): Проекты, ???
-доп(casey):
 
 react YT:
 Владилен Минин
@@ -1411,22 +1391,6 @@ Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React,
 
 
 
-Note(casey): vuejs metanit.com, ???
-доп(casey):
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-
-
-Note(casey): vue3 metanit.com, ???
-доп(casey): 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-Note(casey): Проекты, ???
-доп(casey):
 
 Vue YT:
 JavaScript.Ninja
@@ -1437,42 +1401,12 @@ Note(casey): Обзор курса по Vue.js 3 (автор: Владилен Минин) от Ильи Климова
 
 
 
-Note(casey): angularJS metanit.com, ???
-доп(casey): 
-
-Note(casey): angular metanit.com, ???
-доп(casey): 
-
-
-Note(casey): typescript metanit.com, ???
-доп(casey): 
-
-
-
-
-Note(casey): jquery metanit.com, ???
-доп(casey):
-
-Note(casey): webGL metanit.com, ???
-доп(casey):
-
-Note(casey): D3.js metanit.com, ???
-доп(casey):
-
-
-
 nodejs:
  
 deno  ? node.js
 
 Note(casey): nodejs, ???
 доп(casey): 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
-Note(casey): nodejs metanit.com, ???
-доп(casey):
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
