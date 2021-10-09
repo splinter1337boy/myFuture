@@ -2479,12 +2479,15 @@ live2d YT:
 othershit(ai(Диск E), sai(диск Е), adobe flash pro, леттеринг(диск D)); 
 
 beats
-Note(casey): Название курса, ???
-доп(casey): 
-
-YOUTUBE, FL Studio 20 playlist
+Note(casey): FL Studio 20 playlist
 доп(casey): https://www.youtube.com/playlist?list=PLx5i827-FDqPiLPjGxlUv3gjq7uCEVVfl
 
+
+YOUTUBE, ???
+доп(casey): 
+
+YOUTUBE, ???
+доп(casey): 
 
 
 
