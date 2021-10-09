@@ -1151,7 +1151,7 @@ ms sql server YT:
 MongoDB - The Complete Developer's Guide:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5639171
 Note(casey): 
-доп(casey): 
+доп(casey): диск 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
