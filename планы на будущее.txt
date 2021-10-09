@@ -110,6 +110,9 @@ frontendmasters:
 vuex for vuejs:
 https://rutracker.net/forum/viewtopic.php?t=5928682!!!!!(12)
 
+angular:
+https://rutracker.net/forum/viewtopic.php?t=5775848(14)
+
 frontendmasters:
 angular9 fundamentals:
 https://rutracker.net/forum/viewtopic.php?t=5916908!!!!!(15)
@@ -174,8 +177,7 @@ react:
 https://rutracker.net/forum/viewtopic.php?t=5801137!!!!!!!(8)(диск Е)
 javascript senior:
 https://rutracker.net/forum/viewtopic.php?t=6020638!!!!!!!(7)(диск Е)
-angular:
-https://rutracker.net/forum/viewtopic.php?t=5775848(14)
+
 
 
 
