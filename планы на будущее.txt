@@ -1088,18 +1088,18 @@ postgreSQL YT:
 
 
 
-MySQL Fundamentals part 1:(Нету)
+MySQL Fundamentals part 1:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5849881
-Note(casey): 
-доп(casey): 
+Note(casey): mysql\MySQL Fundamentals part 1
+доп(casey): диск Е: Pluralsight - MySQL Fundamentals by Pinal Dave
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
-MySQL Fundamentals Part 2:(Нету)
+MySQL Fundamentals Part 2:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5859949
-Note(casey): 
-доп(casey): 
+Note(casey): mysql\MySQL Fundamentals Part 2
+доп(casey): диск Е: Pluralsight - MySQL Fundamentals Part 2 by Pinal Dave
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
