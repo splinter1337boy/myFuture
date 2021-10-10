@@ -1842,43 +1842,43 @@ SOUNDCLOUD~(digicore playlist, 17 seventeen etc.)
 shitmontage(soundcloud):
 
 Note(casey): dj #GORECORE 
-доп(casey): 
+доп(casey): https://soundcloud.com/djgorecore
 
 Note(casey): cielle 
-доп(casey):
+доп(casey): https://soundcloud.com/ci-elle-uh
 
 Note(casey): dj #DAISY 
-доп(casey):
+доп(casey): https://soundcloud.com/deejaydaisy
 
 Note(casey): boxkitty 
-доп(casey):
+доп(casey): https://soundcloud.com/bxktty
 
 Note(casey): dashie 
-доп(casey):
+доп(casey): https://soundcloud.com/dshie
 
 Note(casey): gingus
-доп(casey):
+доп(casey): https://soundcloud.com/gingaloid
 
 Note(casey): franzj
-доп(casey):
+доп(casey): https://soundcloud.com/franzj
 
 
 sc artists(soundcloud):
 
 Note(casey): kurai
-доп(casey):
+доп(casey): https://soundcloud.com/kuraiiii
 
 Note(casey): bb
-доп(casey):
+доп(casey): https://soundcloud.com/h45
 
 Note(casey): wonder-girl
 доп(casey): https://soundcloud.com/wonder-girl-424589966
 
 Note(casey): 50landing
-доп(casey):
+доп(casey): https://soundcloud.com/50landing
 
 Note(casey): starfall
-доп(casey):
+доп(casey): https://soundcloud.com/starfall
 
 Note(casey): ketsai
 доп(casey): https://soundcloud.com/ketsai
@@ -1895,37 +1895,40 @@ Note(casey): grimori
 Note(casey): webcage
 доп(casey): https://soundcloud.com/webcage
 
+Note(casey): Deadfish
+доп(casey): https://www.youtube.com/channel/UCHx5CvtViPFaBL9TQqVeKGQ
+
 hypershit(YT):
 
 Note(casey): Itai
-доп(casey):
+доп(casey): https://www.youtube.com/channel/UCVODIIpWL8yKKJGhMoslyMw
 
 Note(casey): Biteki
-доп(casey):
+доп(casey): https://www.youtube.com/channel/UCsUeNbrb8t2Td1faP1VbK2g
 
 Note(casey): Virus
-доп(casey):
+доп(casey): https://www.youtube.com/channel/UCebfLo-sL0L7VrhJohrtw8A
 
 Note(casey): Needle
-доп(casey):
+доп(casey): https://www.youtube.com/channel/UC7DRbMbpHNR_3ru8XIiuEqQ
 
 Note(casey): digimonhyperpl0x -
-доп(casey):
+доп(casey): https://www.youtube.com/channel/UCaP5UrCOS8ovp3gxzrhEawQ
 
 Note(casey): SoundCloud
-доп(casey):
+доп(casey): https://www.youtube.com/c/SoundCloud
 
 Note(casey): brokeboys
-доп(casey):
+доп(casey): https://www.youtube.com/channel/UCm-MipQY5dNaO4LfeYdgKWQ
 
 
 lofi(YT):
 
 Note(casey): Blurred
-доп(casey):
+доп(casey): https://www.youtube.com/c/Blurredlofi
 
 Note(casey): Dreamy
-доп(casey):
+доп(casey): https://www.youtube.com/channel/UCYVyQv2rUtCMxJAFSuOSpmg
 
 
 
