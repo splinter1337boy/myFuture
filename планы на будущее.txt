@@ -1439,25 +1439,6 @@ Note(casey): Python\python metanit.com\Глава 3. Списки, кортежи и словари\Списки
 Note(casey): YOUTUBE, ???
 доп(casey):
 
-LINUX
-Note(casey): ravesli linux, ???
-доп(casey): 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
-Note(casey): Проекты, ???
-доп(casey):
-
-linux YT:
-
-
-vim:
-Изучаем Vim, команды и макросы. Зачем текстовый редактор Vim в 2018? Урок Vim
-https://www.youtube.com/watch?v=SHo3fAZfXMk&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
-БОЖЕСТВЕННЫЙ nvim как IDE для Python, Rust и всех-всех-всех — встречаем LSP!
-https://www.youtube.com/watch?v=PA7zZNJXJEk&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
-
 
 
 YT хирьянов
@@ -1576,10 +1557,30 @@ https://rutracker.net/forum/viewtopic.php?t=5480635),
 ->goLang(???),
 
 
-
-
 Note(casey): web 2021
 https://www.youtube.com/watch?v=VfGW0Qiy2I0
+
+
+{
+LINUX
+Note(casey): ravesli linux, ???
+доп(casey): 
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+Note(casey): Проекты, ???
+доп(casey):
+
+linux YT:
+
+
+vim:
+Изучаем Vim, команды и макросы. Зачем текстовый редактор Vim в 2018? Урок Vim
+https://www.youtube.com/watch?v=SHo3fAZfXMk&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
+БОЖЕСТВЕННЫЙ nvim как IDE для Python, Rust и всех-всех-всех — встречаем LSP!
+https://www.youtube.com/watch?v=PA7zZNJXJEk&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
+}
 
 -----------------------------------------------------------------------------
 
