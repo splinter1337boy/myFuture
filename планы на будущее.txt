@@ -140,11 +140,12 @@ https://rutracker.net/forum/viewtopic.php?t=5874667!!!!!!!(4)(диск Е)
 react:
 https://rutracker.net/forum/viewtopic.php?t=5874677!!!!!!!(5.1)(диск Е)
 
-OpenCart - Создание современного интернет-магазина от А до Я.:(5.2)(диск D)
+React Native - The Practical Guide [2021 Edition]:(5.2)(нету)
+https://rutracker.net/forum/viewtopic.php?t=58746821
+
+OpenCart - Создание современного интернет-магазина от А до Я.:(5.3)(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5383769
 
-React Native - The Practical Guide [2021 Edition]:(5.3)(нету)
-https://rutracker.net/forum/viewtopic.php?t=5874682
 
 vue:
 https://rutracker.net/forum/viewtopic.php?t=5874689(11)(диск Е)
