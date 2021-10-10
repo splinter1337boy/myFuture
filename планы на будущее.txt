@@ -115,7 +115,7 @@ https://rutracker.net/forum/viewtopic.php?t=5775848(14)
 
 frontendmasters:
 angular9 fundamentals:
-https://rutracker.net/forum/viewtopic.php?t=5916908!!!!!(15)
+https://rutracker.net/forum/viewtopic.php?t=5916908!!!!!(15) end
 
 NextJS & React - The Complete Guide: (9.1)
 https://rutracker.net/forum/viewtopic.php?t=6020597
@@ -132,7 +132,7 @@ https://rutracker.net/forum/viewtopic.php?t=5422954
 diodor7:
 
 Understanding TypeScript - 2021 Edition:
-https://rutracker.net/forum/viewtopic.php?t=5874684(16) end
+https://rutracker.net/forum/viewtopic.php?t=5874684(5.4)
 
 JavaScript - The Complete Guide 2021 (Beginner + Advanced):
 https://rutracker.net/forum/viewtopic.php?t=5874667!!!!!!!(4)(диск Е)
