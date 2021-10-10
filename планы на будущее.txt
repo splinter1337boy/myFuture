@@ -1518,7 +1518,9 @@ TCP-IP YT:
 
 
 
-->python + django
+python + django
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
@@ -1530,18 +1532,36 @@ Python django YT:
 
 
 python mobile development
+Kivy Tutorials Python
+https://www.youtube.com/watch?v=bMHK6NDVlCM&list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn&ab_channel=TechWithTim
+Note(casey): 
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
+
+
 
 
 ->YT bots
+Note(casey): 
+доп(casey): 
+
 Note(casey): Проекты, ???
 доп(casey):
 
 ->AI(artificial intelligence)!!!!!!!!!!!!!!
+Note(casey): 
+доп(casey): 
+
 Note(casey): Проекты, ???
 доп(casey):
 
 
 ->YT hackING:D
+Note(casey): 
+доп(casey): 
+
 Note(casey): Проекты, ???
 доп(casey):
 
