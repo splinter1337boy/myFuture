@@ -1391,7 +1391,7 @@ nodejs:
  
 deno  ? node.js
 
-Note(casey): nodejs, ???
+Note(casey):
 доп(casey): 
 доп(casey): freecodecamp js
 
