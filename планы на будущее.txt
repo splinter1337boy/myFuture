@@ -433,12 +433,10 @@ https://rutracker.net/forum/viewtopic.php?t=5482440
 Create UberEats with Python/Django and Swift 3:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5482318
 
-python + django metanit.com:
-https://metanit.com/python/django/
-
 Django Girls (бесплатно, есть в сети)
 
-
+python + django metanit.com:
+https://metanit.com/python/django/
 
 
 
@@ -1504,7 +1502,6 @@ TCP-IP YT:
 
 
 
-->python + django metanit.com
 ->python + django
 
 Note(casey): YOUTUBE, ???(???)
@@ -1514,6 +1511,9 @@ Note(casey): Проекты, ???
 доп(casey):
 
 Python django YT:
+
+
+python mobile development
 
 
 ->YT bots
