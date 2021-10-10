@@ -1346,9 +1346,9 @@ Note(casey): JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020] (и
 
 
 
-
-
-
+react
+Note(casey): 
+доп(casey): 
 доп(casey): freecodecamp js
 
 Note(casey): YOUTUBE, ???(???)
@@ -1366,8 +1366,9 @@ Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React,
 
 
 
-
-
+vue
+Note(casey): 
+доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
