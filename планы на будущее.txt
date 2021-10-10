@@ -1518,7 +1518,7 @@ TCP-IP YT:
 
 
 
-python + django
+python + django(нету на диске)
 Note(casey): 
 доп(casey): 
 
