@@ -186,34 +186,6 @@ https://rutracker.net/forum/viewtopic.php?t=6020638!!!!!!!(7)(диск Е)
 	3) Joomla +
 	4) MODX -
 
-
-{
-javascript:
-https://metanit.com/web/javascript/
-react:
-https://metanit.com/web/react/
-vuejs:
-https://metanit.com/web/vuejs/
-vue 3:
-https://metanit.com/web/vue/
-angularJS:
-https://metanit.com/web/angular/
-angular:
-https://metanit.com/web/angular2/
-typescript:
-https://metanit.com/web/typescript/
-jquery:
-https://metanit.com/web/jquery/
-webGL:
-https://metanit.com/web/webgl/
-D3.js:
-https://metanit.com/web/d3js/
-
-node.js:
-https://metanit.com/web/nodejs/
-}
-
-
 -----------------------------------------------------------------------------
 
 
@@ -1363,16 +1335,27 @@ Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
+Note(casey): Проекты, ???
+доп(casey):
+
 javascript YT:
 Владилен Минин
 Note(casey): JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020] (источник)
+доп(casey): 
+
+
+
+
+
+
+
+доп(casey): freecodecamp js
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
 доп(casey):
-
-
-
-
-
-
 
 react YT:
 Владилен Минин
@@ -1383,6 +1366,14 @@ Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React,
 
 
 
+
+
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey): 
+
+Note(casey): Проекты, ???
+доп(casey):
 
 Vue YT:
 JavaScript.Ninja
@@ -1399,6 +1390,7 @@ deno  ? node.js
 
 Note(casey): nodejs, ???
 доп(casey): 
+доп(casey): freecodecamp js
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
