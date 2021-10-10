@@ -130,10 +130,6 @@ https://rutracker.net/forum/viewtopic.php?t=5422954
 
 
 diodor7:
-
-Understanding TypeScript - 2021 Edition:
-https://rutracker.net/forum/viewtopic.php?t=5874684(5.4)
-
 JavaScript - The Complete Guide 2021 (Beginner + Advanced):
 https://rutracker.net/forum/viewtopic.php?t=5874667!!!!!!!(4)(диск Е)
 
@@ -146,6 +142,8 @@ https://rutracker.net/forum/viewtopic.php?t=58746821
 OpenCart - Создание современного интернет-магазина от А до Я.:(5.3)(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5383769
 
+Understanding TypeScript - 2021 Edition:
+https://rutracker.net/forum/viewtopic.php?t=5874684(5.4)
 
 vue:
 https://rutracker.net/forum/viewtopic.php?t=5874689(11)(диск Е)
