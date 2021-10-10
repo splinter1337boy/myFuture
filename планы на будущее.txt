@@ -103,12 +103,12 @@ JAVASCRIPT
 gatsby(react based)
 
 
-scaling vue with nuxt.js
-https://rutracker.net/forum/viewtopic.php?t=5946767(13)
-
 frontendmasters:
 vuex for vuejs:
 https://rutracker.net/forum/viewtopic.php?t=5928682!!!!!(12)
+
+scaling vue with nuxt.js
+https://rutracker.net/forum/viewtopic.php?t=5946767(13)
 
 angular:
 https://rutracker.net/forum/viewtopic.php?t=5775848(14)
@@ -116,15 +116,6 @@ https://rutracker.net/forum/viewtopic.php?t=5775848(14)
 frontendmasters:
 angular9 fundamentals:
 https://rutracker.net/forum/viewtopic.php?t=5916908!!!!!(15) end
-
-NextJS & React - The Complete Guide: (9.1)
-https://rutracker.net/forum/viewtopic.php?t=6020597
-
-Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(9.2)
-https://rutracker.net/forum/viewtopic.php?t=5483055
-
-Joomla 3 с Нуля до Гуру:(9.3)(диск D)
-https://rutracker.net/forum/viewtopic.php?t=5422954
 
 
 
@@ -139,13 +130,19 @@ https://rutracker.net/forum/viewtopic.php?t=5874677!!!!!!!(5.1)(диск Е)
 React Native - The Practical Guide [2021 Edition]:(5.2)(нету)
 https://rutracker.net/forum/viewtopic.php?t=58746821
 
-OpenCart - Создание современного интернет-магазина от А до Я.:(5.3)(диск D)
+NextJS & React - The Complete Guide: (5.3)
+https://rutracker.net/forum/viewtopic.php?t=6020597
+
+OpenCart - Создание современного интернет-магазина от А до Я.:(5.4)(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5383769
 
-Understanding TypeScript - 2021 Edition:
-https://rutracker.net/forum/viewtopic.php?t=5874684(5.4)
+Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(5.5)
+https://rutracker.net/forum/viewtopic.php?t=5483055
 
-vue:
+Understanding TypeScript - 2021 Edition:
+https://rutracker.net/forum/viewtopic.php?t=5874684(5.6)
+
+Vue - The Complete Guide (w/ Router, Vuex, Composition API):
 https://rutracker.net/forum/viewtopic.php?t=5874689(11)(диск Е)
 
 
@@ -176,7 +173,8 @@ react:
 https://rutracker.net/forum/viewtopic.php?t=5801137!!!!!!!(8)(диск Е)
 javascript senior:
 https://rutracker.net/forum/viewtopic.php?t=6020638!!!!!!!(7)(диск Е)
-
+Joomla 3 с Нуля до Гуру:(9)(диск D)
+https://rutracker.net/forum/viewtopic.php?t=5422954
 
 
 
