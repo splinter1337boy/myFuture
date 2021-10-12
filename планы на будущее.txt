@@ -1951,7 +1951,7 @@ Note(casey): brokeboys
 доп(casey): https://www.youtube.com/channel/UCm-MipQY5dNaO4LfeYdgKWQ
 
 
-lofi(YT):
+other(YT):
 
 Note(casey): Blurred
 доп(casey): https://www.youtube.com/c/Blurredlofi
@@ -1959,6 +1959,8 @@ Note(casey): Blurred
 Note(casey): Dreamy
 доп(casey): https://www.youtube.com/channel/UCYVyQv2rUtCMxJAFSuOSpmg
 
+Note(casey): xKito Music 
+доп(casey): https://www.youtube.com/channel/UCMOgdURr7d8pOVlc-alkfRg
 
 
 VK GROUPS(cursed)~
