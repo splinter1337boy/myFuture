@@ -2671,6 +2671,8 @@ Toon Boom Harmony YT:
 
 
 
+
+
 3D(Blender);
 Note(casey): Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners\Chapter 3 - Animation and Final Rendering\7-11
 Note(casey): 10. Preparing for Rendering and Loose Ends
@@ -2722,6 +2724,11 @@ Note(casey):
 
 
 
+
+
+
+
+
 3D(Houdini);
 Note(casey): [Online VFX] Houdini 3D Artist [2018, RUS]\Block 1\1\3D17_OVFX_0101_29_09_01(время)
 доп(casey): расписать всех челиков по houdini;
@@ -2741,6 +2748,13 @@ Note(casey): Проекты, ???
 
 
 
+
+
+
+
+
+
+
 maybe try p5.js(codetrain)
 
 Note(casey): p5.js\codetrain\???
@@ -2748,6 +2762,12 @@ Note(casey): p5.js\codetrain\???
 
 Note(casey): Проекты, ???
 доп(casey):
+
+
+
+
+
+
 
 
 Build Cross-Platform Desktop Apps with Electron:(нету)
