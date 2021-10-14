@@ -1928,6 +1928,9 @@ Note(casey): franzj
 Note(casey): crafter2011
 доп(casey): https://soundcloud.com/crafter2011
 
+Note(casey): sltted
+доп(casey): https://soundcloud.com/sltted
+
 
 sc artists(soundcloud):
 
