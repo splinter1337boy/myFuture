@@ -1519,6 +1519,12 @@ Note(casey): Проекты, ???
 доп(casey):
 
 Python django YT:
+Диджитализируй!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
+Note(casey): ??? (источник)
+доп(casey):
+
+
+
 
 
 python mobile development
@@ -2043,6 +2049,12 @@ Note(casey): utopia show
 Note(casey): Japan explorer(https://www.youtube.com/channel/UCGfM15CKSjHl8bGp16P6P8g)
 доп(casey): 
 
+Note(casey): rinrin doll life in japan(https://www.youtube.com/c/rinrindolljapan)
+доп(casey):
+
+Note(casey): Japan Walk [Together Walk](https://www.youtube.com/c/makimakiwalk)
+доп(casey):
+
 Note(casey): Artur Sharifov
 доп(casey):
 
@@ -2213,9 +2225,6 @@ Note(casey): Velaskes
 Note(casey): Marine Ch.
 доп(casey):
 
-Note(casey): rinrin doll life in japan
-доп(casey):
-
 Note(casey): adidas Korea
 доп(casey):
 
@@ -2263,9 +2272,6 @@ Note(casey): Over Engineer(https://www.youtube.com/c/OverEngineer)
 
 Note(casey): Sebastian Lague(https://www.youtube.com/c/SebastianLague)
 доп(casey): Coding Adventure: Chess AI
-
-Note(casey): CodeTrain(https://www.youtube.com/c/TheCodingTrain)
-доп(casey):
 
 Note(casey): Диджитализируй!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
 доп(casey): 
@@ -2805,7 +2811,7 @@ Note(casey): Проекты, ???
 maybe try p5.js(codetrain)
 
 Note(casey): p5.js\codetrain\???
-доп(casey): 
+доп(casey): ссылка на плейлист
 
 Note(casey): Проекты, ???
 доп(casey):
