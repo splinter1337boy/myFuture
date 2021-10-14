@@ -1815,7 +1815,7 @@ Note(casey): YOUTUBE, ???(???)
 
 
 Note(casey): java rush
-доп(casey): 
+доп(casey): https://javarush.ru/
 
 
 
