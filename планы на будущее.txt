@@ -1861,6 +1861,10 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
+Note(casey): Проекты, ???
+доп(casey):
+
+
 {
 	Note(casey): java.swing
 	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/index.html
