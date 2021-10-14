@@ -1801,12 +1801,20 @@ Note(casey): YOUTUBE, ???(???)
 доп(casey):
 
 
+
+
+
+
+
 Note(casey): java\java rush\
 доп(casey): 
 доп(casey): 
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
+
+
+
 
 
 Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
@@ -1818,6 +1826,8 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
+
+
 Note(casey): java\javaee\
 доп(casey): 
 доп(casey): 
@@ -1825,6 +1835,19 @@ Note(casey): java\javaee\
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
+
+
+
+
+
+minecraft build custom modes:
+доп(casey): 
+доп(casey): 
+
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
 
 
 {
