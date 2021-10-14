@@ -703,11 +703,13 @@ https://metanit.com/java/javaee/
 
 
 
-minecraft build custom modes:
+minecraft build custom modes:(нету)
 https://rutracker.net/forum/viewtopic.php?t=4969894
 
 
-java spring mvc(https://rutracker.net/forum/viewtopic.php?t=6003233)
+java spring mvc:(нету)
+https://rutracker.net/forum/viewtopic.php?t=6003233
+
 books: Java 8 Полное руководство " Герберта Шилда
 
 
@@ -1840,9 +1842,9 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
-minecraft build custom modes:
+minecraft build custom modes:(нету)
 доп(casey): 
-доп(casey): 
+доп(casey): диск
 
 
 Note(casey): YOUTUBE, ???(???)
