@@ -2040,6 +2040,9 @@ Note(casey): toples
 Note(casey): utopia show 
 доп(casey):
 
+Note(casey): Japan explorer(https://www.youtube.com/channel/UCGfM15CKSjHl8bGp16P6P8g)
+доп(casey): 
+
 Note(casey): Artur Sharifov
 доп(casey):
 
@@ -2082,8 +2085,8 @@ Note(casey): Bozzeh
 Note(casey): xQc Reacts
 доп(casey):
 
-Note(casey): xQc Clips
-доп(casey): https://www.youtube.com/channel/UCTBGvu3A26jOpQ-knB-Kx4Q
+Note(casey): xQc Clips(https://www.youtube.com/channel/UCTBGvu3A26jOpQ-knB-Kx4Q)
+доп(casey): 
 
 Note(casey): forsen
 доп(casey):
@@ -2225,8 +2228,8 @@ Note(casey): qAkasha
 Note(casey): HoneyMad
 доп(casey):
 
-Note(casey): Mad Highlights
-доп(casey): https://www.youtube.com/c/MadHighlights
+Note(casey): Mad Highlights(https://www.youtube.com/c/MadHighlights)
+доп(casey): 
 
 Note(casey): мысли папича
 доп(casey):
@@ -2249,8 +2252,8 @@ Note(casey): EgorXD
 Note(casey): Ruby_
 доп(casey):
 
-Note(casey): Nifty
-доп(casey): https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A
+Note(casey): Nifty(https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A)
+доп(casey): 
 
 
 
@@ -2268,7 +2271,7 @@ Note(casey): Диджитализируй!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4
 доп(casey): 
 
 Note(casey): Visual Studio Code(https://www.youtube.com/c/Code)
-доп(casey): https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w
+доп(casey): 
 
 Note(casey): Лёша Корепанов(https://www.youtube.com/c/aocore)
 доп(casey): 12 вещей о ПРОГРАММИРОВАНИИ, которые я хотел бы знать в 20 лет
