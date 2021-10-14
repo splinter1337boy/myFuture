@@ -1950,6 +1950,9 @@ Note(casey): sltted
 Note(casey): goodbyex2002
 доп(casey): https://soundcloud.com/goodbyex2002
 
+Note(casey): gloomstone
+доп(casey): https://soundcloud.com/gloomstone
+
 
 sc artists(soundcloud):
 
