@@ -1953,6 +1953,9 @@ Note(casey): goodbyex2002
 Note(casey): gloomstone
 доп(casey): https://soundcloud.com/gloomstone
 
+Note(casey): user-177606669
+доп(casey): https://soundcloud.com/user-177606669
+
 
 sc artists(soundcloud):
 
