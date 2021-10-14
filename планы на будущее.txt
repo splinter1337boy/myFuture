@@ -1925,6 +1925,9 @@ Note(casey): gingus
 Note(casey): franzj
 доп(casey): https://soundcloud.com/franzj
 
+Note(casey): crafter2011
+доп(casey): https://soundcloud.com/crafter2011
+
 
 sc artists(soundcloud):
 
