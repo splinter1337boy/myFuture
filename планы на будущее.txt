@@ -1306,7 +1306,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 5. javascript
 
-Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\026 Динамическая типизация в JS
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\027 Задачи с собеседований на понимание основ
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
 доп(casey): 010 - 011 Как работать с GitHub
 доп(casey): githowto -> 21. Подробнее о структуре;
