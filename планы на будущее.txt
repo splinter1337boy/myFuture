@@ -1442,14 +1442,12 @@ YT хирьянов
 Note(casey): 2020 Практика программирования на Python 3, ???
 доп(casey): 
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
 
+YT хирьянов
 Note(casey): 2021 Анализ данных на Python, ???
 доп(casey): 
 
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
+
 
 
 ->Online курс “Python для сетевых инженеров”(диск D Open PyNEng)
