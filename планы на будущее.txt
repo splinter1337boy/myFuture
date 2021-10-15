@@ -1231,12 +1231,13 @@ Note(casey): ??? (источник)
 
 3. css
 
+flexfrog!!!! proiti
+
 Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\22. Позиционирование
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 доп(casey): freecodecamp penguin
 доп(casey): freecodecamp css
 доп(casey): Responsive Web Design -> Basic HTML and HTML5 -> Create a Form Element
-доп(casey): flexfrog!!!! proiti
 доп(casey): margin in text?
 
 Note(casey): YOUTUBE, Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии (Фрилансер по жизни)
