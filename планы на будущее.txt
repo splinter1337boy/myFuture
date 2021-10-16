@@ -2087,6 +2087,9 @@ Note(casey): Вася ворон
 Note(casey): Trich tv
 доп(casey):
 
+Note(casey): Velaskes
+доп(casey):
+
 Note(casey): СЕРЕГА ПИРАТ 
 доп(casey):
 
@@ -2246,9 +2249,6 @@ Note(casey): Elegant Sister
 доп(casey):
 
 Note(casey): апвоут 
-доп(casey):
-
-Note(casey): Velaskes
 доп(casey):
 
 Note(casey): Marine Ch.
