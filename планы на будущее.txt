@@ -55,6 +55,9 @@ https://rutracker.net/forum/viewtopic.php?t=5898540(диск Е)
 курсы по udemy-advanced-css-sass!!!!!!!!!!
 https://rutracker.net/forum/viewtopic.php?t=5482390(диск Е)
 
+gulp - ЮРИЙ
+https://rutracker.net/forum/viewtopic.php?t=5855667(лысый мужчина)(диск Е)
+
 
 bootstrap
 materialize
@@ -91,10 +94,6 @@ https://www.youtube.com/watch?v=HihYQVuH64U
 Responsive web design in 37 minutes + layout. You don’t need Bootstrap!(фрилансер по жизни):
 https://www.youtube.com/watch?v=XbnAKjjlgc4
 
-
-{
-	gulp - https://rutracker.net/forum/viewtopic.php?t=5855667(лысый мужчина)(диск Е)
-}
 
 
 -----------------------------------------------------------------------------
