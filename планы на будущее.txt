@@ -1861,7 +1861,7 @@ Note(casey): Проекты, ???
 
 {
 	Note(casey): java.swing
-	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/index.html
+	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/TOC.html
 
 	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/misc/trans_shaped_windows.html
 
