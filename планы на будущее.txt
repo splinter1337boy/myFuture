@@ -1845,21 +1845,6 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
-
-
-
-Note(casey): javadatabase(JDBC):
-доп(casey): https://metanit.com/java/database/
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
-
-
-
-
-
-
 minecraft build custom modes:(нету)
 доп(casey): 
 доп(casey): диск
@@ -1882,6 +1867,15 @@ Note(casey): ѕроекты, ???
 	доп(casey):
 
 
+
+
+
+
+	Note(casey): javadatabase(JDBC):
+	доп(casey): https://metanit.com/java/database/
+
+	Note(casey): YOUTUBE, ???(???)
+	доп(casey):
 
 }
 
