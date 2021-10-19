@@ -139,10 +139,10 @@ Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(5.5)
 https://rutracker.net/forum/viewtopic.php?t=5483055
 
 Firebase + React: Real-time, Serverless Web Apps:(нету)
-https://rutracker.net/forum/viewtopic.php?t=5453151(5.7)
+https://rutracker.net/forum/viewtopic.php?t=5453151(5.6)
 
 Understanding TypeScript - 2021 Edition:(нету)
-https://rutracker.net/forum/viewtopic.php?t=5874684(5.6)
+https://rutracker.net/forum/viewtopic.php?t=5874684(5.7)
 
 Vue - The Complete Guide (w/ Router, Vuex, Composition API):
 https://rutracker.net/forum/viewtopic.php?t=5874689(11)(диск Е)
