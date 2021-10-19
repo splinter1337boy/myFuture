@@ -2866,6 +2866,8 @@ Note(casey): p5.js\codetrain\???
 доп(casey): Session 1: p5.js, JavaScript and Strings - Programming with Text
 https://www.youtube.com/watch?v=HRANU6KtNEs&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=1&ab_channel=TheCodingTrain
 
+next is nature of code 2.0
+
 Note(casey): Проекты, ???
 доп(casey):
 
