@@ -138,6 +138,9 @@ https://rutracker.net/forum/viewtopic.php?t=5383769
 Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(5.5)(нету)
 https://rutracker.net/forum/viewtopic.php?t=5483055
 
+Firebase + React: Real-time, Serverless Web Apps:(нету)
+https://rutracker.net/forum/viewtopic.php?t=5453151(5.7)
+
 Understanding TypeScript - 2021 Edition:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5874684(5.6)
 
