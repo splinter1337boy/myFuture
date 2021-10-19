@@ -2876,10 +2876,10 @@ Note(casey): Проекты, ???
 
 
 
-Build Cross-Platform Desktop Apps with Electron:(нету)
+Build Cross-Platform Desktop Apps with Electron:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5448417
-Note(casey): electron.js\
-доп(casey): диск
+Note(casey): electron.js\Build Cross-Platform Desktop Apps with Electron\
+доп(casey): диск Е: Build Cross-Platform Desktop Apps with Electron
 
 electron playlist???
 
