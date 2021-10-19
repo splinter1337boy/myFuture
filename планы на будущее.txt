@@ -2875,8 +2875,9 @@ Note(casey): Проекты, ???
 
 
 features:
-Intelligence and Learning
 nature of code 2.0
+Intelligence and Learning
+
 
 
 
