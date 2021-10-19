@@ -2875,8 +2875,8 @@ Note(casey): Проекты, ???
 
 
 features:
-machine learning no need to studying for now
-next is nature of code 2.0
+machine learning
+nature of code 2.0
 
 
 
