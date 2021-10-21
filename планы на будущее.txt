@@ -1429,8 +1429,8 @@ Note(casey): Python\python metanit.com\Глава 3. Списки, кортежи и словари\Списки
 доп(casey): На чем остановились?
 доп(casey): freecodecamp
 
-доп(casey): data science(springboard)
-https://www.springboard.com/learning-paths/data-analysis/learn/?referral=https://www.springboard.com/resources/learning-paths/data-analysis/#342-computer-programming
+доп(casey): Dataquest
+https://app.dataquest.io/dashboard
 
 доп(casey): learnpython.org
 https://www.learnpython.org/en/Hello%2C_World%21
