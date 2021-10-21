@@ -1432,9 +1432,12 @@ Note(casey): Python\learnpython.org\???
 доп(casey): 
 
 доп(casey): freecodecamp
+what is next?
 
-Note(casey): Dataquest
-https://app.dataquest.io/dashboard
+
+Note(casey): Python\dataquest\Data Scientist in Python\???
+доп(casey): 
+
 
 
 YT хирьянов
