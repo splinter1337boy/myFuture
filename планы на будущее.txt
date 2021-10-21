@@ -363,8 +363,6 @@ LINUX:
 ravesli(linux):
 https://ravesli.com/uroki-po-linux/
 
-YOUTUBE links(linux):
-
 
 vim:
 Изучаем Vim, команды и макросы. Зачем текстовый редактор Vim в 2018? Урок Vim
@@ -392,8 +390,6 @@ TCP/IP:
 Модель OSI и стек протоколов TCP-IP:(диск E)
 https://rutracker.net/forum/viewtopic.php?t=5564604
 
-YOUTUBE links(tcp/ip):
-
 
 
 
@@ -411,8 +407,6 @@ https://advpyneng.readthedocs.io/ru/latest/
 Ansible для сетевых инженеров:
 https://ansible-for-network-engineers.readthedocs.io/ru/latest/
 
-
-YOUTUBE links(python):
 
 
 
@@ -450,8 +444,6 @@ python books:(просто Python)
 https://rutracker.net/forum/viewtopic.php?t=5774960 Марк Лутц
 https://rutracker.net/forum/viewtopic.php?t=5838111 Марк Лутц
 
-
-YOUTUBE links(python + django):
 
 
 
