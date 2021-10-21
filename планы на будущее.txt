@@ -482,9 +482,9 @@ https://www.youtube.com/watch?v=P4F3PzCMrtk&list=PLqXS1b2lRpYTC04DA9J8hta6oYEKOd
 ai:
 https://www.w3schools.com/ai/default.asp
 
+https://ai.google/education/
 
-
-
+https://machinelearningmastery.com/
 
 
 
