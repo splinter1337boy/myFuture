@@ -356,8 +356,11 @@ YOUTUBE links(xamarin):
 
 python: 
 
-python metanit.com: 
-https://metanit.com/python/tutorial/
+learnpython.org:
+https://www.learnpython.org/en/Hello%2C_World%21
+
+dataquest:
+https://app.dataquest.io/dashboard
 
 LINUX:
 ravesli(linux):
@@ -1425,19 +1428,13 @@ Nodejs YT:
 
 
 6. python(tcp-ip, linux)
-Note(casey): Python\python metanit.com\Глава 3. Списки, кортежи и словари\Списки
-доп(casey): На чем остановились?
+Note(casey): Python\learnpython.org\???
+доп(casey): 
+
 доп(casey): freecodecamp
 
-доп(casey): Dataquest
+Note(casey): Dataquest
 https://app.dataquest.io/dashboard
-
-доп(casey): learnpython.org
-https://www.learnpython.org/en/Hello%2C_World%21
-
-Note(casey): YOUTUBE, ???
-доп(casey):
-
 
 
 YT хирьянов
