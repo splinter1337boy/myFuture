@@ -380,7 +380,8 @@ https://www.youtube.com/watch?v=us7y0UhTq0s&list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZl
 2021 Анализ данных на Python
 https://www.youtube.com/watch?v=Dx2SE4hYy4g&list=PLRDzFCPr95fIgPrFFW-0nXT5YH6ZnjRM6&ab_channel=%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2
 
-
+Online курс “Python для сетевых инженеров”(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=6106920
 Online курс “Python для сетевых инженеров”(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5750842
 доп. материал(Natasha Samoylenko 3,94 тыс. подписчиков):
@@ -1451,8 +1452,8 @@ Note(casey): 2021 Анализ данных на Python, ???
 
 
 
-
-->Online курс “Python для сетевых инженеров”(диск D Open PyNEng)
+->Online курс “Python для сетевых инженеров” 2021 (Диск Е)
+->Online курс “Python для сетевых инженеров” 2019 (диск D Open PyNEng)
 ->Online курс “Python для сетевых инженеров”(YOUTUBE_CONTINUE)
 
 Note(casey): Проекты, ???
