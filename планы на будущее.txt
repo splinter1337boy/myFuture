@@ -357,7 +357,7 @@ YOUTUBE links(xamarin):
 python: 
 
 learnpython.org:
-https://www.learnpython.org/en/Hello%2C_World%21
+https://www.learnpython.org/
 
 freecodecamp:
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
@@ -1431,7 +1431,7 @@ Nodejs YT:
 
 6. python(tcp-ip, linux)
 Note(casey): Python\learnpython.org\???
-доп(casey): 
+доп(casey): https://www.learnpython.org/en/Hello%2C_World%21
 
 доп(casey): freecodecamp
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
@@ -1440,7 +1440,7 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 
 Note(casey): Python\dataquest\Data Scientist in Python\???
-доп(casey): 
+доп(casey): https://app.dataquest.io/dashboard
 
 
 
