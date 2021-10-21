@@ -283,6 +283,9 @@ YOUTUBE links(nodejs):
 	Flutter разработка для начинающих. Приложение Quiz.
 	https://www.youtube.com/playlist?list=PLQe4pvn2BjxAJNOQzUKdemXZV0-iahuyO
 	
+	
+	Google Developers Training:
+	https://developer.android.com/courses/#for-new-programmers	
 
 	kotlin(https://rutracker.net/forum/viewtopic.php?t=5978669)
 	metanit.com kotlin:
@@ -1317,6 +1320,9 @@ Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата
 доп(casey): githowto -> 21. Подробнее о структуре;
 доп(casey): freecodecamp js
 доп(casey): JavaScript Algorithms and Data Structures -> Basic JavaScript -> Word Blanks
+
+доп(casey): javascript\learn javascript\???
+https://learn.javascript.ru/hello-world
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
