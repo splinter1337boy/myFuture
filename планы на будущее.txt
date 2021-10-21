@@ -359,6 +359,9 @@ python:
 learnpython.org:
 https://www.learnpython.org/en/Hello%2C_World%21
 
+freecodecamp:
+https://www.freecodecamp.org/learn/scientific-computing-with-python/
+
 dataquest:
 https://app.dataquest.io/dashboard
 
