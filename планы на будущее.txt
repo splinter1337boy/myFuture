@@ -1496,9 +1496,6 @@ Note(casey): ??? (источник)
 Диджитализируй!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
 доп(casey): Диджитализируй! playlist python
 https://www.youtube.com/watch?v=9AHe6NhLs0s&list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
-Программирую на телефоне. Почему надо знать Linux, vim, tmux? Твой Windows & IDE так не умеют
-https://www.youtube.com/watch?v=2Dv61Gz3M4Q&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
-
 
 
 Tech With Tim(https://www.youtube.com/c/TechWithTim)
@@ -1593,6 +1590,8 @@ vim:
 https://www.youtube.com/watch?v=SHo3fAZfXMk&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 БОЖЕСТВЕННЫЙ nvim как IDE для Python, Rust и всех-всех-всех — встречаем LSP!
 https://www.youtube.com/watch?v=PA7zZNJXJEk&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
+Программирую на телефоне. Почему надо знать Linux, vim, tmux? Твой Windows & IDE так не умеют
+https://www.youtube.com/watch?v=2Dv61Gz3M4Q&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 }
 
 -----------------------------------------------------------------------------
