@@ -1593,7 +1593,7 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
 {
 LINUX
-Note(casey): ravesli linux, ???
+Note(casey): ravesli linux tutorials\???
 доп(casey): 
 
 доп(casey): terminux 
