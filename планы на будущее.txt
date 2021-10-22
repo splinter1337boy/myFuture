@@ -1595,9 +1595,6 @@ Note(casey): ravesli linux tutorials\???
 https://termux.com/community
 https://wiki.termux.com
 
-Note(casey): Проекты, ???
-доп(casey):
-
 linux YT:
 
 
@@ -1609,8 +1606,12 @@ https://www.youtube.com/watch?v=PA7zZNJXJEk&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%
 Программирую на телефоне. Почему надо знать Linux, vim, tmux? Твой Windows & IDE так не умеют
 https://www.youtube.com/watch?v=2Dv61Gz3M4Q&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 
-LINUX & UNIX instruments:
+LINUX & UNIX instruments playlist:
 https://www.youtube.com/watch?v=SHo3fAZfXMk&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
+
+Note(casey): LINUX & UNIX\название видоса\
+доп(casey):
+
 }
 
 -----------------------------------------------------------------------------
