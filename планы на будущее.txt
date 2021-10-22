@@ -1596,6 +1596,10 @@ LINUX
 Note(casey): ravesli linux, ???
 доп(casey): 
 
+доп(casey): terminux 
+https://termux.com/community
+https://wiki.termux.com
+
 Note(casey): YOUTUBE, ???(???)
 доп(casey):
 
