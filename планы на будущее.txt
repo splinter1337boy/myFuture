@@ -384,7 +384,7 @@ https://ravesli.com/uroki-po-linux/
 
 terminux
 
-vim, tmux
+vim, linux & unix instrumentals
 
 
 хирьянов:
@@ -1611,9 +1611,6 @@ https://www.youtube.com/watch?v=2Dv61Gz3M4Q&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%
 
 LINUX & UNIX instruments:
 https://www.youtube.com/watch?v=SHo3fAZfXMk&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
-
-tmux YT:
-https://www.youtube.com/watch?v=1Y2CD4WnbP0&list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 }
 
 -----------------------------------------------------------------------------
