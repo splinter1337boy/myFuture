@@ -1047,7 +1047,7 @@ Note(casey): postgreSQL\[Udemy] [Илья Фофанов] Практический курс для новичков по
 
 
 YOUTUBE, Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.(Диджитализируй!)
-https://www.youtube.com/watch?v=WpojDncIWOw&t=10s&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
+https://www.youtube.com/watch?v=WpojDncIWOw&list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 
 
 
