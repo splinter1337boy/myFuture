@@ -1595,10 +1595,6 @@ Note(casey): ravesli linux tutorials\???
 https://termux.com/community
 https://wiki.termux.com
 
-linux YT:
-
-
-
 LINUX & UNIX instruments playlist:
 https://www.youtube.com/watch?v=SHo3fAZfXMk&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 
