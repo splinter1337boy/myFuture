@@ -1588,7 +1588,7 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
 {
 LINUX
-Note(casey): ravesli linux tutorials\???
+Note(casey): LINUX\ravesli linux\???
 доп(casey): 
 
 доп(casey): terminux 
@@ -1607,7 +1607,7 @@ https://www.youtube.com/watch?v=2Dv61Gz3M4Q&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%
 
 
 
-Note(casey): LINUX & UNIX\название видоса\
+Note(casey): LINUX\LINUX & UNIX\название видоса
 доп(casey):
 
 }
