@@ -1322,7 +1322,7 @@ Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата
 доп(casey): freecodecamp js
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
-доп(casey): JavaScript Algorithms and Data Structures -> Basic JavaScript -> Word Blanks
+JavaScript Algorithms and Data Structures -> Basic JavaScript -> Word Blanks
 
 доп(casey): javascript\learn javascript\???
 https://learn.javascript.ru/hello-world
