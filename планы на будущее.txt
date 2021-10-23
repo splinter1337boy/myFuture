@@ -1597,7 +1597,8 @@ overbafer1(https://www.youtube.com/c/overbafer1):
 Проникновение в ПК через Termux - без ROOT прав:
 https://www.youtube.com/watch?v=YUcQ_pNZr0s&ab_channel=overbafer1
 
-Доступ к Домашнему Серверу с Internet. VPS-VDS + VPN (OpenVPN) + SSL (Let'sEncrypt) + Nextcloud
+RomNero(https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig):
+Доступ к Домашнему Серверу с Internet. VPS-VDS + VPN (OpenVPN) + SSL (Let'sEncrypt) + Nextcloud:
 https://www.youtube.com/watch?v=7VvWZIz1kB8&ab_channel=RomNero
 
 
