@@ -1327,7 +1327,7 @@ JavaScript Algorithms and Data Structures -> Basic JavaScript -> Word Blanks
 доп(casey): javascript\learn javascript\???
 https://learn.javascript.ru/hello-world
 
-доп(casey): ??? -> ??? -> ???
+??? -> ??? -> ???
 
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
