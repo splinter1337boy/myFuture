@@ -1585,6 +1585,16 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
 
 {
+DOCKER:
+Note(casey): LINUX\Docker\Docker & Kubernetes The Practical Guide\???
+доп(casey):
+
+DOCKER YT:
+Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
+Основы Docker. Большой практический выпуск
+https://www.youtube.com/watch?v=QF4ZF857m44&t=1s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
+
+
 LINUX
 Note(casey): LINUX\ravesli linux\???
 доп(casey): 
@@ -1601,11 +1611,6 @@ https://www.youtube.com/watch?v=YUcQ_pNZr0s&ab_channel=overbafer1
 RomNero(https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig):
 Доступ к Домашнему Серверу с Internet. VPS-VDS + VPN (OpenVPN) + SSL (Let'sEncrypt) + Nextcloud:
 https://www.youtube.com/watch?v=7VvWZIz1kB8&ab_channel=RomNero
-
-Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
-Основы Docker. Большой практический выпуск
-https://www.youtube.com/watch?v=QF4ZF857m44&t=1s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
-
 
 
 LINUX & UNIX instruments playlist:
