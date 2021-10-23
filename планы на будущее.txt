@@ -1621,6 +1621,11 @@ RomNero(https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig):
 Доступ к Домашнему Серверу с Internet. VPS-VDS + VPN (OpenVPN) + SSL (Let'sEncrypt) + Nextcloud:
 https://www.youtube.com/watch?v=7VvWZIz1kB8&ab_channel=RomNero
 
+Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
+Как поднять домашний сервер со своим доменом своими руками?
+https://www.youtube.com/watch?v=avl5rVi-HNo&t=893s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
+
+
 
 LINUX & UNIX instruments playlist:
 https://www.youtube.com/watch?v=SHo3fAZfXMk&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
