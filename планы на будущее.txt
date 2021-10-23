@@ -215,10 +215,7 @@ https://rutracker.net/forum/viewtopic.php?t=5425486(10)
 
 
 NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL):
-https://rutracker.net/forum/viewtopic.php?t=5874675!!!!!!!(1.1)
-
-Docker & Kubernetes: The Practical Guide:
-https://rutracker.net/forum/viewtopic.php?t=5962665(1.2)
+https://rutracker.net/forum/viewtopic.php?t=5874675!!!!!!!(1)
 
 Microservices with Node JS and React:
 https://rutracker.net/forum/viewtopic.php?t=5953538!!!!!!!!!!!!!!!!!(2)
@@ -1584,6 +1581,9 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
 
 {
+Docker & Kubernetes: The Practical Guide:
+https://rutracker.net/forum/viewtopic.php?t=5962665
+
 LINUX
 Note(casey): LINUX\ravesli linux\???
 доп(casey): 
