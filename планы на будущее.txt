@@ -383,6 +383,9 @@ https://ravesli.com/uroki-po-linux/
 Docker & Kubernetes: The Practical Guide:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5962665
 
+Основы Nginx / Nginx Fundamentals:(нету)
+https://rutracker.net/forum/viewtopic.php?t=5651284
+
 terminux
 
 vim, linux & unix instrumentals
@@ -1587,12 +1590,18 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 {
 DOCKER:
 Note(casey): LINUX\Docker\Docker & Kubernetes The Practical Guide\???
-доп(casey): диск 
+доп(casey): диск : Docker & Kubernetes The Practical Guide
 
 DOCKER YT:
 Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
 Основы Docker. Большой практический выпуск
 https://www.youtube.com/watch?v=QF4ZF857m44&t=1s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
+
+NGINX:
+Note(casey): LINUX\NGINX\Основы Nginx  Nginx Fundamentals\???
+доп(casey): диск : Основы Nginx  Nginx Fundamentals
+
+
 
 
 LINUX
