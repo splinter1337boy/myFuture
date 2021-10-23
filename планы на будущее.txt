@@ -375,9 +375,13 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/
 dataquest:
 https://app.dataquest.io/dashboard
 
+
 LINUX:
 ravesli(linux):
 https://ravesli.com/uroki-po-linux/
+
+Docker & Kubernetes: The Practical Guide:
+https://rutracker.net/forum/viewtopic.php?t=5962665
 
 terminux
 
@@ -1581,9 +1585,6 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
 
 {
-Docker & Kubernetes: The Practical Guide:
-https://rutracker.net/forum/viewtopic.php?t=5962665
-
 LINUX
 Note(casey): LINUX\ravesli linux\???
 доп(casey): 
