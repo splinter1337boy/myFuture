@@ -1833,7 +1833,7 @@ Note(casey): java rush
 доп(casey): https://javarush.ru/
 доп(casey): Статические классы
 
-до разобраться с взаимодействиями с классами(https://ravesli.com/urok-149-assotsiatsiya/)
+до разобраться с взаимодействиями с классами(https://ravesli.com/urok-151-kontejnernye-klassy/)
 
 
 Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
