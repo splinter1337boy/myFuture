@@ -380,7 +380,7 @@ LINUX:
 ravesli(linux):
 https://ravesli.com/uroki-po-linux/
 
-Docker & Kubernetes: The Practical Guide:
+Docker & Kubernetes: The Practical Guide:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5962665
 
 terminux
@@ -1587,7 +1587,7 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 {
 DOCKER:
 Note(casey): LINUX\Docker\Docker & Kubernetes The Practical Guide\???
-доп(casey):
+доп(casey): диск 
 
 DOCKER YT:
 Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
