@@ -1627,8 +1627,12 @@ https://www.youtube.com/watch?v=S358miThwdg&t=110s&ab_channel=%D0%90%D1%80%D1%82
 
 
 UnixHost(https://www.youtube.com/c/UnixHost)
-Уроки Linux
+Уроки Linux playlist:
 https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU
+
+Note(casey): LINUX\LINUX YT\YT channels\UnixHost\Уроки Linux\???
+доп(casey):
+
 
 Получаем бесплатно vps/vds/rdp сервер. Удаленный рабочий стол на Windows! get a free rdp server.
 https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
