@@ -386,6 +386,11 @@ https://rutracker.net/forum/viewtopic.php?t=5962665
 Основы Nginx / Nginx Fundamentals:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5651284
 
+TCP/IP:
+Модель OSI и стек протоколов TCP-IP:(диск E)
+https://rutracker.net/forum/viewtopic.php?t=5564604
+
+
 terminux
 
 vim, linux & unix instrumentals
@@ -403,15 +408,6 @@ Online курс “Python для сетевых инженеров” 2019(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5750842
 доп. материал(Natasha Samoylenko 3,94 тыс. подписчиков):
 https://www.youtube.com/channel/UCbp_f4rb5OR5hSUJW3F2FRg
-
-TCP/IP:
-Модель OSI и стек протоколов TCP-IP:(диск E)
-https://rutracker.net/forum/viewtopic.php?t=5564604
-
-
-
-
-
 
 
 Books(python):
