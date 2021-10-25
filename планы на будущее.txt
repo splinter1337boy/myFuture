@@ -1313,7 +1313,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 5. javascript
 
-Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\029 Действия с элементами на странице
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\030 Практика. Задание на отработку действий со страницей
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
 доп(casey): 010 - 011 Как работать с GitHub
 
