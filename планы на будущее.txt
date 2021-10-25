@@ -2042,6 +2042,9 @@ Note(casey): celsius2004
 Note(casey): svnth 
 доп(casey): https://soundcloud.com/sxth2
 
+Note(casey): mail (@1chainmail)
+доп(casey): https://soundcloud.com/1chainmail
+
 
 sc artists(soundcloud):
 
