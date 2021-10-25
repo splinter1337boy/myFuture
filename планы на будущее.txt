@@ -1481,22 +1481,6 @@ Note(casey): Проекты, ???
 доп(casey):
 
 
-
-TCP-IP
-Note(casey): Модель OSI и стек протоколов TCP-IP, ???
-доп(casey): (диск E)
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
-Note(casey): Проекты, ???
-доп(casey):
-
-TCP-IP YT:
-
-
-
-
 Python YT:
 Хирьянов Python(https://www.youtube.com/c/%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2)
 Note(casey): ??? (источник)
@@ -1607,6 +1591,18 @@ Note(casey): LINUX\NGINX\Основы Nginx  Nginx Fundamentals\???
 доп(casey): диск : Основы Nginx  Nginx Fundamentals
 
 
+TCP-IP
+Note(casey): Модель OSI и стек протоколов TCP-IP, ???
+доп(casey): (диск E)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+Note(casey): Проекты, ???
+доп(casey):
+
+TCP-IP YT:
+
 
 
 LINUX
@@ -1632,8 +1628,6 @@ https://www.youtube.com/watch?v=avl5rVi-HNo&t=893s&ab_channel=%D0%90%D1%80%D1%82
 
 Поднимаем OpenVPN для удаленного доступа к локальным сетям клиентов
 https://www.youtube.com/watch?v=S358miThwdg&t=110s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
-
-
 
 
 LINUX & UNIX instruments playlist:
