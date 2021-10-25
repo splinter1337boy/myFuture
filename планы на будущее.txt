@@ -2039,6 +2039,9 @@ Note(casey): elw00d
 Note(casey): celsius2004
 доп(casey): https://soundcloud.com/celsius2004
 
+Note(casey): svnth 
+доп(casey): https://soundcloud.com/sxth2
+
 
 sc artists(soundcloud):
 
