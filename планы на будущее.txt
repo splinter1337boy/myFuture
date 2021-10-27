@@ -1787,8 +1787,6 @@ Note(casey): С++ tutorials\С++\C++ ravesli уроки\ООП С++\Глава №14. Исключения в
 доп(casey): Создать шаблон функции, выполняющий обработку матрицы и
 формирования вектора в соответствии с индивидуальным заданием.
 
-доп(casey): циклический сдвиг
-
 
 Note(casey): YOUTUBE, Making a C++ Game with No Experience!(Barji)
 доп(casey): https://www.youtube.com/watch?v=4-sX-TtRR98&ab_channel=Barji
