@@ -1575,6 +1575,10 @@ https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
 
 {
+
+docker intro:
+https://ravesli.com/vvedenie-v-docker-chto-eto-takoe-i-zachem-ego-ispolzovat/
+
 DOCKER:
 Note(casey): LINUX\Docker\Docker & Kubernetes The Practical Guide\???
 доп(casey): диск : Docker & Kubernetes The Practical Guide
