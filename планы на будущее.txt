@@ -983,21 +983,6 @@ YOUTUBE links(Houdini):
 
 
 --------------------------------------------------------------
-SQL:
-YOUTUBE links:
-
-postgreSQL:
-YOUTUBE links:
-Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.(Диджитализируй!):
-https://www.youtube.com/watch?v=WpojDncIWOw&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
-
-mySQL:
-YOUTUBE links:
-
-mongoDB:
-YOUTUBE links:
-
---------------------------------------------------------------
 MAIN:
 9:30, 21:30, 1:30;
 
