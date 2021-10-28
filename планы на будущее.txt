@@ -1125,7 +1125,9 @@ ms sql server YT:
 
  
 
-
+MongoINTRO:
+Mongo DB онкмши йспя
+https://www.youtube.com/watch?v=LNvmI8a9jwY&ab_channel=UlbiTV
 
 
 MongoDB - The Complete Developer's Guide:(мЕРС)
