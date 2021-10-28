@@ -2060,6 +2060,9 @@ Note(casey): mail (@1chainmail)
 Note(casey): ta1lsd0ll
 доп(casey): https://soundcloud.com/ta1lsd0ll
 
+Note(casey): oil
+доп(casey): https://soundcloud.com/oil_is_stupid
+
 
 sc artists(soundcloud):
 
