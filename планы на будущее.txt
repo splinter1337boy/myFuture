@@ -2982,6 +2982,8 @@ nature of code 2.0
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM
 Beginners Guide to Machine Learning in JavaScript
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
+Machine Learning with TensorFlow, ml5.js, and Spell
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y6kSfxOjq5zk4gkDK8q_n1
 Intelligence and Learning
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bePNiZLnglXUp2LXIjlCdb
 
