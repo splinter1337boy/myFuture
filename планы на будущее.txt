@@ -891,12 +891,14 @@ Space VFX Elements: Creating the Galaxy in Blender 2.77-2.78:
 https://rutracker.net/forum/viewtopic.php?t=5910324
 Creating a Looping Corridor in Blender 2.78
 https://rutracker.net/forum/viewtopic.php?t=5873560
+Animate a 3D futuristic cuboid in Blender 2.92
+https://rutracker.net/forum/viewtopic.php?t=6095851
+Generative Modeling & Design with Blender 2.8:
+https://rutracker.net/forum/viewtopic.php?t=5794245
 Creating Clouds with Blender 2.8 and Eevee:
 https://rutracker.net/forum/viewtopic.php?t=5937286
 Creating Procedural Sand Dunes with Blender 2.8:
 https://rutracker.net/forum/viewtopic.php?t=5873564
-Generative Modeling & Design with Blender 2.8:
-https://rutracker.net/forum/viewtopic.php?t=5794245
 [CGCookie] Creating Grass in Blender:
 https://rutracker.net/forum/viewtopic.php?t=5594749
 3D Workflow for Concept Art (Blender 2.82, Photoshop):
@@ -922,6 +924,7 @@ Blender Mesh Modeling Bootcamp (Blender 2.79):
 https://rutracker.net/forum/viewtopic.php?t=5990386
 Face Rigging in Blender 2.8 Tutorial:
 https://rutracker.net/forum/viewtopic.php?t=5943237
+
 Complete Guide to Realistic Character Creation in Blender 2.83:
 https://rutracker.net/forum/viewtopic.php?t=5995072
 
@@ -930,6 +933,7 @@ Modeling Weapons for a First Person Shooter in Blender 2.78
 https://rutracker.net/forum/viewtopic.php?t=5940223
 Modeling, Texturing and Shading a Treasure Chest in Blender 2.8:
 https://rutracker.net/forum/viewtopic.php?t=5776686
+
 
 Sculpting:
 Mastering Sculpting in Blender:
