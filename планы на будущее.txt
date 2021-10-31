@@ -924,9 +924,12 @@ Blender Mesh Modeling Bootcamp (Blender 2.79):
 https://rutracker.net/forum/viewtopic.php?t=5990386
 Face Rigging in Blender 2.8 Tutorial:
 https://rutracker.net/forum/viewtopic.php?t=5943237
-
 Complete Guide to Realistic Character Creation in Blender 2.83:
 https://rutracker.net/forum/viewtopic.php?t=5995072
+YT mmCG animetic:
+https://www.youtube.com/channel/UCvC55dRRUwzHgkj1oiylDpg/
+
+
 
 some stuff:
 Modeling Weapons for a First Person Shooter in Blender 2.78
