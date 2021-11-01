@@ -2057,6 +2057,9 @@ Note(casey): ta1lsd0ll
 Note(casey): oil
 доп(casey): https://soundcloud.com/oil_is_stupid
 
+Note(casey): carbine
+доп(casey): https://soundcloud.com/saycarbine
+
 
 sc artists(soundcloud):
 
