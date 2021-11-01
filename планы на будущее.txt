@@ -1935,6 +1935,9 @@ Note(casey): Проекты, ???
 
 	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/misc/trans_shaped_windows.html
 
+	доп(casey): https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html
+	
+
 	Note(casey): YOUTUBE, ???(???)
 	доп(casey):
 
