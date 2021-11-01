@@ -2060,6 +2060,9 @@ Note(casey): oil
 Note(casey): carbine
 доп(casey): https://soundcloud.com/saycarbine
 
+Note(casey): bobby
+доп(casey): https://soundcloud.com/bobbycore
+
 
 sc artists(soundcloud):
 
