@@ -1934,6 +1934,8 @@ Note(casey): Проекты, ???
 	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/TOC.html
 
 	доп(casey): https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html
+
+	доп(casey): https://docs.oracle.com/javase/7/docs/api/java/awt/Polygon.html
 	
 
 	Note(casey): YOUTUBE, ???(???)
