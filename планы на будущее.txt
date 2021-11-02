@@ -3062,6 +3062,9 @@ nihon, english(упр. по english for 10 min. every day) по очереди, 5 minutes keyb
 PROGRAMIROVANIE
 REST
 
+nihon: 
+http://vandal.sdf-eu.org/JapaneseGuide/index.html
+http://guidetojapanese.org/learn/complete/
 ------------------------------------------------------------------------------
 UNIVERSITY:
 1. java
