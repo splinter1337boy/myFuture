@@ -3071,8 +3071,6 @@ nihon:
 http://vandal.sdf-eu.org/JapaneseGuide/index.html
 http://guidetojapanese.org/learn/complete/
 
-nihon site:
-http://www.yesjapan.com/YJ6/
 ------------------------------------------------------------------------------
 UNIVERSITY:
 1. java
