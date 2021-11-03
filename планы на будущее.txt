@@ -1130,14 +1130,6 @@ Note(casey):
 Note(casey): YOUTUBE, ???(???)
 доп(casey): 
 
-mongodb metanit.com:
-https://metanit.com/nosql/mongodb/
-Note(casey): mongoDB\mongodb metanit.com\
-доп(casey): 
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey): 
-
 
 Note(casey): Проекты, ???
 доп(casey):
