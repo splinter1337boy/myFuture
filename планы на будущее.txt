@@ -2056,6 +2056,9 @@ Note(casey): carbine
 Note(casey): bobby
 доп(casey): https://soundcloud.com/bobbycore
 
+Note(casey): nvrtrst 
+доп(casey): https://soundcloud.com/nvrtrstt/tracks
+
 
 sc artists(soundcloud):
 
