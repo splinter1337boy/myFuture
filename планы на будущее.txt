@@ -1466,7 +1466,7 @@ Note(casey): 2021 Анализ данных на Python
 
 
 ->Online курс “Python для сетевых инженеров” 2021 (Диск Е)(pyneng-11)
-->Online курс “Python для сетевых инженеров” 2019 (диск D Open PyNEng)(чисто допки посмотреть)
+->Online курс “Python для сетевых инженеров” 2019 (диск D Open PyNEng)
 ->Online курс “Python для сетевых инженеров”(YOUTUBE_CONTINUE)
 
 Note(casey): Проекты, ???
