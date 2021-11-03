@@ -1865,7 +1865,7 @@ Note(casey): YOUTUBE, Java read CSV File(Bro Code)
 
 Note(casey): java rush
 доп(casey): https://javarush.ru/
-доп(casey): Статические классы
+доп(casey): Популярные ошибки компилятора
 
 
 
