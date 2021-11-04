@@ -1863,9 +1863,13 @@ Note(casey): YOUTUBE, Java read CSV File(Bro Code)
 
 
 
-Note(casey): java\java rush\static nested classes\task1
+
+Note(casey): https://javarush.ru/
 доп(casey): Дополнительные лекции к уровню
 
+
+Note(casey): java\java rush\static nested classes\task1
+доп(casey): попробовать сделать статический класс вне родительского класса
 
 
 
