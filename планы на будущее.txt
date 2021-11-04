@@ -2062,6 +2062,9 @@ Note(casey): bobby
 Note(casey): nvrtrst 
 доп(casey): https://soundcloud.com/nvrtrstt/tracks
 
+Note(casey): kanji brutal
+доп(casey): https://soundcloud.com/kanjibrutal
+
 
 sc artists(soundcloud):
 
