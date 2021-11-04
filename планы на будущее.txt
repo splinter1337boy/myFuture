@@ -1863,9 +1863,9 @@ Note(casey): YOUTUBE, Java read CSV File(Bro Code)
 
 
 
-
-Note(casey): https://javarush.ru/
-доп(casey): Дополнительные лекции к уровню
+java rush:
+Note(casey): Дополнительные лекции к уровню(https://javarush.ru/quests/lectures/questsyntaxpro.level23.lecture10)
+доп(casey): 
 
 
 Note(casey): java\java rush\static nested classes\task1
