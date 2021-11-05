@@ -1103,7 +1103,7 @@ mysql YT:
 ms sql server metanit.com:
 https://metanit.com/sql/sqlserver/
 Note(casey): ms sql server\ms sql server metanit.com\Глава 2. Начало работы с MS SQL Server
-Note(casey): Создание базы данных
+Note(casey): Создание таблиц
 доп(casey): 
 
 
