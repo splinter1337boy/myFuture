@@ -2994,7 +2994,15 @@ https://www.youtube.com/watch?v=HRANU6KtNEs&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9S
 Note(casey): Проекты, ???
 доп(casey):
 
-p5.js tutorials playlist?
+
+Note(casey): p5.js\p5.js Tutorial\Code! Programming with p5.js\папку_называть_по_названию_видоса
+доп(casey): Code! Programming with p5.js
+https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2&ab_channel=TheCodingTrain
+
+
+Note(casey): Проекты, ???
+доп(casey):
+
 
 
 features:
