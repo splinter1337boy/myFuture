@@ -2986,9 +2986,9 @@ Note(casey): Проекты, ???
 
 maybe try p5.js(codetrain)
 
-Note(casey): p5.js\Programming with Text(A-Z)\Session 1 p5.js, JavaScript and Strings - Programming with Text\1.1 Introduction - Programming with Text
+Note(casey): p5.js\Programming with Text(A-Z)\Session 1 p5.js, JavaScript and Strings - Programming with Text\1.2 My Workflow - Programming with Text
 доп(casey): Session 1: p5.js, JavaScript and Strings - Programming with Text
-https://www.youtube.com/watch?v=HRANU6KtNEs&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=1&ab_channel=TheCodingTrain
+https://www.youtube.com/watch?v=d3OcFexe9Ik&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=2&ab_channel=TheCodingTrain
 
 
 Note(casey): Проекты, ???
