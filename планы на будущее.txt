@@ -1552,9 +1552,15 @@ DOCKER YT:
 Основы Docker. Большой практический выпуск
 https://www.youtube.com/watch?v=QF4ZF857m44&t=1s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
 
+
+
+
 NGINX:
 Note(casey): LINUX\NGINX\Основы Nginx  Nginx Fundamentals\???
 доп(casey): диск : Основы Nginx  Nginx Fundamentals
+
+
+
 
 
 LINUX
@@ -1577,6 +1583,7 @@ Note(casey): LINUX\LINUX YT\YT channels\UnixHost\Уроки Linux\???
 
 
 
+
 LINUX & UNIX instruments playlist:
 https://www.youtube.com/watch?v=SHo3fAZfXMk&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 
@@ -1590,12 +1597,16 @@ Note(casey): LINUX\LINUX & UNIX\название видоса
 
 
 
+
 доп(casey): terminux 
 https://termux.com/community
 https://wiki.termux.com
 
 setup http server on android with termux:
 https://gist.github.com/vilkoz/73588f8a7b9122a93c369502d61fd922
+
+
+
 
 
 
@@ -1624,15 +1635,35 @@ https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
 
 
 
+
+
+
+
+
 Learn Hacking Windows 10 Using Metasploit From Scratch:
 https://rutracker.net/forum/viewtopic.php?t=5599804
+
+Note(casey): LINUX\MetaSploit\Learn Hacking Windows 10 Using Metasploit From Scratch
+доп(casey):
+
+
+
+
 
 MetaSploit DOCS:
 https://docs.rapid7.com/metasploit/installing-metasploit-pro
 
+Note(casey): LINUX\MetaSploit\MetaSploit DOCS
+доп(casey):
+
+
+
 
 Что такое Metasploit? Руководство для начинающих:
 https://habr.com/ru/company/varonis/blog/528578/
+
+
+
 
 
 TCP-IP
