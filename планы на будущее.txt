@@ -1563,12 +1563,30 @@ Note(casey): LINUX\ravesli linux\???
 
 
 
+
+
 UnixHost(https://www.youtube.com/c/UnixHost)
 Уроки Linux playlist:
 https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU
 
 Note(casey): LINUX\LINUX YT\YT channels\UnixHost\Уроки Linux\???
 доп(casey):
+
+
+
+
+
+
+LINUX & UNIX instruments playlist:
+https://www.youtube.com/watch?v=SHo3fAZfXMk&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
+
+
+Note(casey): LINUX\LINUX & UNIX\название видоса
+доп(casey):
+
+
+
+
 
 
 
@@ -1618,17 +1636,6 @@ Note(casey): Проекты, ???
 доп(casey):
 
 TCP-IP YT:
-
-
-
-
-
-LINUX & UNIX instruments playlist:
-https://www.youtube.com/watch?v=SHo3fAZfXMk&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
-
-
-Note(casey): LINUX\LINUX & UNIX\название видоса
-доп(casey):
 
 }
 
