@@ -1608,6 +1608,8 @@ https://gist.github.com/vilkoz/73588f8a7b9122a93c369502d61fd922
 Запускаем SSH сервер на Android устройстве с использованием Termux:
 https://habr.com/ru/sandbox/141668/
 
+Как сгенерировать SSH-ключ для доступа на сервер
+https://selectel.ru/blog/tutorials/how-to-generate-ssh/
 
 
 
