@@ -1611,6 +1611,9 @@ https://habr.com/ru/sandbox/141668/
 Как сгенерировать SSH-ключ для доступа на сервер
 https://selectel.ru/blog/tutorials/how-to-generate-ssh/
 
+КАК ПОЛЬЗОВАТЬСЯ CURL
+https://losst.ru/kak-polzovatsya-curl
+
 
 
 
