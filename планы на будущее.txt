@@ -1617,6 +1617,8 @@ https://losst.ru/kak-polzovatsya-curl
 Разработка приложения с использованием Python и OpenCV на Android устройстве:
 https://habr.com/ru/post/528604/
 
+https-server:
+https://github.com/Bhai4You/https-server
 
 
 linux YT:
