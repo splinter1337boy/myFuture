@@ -1659,11 +1659,6 @@ Note(casey): LINUX\MetaSploit\MetaSploit DOCS
 
 
 
-Что такое Metasploit? Руководство для начинающих:
-https://habr.com/ru/company/varonis/blog/528578/
-
-
-
 
 
 TCP-IP
