@@ -1618,12 +1618,6 @@ https://losst.ru/kak-polzovatsya-curl
 https://habr.com/ru/post/528604/
 
 
-Setup Localhost web server in Termux | Android:
-https://teachwithf.blogspot.com/2019/05/setup-localhost-web-server-in-termux.html
-
-Nginx web server in Android | Termux:
-https://teachwithf.blogspot.com/2018/12/what-is-nginx-nginx-is-web-server-which.html
-
 
 linux YT:
 overbafer1(https://www.youtube.com/c/overbafer1):
