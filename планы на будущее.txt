@@ -1557,20 +1557,6 @@ Note(casey): LINUX\NGINX\Основы Nginx  Nginx Fundamentals\???
 доп(casey): диск : Основы Nginx  Nginx Fundamentals
 
 
-TCP-IP
-Note(casey): Модель OSI и стек протоколов TCP-IP, ???
-доп(casey): (диск E)
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
-Note(casey): Проекты, ???
-доп(casey):
-
-TCP-IP YT:
-
-
-
 LINUX
 Note(casey): LINUX\ravesli linux\???
 доп(casey): 
@@ -1614,8 +1600,27 @@ https://www.youtube.com/watch?v=S358miThwdg&t=110s&ab_channel=%D0%90%D1%80%D1%82
 
 
 
+
 Получаем бесплатно vps/vds/rdp сервер. Удаленный рабочий стол на Windows! get a free rdp server.
 https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
+
+
+
+
+TCP-IP
+Note(casey): Модель OSI и стек протоколов TCP-IP, ???
+доп(casey): (диск E)
+
+Note(casey): YOUTUBE, ???(???)
+доп(casey):
+
+Note(casey): Проекты, ???
+доп(casey):
+
+TCP-IP YT:
+
+
+
 
 
 LINUX & UNIX instruments playlist:
