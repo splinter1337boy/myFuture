@@ -1627,6 +1627,10 @@ https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
 Learn Hacking Windows 10 Using Metasploit From Scratch:
 https://rutracker.net/forum/viewtopic.php?t=5599804
 
+MetaSploit DOCS:
+https://docs.rapid7.com/metasploit/installing-metasploit-pro
+
+
 Что такое Metasploit? Руководство для начинающих:
 https://habr.com/ru/company/varonis/blog/528578/
 
