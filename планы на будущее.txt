@@ -1605,7 +1605,8 @@ https://wiki.termux.com
 setup http server on android with termux:
 https://gist.github.com/vilkoz/73588f8a7b9122a93c369502d61fd922
 
-
+«апускаем SSH сервер на Android устройстве с использованием Termux:
+https://habr.com/ru/sandbox/141668/
 
 
 
