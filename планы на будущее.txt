@@ -1624,6 +1624,10 @@ https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
 
 
 
+Learn Hacking Windows 10 Using Metasploit From Scratch:
+https://rutracker.net/forum/viewtopic.php?t=5599804
+
+
 
 TCP-IP
 Note(casey): Модель OSI и стек протоколов TCP-IP, ???
