@@ -1614,6 +1614,8 @@ https://selectel.ru/blog/tutorials/how-to-generate-ssh/
 КАК ПОЛЬЗОВАТЬСЯ CURL
 https://losst.ru/kak-polzovatsya-curl
 
+Разработка приложения с использованием Python и OpenCV на Android устройстве:
+https://habr.com/ru/post/528604/
 
 
 
