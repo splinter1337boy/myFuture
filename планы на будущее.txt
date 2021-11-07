@@ -1593,7 +1593,8 @@ Note(casey): LINUX\LINUX & UNIX\название видоса
 
 
 
-linux openssh? virtual box try it
+
+
 
 
 
@@ -1648,6 +1649,9 @@ https://www.youtube.com/watch?v=S358miThwdg&t=110s&ab_channel=%D0%90%D1%80%D1%82
 Получаем бесплатно vps/vds/rdp сервер. Удаленный рабочий стол на Windows! get a free rdp server.
 https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
 
+
+
+linux openssh? virtual box try it
 
 
 
