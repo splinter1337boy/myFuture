@@ -1593,6 +1593,8 @@ Note(casey): LINUX\LINUX & UNIX\название видоса
 
 
 
+linux openssh? virtual box try it
+
 
 
 
