@@ -1093,7 +1093,7 @@ mysql YT:
 ms sql server metanit.com:
 https://metanit.com/sql/sqlserver/
 Note(casey): ms sql server\ms sql server metanit.com\Глава 3. Основы T-SQL. DDL
-Note(casey): Внешние ключи
+Note(casey): Изменение таблицы
 доп(casey): 
 
 
