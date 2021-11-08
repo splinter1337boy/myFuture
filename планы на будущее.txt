@@ -3070,9 +3070,9 @@ Note(casey): Проекты, ???
 
 maybe try p5.js(codetrain)
 
-Note(casey): p5.js\Programming with Text(A-Z)\Session 1 p5.js, JavaScript and Strings - Programming with Text\1.3 Getting Text form User Text Input - Programming with Text
+Note(casey): p5.js\Programming with Text(A-Z)\Session 1 p5.js, JavaScript and Strings - Programming with Text\1.4 Getting Text from User Loading a Text File - Programming with Text
 доп(casey): Session 1: p5.js, JavaScript and Strings - Programming with Text
-https://www.youtube.com/watch?v=uNQSVU0IKec&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=3&ab_channel=TheCodingTrain
+https://www.youtube.com/watch?v=0Mq2CxspF5s&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=4&ab_channel=TheCodingTrain
 
 
 Note(casey): Проекты, ???
