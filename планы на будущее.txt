@@ -1316,10 +1316,6 @@ Note(casey): Проекты, ???
 доп(casey):
 
 javascript YT:
-Владилен Минин
-Note(casey): JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020] (источник)
-доп(casey): 
-
 Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
 Git. Большой практический выпуск
 https://www.youtube.com/watch?v=SEvR78OhGtw&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
