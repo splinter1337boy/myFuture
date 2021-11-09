@@ -1649,7 +1649,6 @@ https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
 
 
 
-linux openssh? virtual box try it
 
 
 
@@ -1664,6 +1663,7 @@ Note(casey): LINUX\MetaSploit\Learn Hacking Windows 10 Using Metasploit From Scr
 доп(casey):
 
 
+kali metasploit
 
 
 
