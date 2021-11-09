@@ -1617,8 +1617,6 @@ https://habr.com/ru/post/528604/
 https-server:
 https://github.com/Bhai4You/https-server
 
-Почему sshd требует абсолютного пути?:
-https://qastack.ru/unix/109380/why-does-sshd-requires-an-absolute-path
 
  
 
