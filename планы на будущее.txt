@@ -1620,8 +1620,8 @@ https://github.com/Bhai4You/https-server
 Почему sshd требует абсолютного пути?:
 https://qastack.ru/unix/109380/why-does-sshd-requires-an-absolute-path
 
-
-
+How to Install SSH Server on Windows 10 - Remote into your computer using a Command Line [OpenSSH]:
+https://www.youtube.com/watch?v=HCmEB5qtkSY&ab_channel=SavvyNik
 
 
 
