@@ -142,14 +142,17 @@ https://rutracker.net/forum/viewtopic.php?t=5483055
 NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL):
 https://rutracker.net/forum/viewtopic.php?t=5874675
 
+The Modern GraphQL Bootcamp (Advanced Node.js):
+https://rutracker.net/forum/viewtopic.php?t=5638529
+
 Fullstack Social iOS NodeJS REST:
 https://rutracker.net/forum/viewtopic.php?t=5873176 
 
 Node.js, Express, MongoDB & More: The Complete Bootcamp (2020)
 https://rutracker.net/forum/viewtopic.php?t=5819465
 
-The Modern GraphQL Bootcamp (Advanced Node.js):
-https://rutracker.net/forum/viewtopic.php?t=5638529
+Node JS: Advanced Concepts
+https://rutracker.net/forum/viewtopic.php?t=5998587
 
 Microservices with Node JS and React:
 https://rutracker.net/forum/viewtopic.php?t=5953538
