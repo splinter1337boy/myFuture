@@ -112,16 +112,6 @@ JAVASCRIPT
 gatsby(react based)
 
 
-frontendmasters:
-angular:(нету)
-https://rutracker.net/forum/viewtopic.php?t=5775848
-
-frontendmasters:(нету)
-angular9 fundamentals:
-https://rutracker.net/forum/viewtopic.php?t=5916908
-
-
-
 
 diodor7:
 JavaScript - The Complete Guide 2021 (Beginner + Advanced):
@@ -185,7 +175,12 @@ https://rutracker.net/forum/viewtopic.php?t=5928682
 scaling vue with nuxt.js(нету)
 https://rutracker.net/forum/viewtopic.php?t=5946767
 
+angular:(нету)
+https://rutracker.net/forum/viewtopic.php?t=5775848
 
+frontendmasters:(нету)
+angular9 fundamentals:
+https://rutracker.net/forum/viewtopic.php?t=5916908
 
 
 
