@@ -131,13 +131,10 @@ https://rutracker.net/forum/viewtopic.php?t=5916908
 
 diodor7:
 JavaScript - The Complete Guide 2021 (Beginner + Advanced):
-https://rutracker.net/forum/viewtopic.php?t=5874667!!!!!!!(4)(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5874667(диск Е)
 
 react:
-https://rutracker.net/forum/viewtopic.php?t=5874677!!!!!!!(диск Е)
-
-React Native - The Practical Guide [2021 Edition]:(нету)
-https://rutracker.net/forum/viewtopic.php?t=58746821
+https://rutracker.net/forum/viewtopic.php?t=5874677(диск Е)
 
 NextJS & React - The Complete Guide: (нету)
 https://rutracker.net/forum/viewtopic.php?t=6020597
@@ -154,6 +151,9 @@ https://rutracker.net/forum/viewtopic.php?t=5642275
 OpenCart - Создание современного интернет-магазина от А до Я.:(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5383769
 
+Joomla 3 с Нуля до Гуру:(диск D)
+https://rutracker.net/forum/viewtopic.php?t=5422954
+
 Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(нету)
 https://rutracker.net/forum/viewtopic.php?t=5483055
 
@@ -165,6 +165,10 @@ https://rutracker.net/forum/viewtopic.php?t=5874684
 
 Vue - The Complete Guide (w/ Router, Vuex, Composition API):
 https://rutracker.net/forum/viewtopic.php?t=5874689(диск Е)
+
+React Native - The Practical Guide [2021 Edition]:(нету)
+https://rutracker.net/forum/viewtopic.php?t=58746821
+
 
 
 
@@ -183,10 +187,6 @@ https://rutracker.net/forum/viewtopic.php?t=5864016!!!!!!!(2)(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5667570!!!!!!!!(1)(диск Е)
 
 
-Joomla 3 с Нуля до Гуру:(9)(диск D)
-https://rutracker.net/forum/viewtopic.php?t=5422954
-
-
 
 	1) WordPress +
 	2) OpenCart +	
@@ -199,46 +199,32 @@ https://rutracker.net/forum/viewtopic.php?t=5422954
 
 
 Node.js, Express, MongoDB & More: The Complete Bootcamp (2020)
-https://rutracker.net/forum/viewtopic.php?t=5819465!!!!!(8)
+https://rutracker.net/forum/viewtopic.php?t=5819465
 
 FullStack-Мастер:
-MongoDB, Express.js, Angular и Node.js:(9)
+MongoDB, Express.js, Angular и Node.js:
 https://rutracker.net/forum/viewtopic.php?t=5582681
 
 node + koa.js
-https://rutracker.net/forum/viewtopic.php?t=5425486(10)
-
-
-
-
-
+https://rutracker.net/forum/viewtopic.php?t=5425486
 
 Microservices with Node JS and React:
-https://rutracker.net/forum/viewtopic.php?t=5953538!!!!!!!!!!!!!!!!!(2)
+https://rutracker.net/forum/viewtopic.php?t=5953538
 
 nosize: Complete Next.js with React & Node - Beautiful Portfolio App
-https://rutracker.net/forum/viewtopic.php?t=5924565!!!!!!!(3)
-
+https://rutracker.net/forum/viewtopic.php?t=5924565
 
 The Modern GraphQL Bootcamp (Advanced Node.js):
-https://rutracker.net/forum/viewtopic.php?t=5638529(graphQL)(5.1)
+https://rutracker.net/forum/viewtopic.php?t=5638529
 
 vampiri6ka(nodejs) Build Collaborative editor and Real-time video call with NodeJS:
-https://rutracker.net/forum/viewtopic.php?t=5572754(5.2) 
+https://rutracker.net/forum/viewtopic.php?t=5572754
 
-Building Real-time Apps with React, Socket.io, and RethinkDB:(6)
+Building Real-time Apps with React, Socket.io, and RethinkDB:
 https://rutracker.net/forum/viewtopic.php?t=5548703
 
-
-
-
-MERN Stack Front To Back: Full Stack React, Redux & Node.js
-https://rutracker.net/forum/viewtopic.php?t=5554515!!!(7.1)
-
-
-
 Fullstack Social iOS NodeJS REST:
-https://rutracker.net/forum/viewtopic.php?t=5873176 (7.2)
+https://rutracker.net/forum/viewtopic.php?t=5873176 
 
 
 {
