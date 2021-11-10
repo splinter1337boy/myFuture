@@ -142,6 +142,12 @@ https://rutracker.net/forum/viewtopic.php?t=58746821
 NextJS & React - The Complete Guide: (5.3)(нету)
 https://rutracker.net/forum/viewtopic.php?t=6020597
 
+NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL):
+https://rutracker.net/forum/viewtopic.php?t=5874675
+
+Rapid Development on AWS: React, Node.js & GraphQL:
+https://rutracker.net/forum/viewtopic.php?t=5592645
+
 OpenCart - Создание современного интернет-магазина от А до Я.:(5.4)(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5383769
 
@@ -174,17 +180,6 @@ https://rutracker.net/forum/viewtopic.php?t=5864016!!!!!!!(2)(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5667570!!!!!!!!(1)(диск Е)
 
 
-2 владилен. 
-Фреймворк Vue.js:
-https://rutracker.net/forum/viewtopic.php?t=5584730!!!!!!!(10.1)(диск Е)
-Vue 3:
-https://rutracker.net/forum/viewtopic.php?t=6004151!!!!!!!(10.2)(диск Е)
-javascript:
-https://rutracker.net/forum/viewtopic.php?t=5697868!!!!!!!(6)(диск Е)
-react:
-https://rutracker.net/forum/viewtopic.php?t=5801137!!!!!!!(8)(диск Е)
-javascript senior:
-https://rutracker.net/forum/viewtopic.php?t=6020638!!!!!!!(7)(диск Е)
 Joomla 3 с Нуля до Гуру:(9)(диск D)
 https://rutracker.net/forum/viewtopic.php?t=5422954
 
@@ -214,8 +209,6 @@ https://rutracker.net/forum/viewtopic.php?t=5425486(10)
 
 
 
-NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL):
-https://rutracker.net/forum/viewtopic.php?t=5874675!!!!!!!(1)
 
 Microservices with Node JS and React:
 https://rutracker.net/forum/viewtopic.php?t=5953538!!!!!!!!!!!!!!!!!(2)
@@ -223,8 +216,6 @@ https://rutracker.net/forum/viewtopic.php?t=5953538!!!!!!!!!!!!!!!!!(2)
 nosize: Complete Next.js with React & Node - Beautiful Portfolio App
 https://rutracker.net/forum/viewtopic.php?t=5924565!!!!!!!(3)
 
-Rapid Development on AWS: React, Node.js & GraphQL:
-https://rutracker.net/forum/viewtopic.php?t=5592645(4)
 
 The Modern GraphQL Bootcamp (Advanced Node.js):
 https://rutracker.net/forum/viewtopic.php?t=5638529(graphQL)(5.1)
