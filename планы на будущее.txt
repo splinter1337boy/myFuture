@@ -194,15 +194,11 @@ https://rutracker.net/forum/viewtopic.php?t=5946767
 
 1 иван петриченко
 Clean Code:
-https://rutracker.net/forum/viewtopic.php?t=5973019(3.3)(нету)
-cms wordPress:(wp-kama(https://wp-kama.ru/))
-https://rutracker.net/forum/viewtopic.php?t=5787814(3.2)(диск Е)
-web-razrabotchik:
-https://rutracker.net/forum/viewtopic.php?t=5764192(3.1)(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5973019(3)(нету)
 javascript(advanced):
-https://rutracker.net/forum/viewtopic.php?t=5864016!!!!!!!(2)(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5864016(2)(диск Е)
 Полный курс по JavaScript + React - с нуля до результата:
-https://rutracker.net/forum/viewtopic.php?t=5667570!!!!!!!!(1)(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5667570(1)(диск Е)
 
 
 
