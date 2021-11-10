@@ -130,7 +130,7 @@ https://rutracker.net/forum/viewtopic.php?t=5874667(диск Е)
 Understanding TypeScript - 2021 Edition:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5874684
 
-react:
+React - The Complete Guide (incl. Hooks, React Router, Redux):
 https://rutracker.net/forum/viewtopic.php?t=5874677(диск Е)
 
 NextJS & React - The Complete Guide: (нету)
