@@ -201,7 +201,7 @@ https://rutracker.net/forum/viewtopic.php?t=5916908
 1 иван петриченко
 Clean Code:
 https://rutracker.net/forum/viewtopic.php?t=5973019(нету)
-javascript(advanced):
+Практический JavaScript (Продвинутый уровень):
 https://rutracker.net/forum/viewtopic.php?t=5864016(диск Е)
 Полный курс по JavaScript + React - с нуля до результата:
 https://rutracker.net/forum/viewtopic.php?t=5667570(диск Е)
