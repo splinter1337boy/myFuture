@@ -126,7 +126,7 @@ https://rutracker.net/forum/viewtopic.php?t=5874677(диск Е)
 NextJS & React - The Complete Guide: (нету)
 https://rutracker.net/forum/viewtopic.php?t=6020597
 
-Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(нету)
+Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(нету)(посмотреть на всякий, не уверен что нужно)
 https://rutracker.net/forum/viewtopic.php?t=5483055
 
 NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL):
@@ -141,13 +141,13 @@ https://rutracker.net/forum/viewtopic.php?t=5873176
 Node.js, Express, MongoDB & More: The Complete Bootcamp (2020)
 https://rutracker.net/forum/viewtopic.php?t=5819465
 
-Node JS: Advanced Concepts
+Node JS: Advanced Concepts(позырить, рекомендация от курса выше, но тоже хз нужно ли мне)
 https://rutracker.net/forum/viewtopic.php?t=5998587
 
-Microservices with Node JS and React:
+Microservices with Node JS and React:(тесты крутые)
 https://rutracker.net/forum/viewtopic.php?t=5953538
 
-nosize: Complete Next.js with React & Node - Beautiful Portfolio App
+nosize: Complete Next.js with React & Node - Beautiful Portfolio App(есть сомнения насчет этого курса, большое содержание, стоит ли?)
 https://rutracker.net/forum/viewtopic.php?t=5924565
 
 Rapid Development on AWS: React, Node.js & GraphQL:
@@ -159,7 +159,11 @@ https://rutracker.net/forum/viewtopic.php?t=5453151
 React Native - The Practical Guide [2021 Edition]:(нету)
 https://rutracker.net/forum/viewtopic.php?t=58746821
 
-FullStack-Мастер:
+
+
+
+посмешище:
+FullStack-Мастер:(МИНИН :D)
 MongoDB, Express.js, Angular и Node.js:
 https://rutracker.net/forum/viewtopic.php?t=5582681
 
