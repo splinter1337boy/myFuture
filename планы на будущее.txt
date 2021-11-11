@@ -156,12 +156,14 @@ https://rutracker.net/forum/viewtopic.php?t=5592645
 Firebase + React: Real-time, Serverless Web Apps:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5453151
 
+React Native - The Practical Guide [2021 Edition]:(нету)
+https://rutracker.net/forum/viewtopic.php?t=58746821
+
 FullStack-Мастер:
 MongoDB, Express.js, Angular и Node.js:
 https://rutracker.net/forum/viewtopic.php?t=5582681
 
-React Native - The Practical Guide [2021 Edition]:(нету)
-https://rutracker.net/forum/viewtopic.php?t=58746821
+
 
 
 
