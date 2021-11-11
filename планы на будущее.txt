@@ -141,7 +141,7 @@ https://rutracker.net/forum/viewtopic.php?t=5873176
 Node.js, Express, MongoDB & More: The Complete Bootcamp (2020)
 https://rutracker.net/forum/viewtopic.php?t=5819465
 
-Node JS: Advanced Concepts(позырить, рекомендация от курса выше, но тоже хз нужно ли мне)
+Node JS: Advanced Concepts(продолжение?, рекомендация от курса выше, но тоже хз нужно ли мне)
 https://rutracker.net/forum/viewtopic.php?t=5998587
 
 Microservices with Node JS and React:(тесты крутые)
