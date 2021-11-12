@@ -209,12 +209,6 @@ https://rutracker.net/forum/viewtopic.php?t=5667570(диск Е)
 
 
 
-	1) WordPress +
-	2) OpenCart +	
-	3) Joomla +
-	4) MODX -
-
-
 {
 Node.js and Raspberry Pi:
 https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
