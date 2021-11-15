@@ -2951,7 +2951,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\02 - User Interface Fundamentals
-Note(casey): 04_the_structure_of_an_editor
+Note(casey): 05_editor_types
 доп(casey): диск D: CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
