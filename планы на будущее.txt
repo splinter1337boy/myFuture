@@ -1621,6 +1621,9 @@ Note(casey): LINUX\MetaSploit\MetaSploit DOCS
 
 
 
+Top 5 Beginner Raspberry Pi Projects: A Beginner's Guide to Getting Started with Raspberry Pi
+https://www.youtube.com/watch?v=_snMNl5dplc&ab_channel=TyandGigBuilds
+
 
 
 TCP-IP
