@@ -2951,7 +2951,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\02 - User Interface Fundamentals
-Note(casey): 01_understanding_3d_space
+Note(casey): 02_understanding_the_user_interface
 доп(casey): диск D: CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
