@@ -3106,6 +3106,7 @@ REST
 
 english:
 https://puzzle-english.com/plan
+https://www.urbandictionary.com/
 
 nihon: 
 https://www.tanoshiijapanese.com/dictionary/
