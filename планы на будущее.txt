@@ -3104,6 +3104,9 @@ nihon, english(упр. по english for 10 min. every day) по очереди, 5 minutes keyb
 PROGRAMIROVANIE
 REST
 
+english:
+https://puzzle-english.com/plan
+
 nihon: 
 https://www.tanoshiijapanese.com/dictionary/
 http://vandal.sdf-eu.org/JapaneseGuide/index.html
