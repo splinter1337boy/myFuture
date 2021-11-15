@@ -2950,8 +2950,8 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 
-Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\01 - Getting Started
-Note(casey): 01_welcome_to_the_course
+Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\02 - User Interface Fundamentals
+Note(casey): 01_understanding_3d_space
 доп(casey): диск D: CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
