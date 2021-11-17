@@ -577,7 +577,7 @@ https://www.youtube.com/watch?v=45MIykWJ-C4&ab_channel=freeCodeCamp.org
 
 
 UE:
-Learning C++ by Creating Games with Unreal Engine 4:(диск Е)
+Learning C++ by Creating Games with Unreal Engine 4:(Нету)
 https://rutracker.net/forum/viewtopic.php?t=5516695
 [Udemy] Learn to Code by Making Games The Unreal Engine Developer Part 1-2-3: (нету)
 https://rutracker.net/forum/viewtopic.php?t=5624739
