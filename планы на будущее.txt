@@ -1807,13 +1807,10 @@ Note(casey): ravesli prakticheskie zadaniya, ???
 доп(casey): вторая половина
 
 
-
-
-
 Note(casey): Проекты, ???
 доп(casey):
 
-C++ YT:
+
 
 
 
