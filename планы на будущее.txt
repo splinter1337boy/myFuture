@@ -47,9 +47,6 @@ frontend:
 	
 	[Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)(диск Е)
 	https://rutracker.net/forum/viewtopic.php?t=5858801 (интересный курс)!!!!!!!!
-	
-gulp - ЮРИЙ
-https://rutracker.net/forum/viewtopic.php?t=5855667(лысый мужчина)(диск Е)
 
 курс по [12-2019] advanced-css-and-sass!!!!!!
 https://rutracker.net/forum/viewtopic.php?t=5898540(диск Е)
@@ -57,7 +54,8 @@ https://rutracker.net/forum/viewtopic.php?t=5898540(диск Е)
 курсы по udemy-advanced-css-sass!!!!!!!!!!
 https://rutracker.net/forum/viewtopic.php?t=5482390(диск Е)
 
-
+gulp - ЮРИЙ
+https://rutracker.net/forum/viewtopic.php?t=5855667(лысый мужчина)(диск Е)
 
 
 CSS-tricks:
