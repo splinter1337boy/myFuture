@@ -2949,7 +2949,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\03 - 3D Object Fundamentals
-Note(casey): 05_selection_select_lasso_tool
+Note(casey): 06_selection_more_selection_tools
 доп(casey): диск D: CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
