@@ -1246,7 +1246,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 
 5. javascript
-Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\032 Навигация по DOM - элементам, data-атрибуты, преимущество for_of
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\02 Основы JavaScript\033 Практика. Используем события на странице проекта
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
 
 доп(casey): 010 - 011 Как работать с GitHub
