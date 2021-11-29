@@ -1172,7 +1172,7 @@ flexfrog!!!! proiti
 Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\22. Позиционирование
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
-доп(casey): 16. Наименование классов
+доп(casey): 17. Создание простой HTML-страницы
 
 доп(casey): freecodecamp penguin
 доп(casey): freecodecamp css
