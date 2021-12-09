@@ -1379,9 +1379,6 @@ Nodejs YT:
 
 
 6. python(tcp-ip, linux)
-Note(casey): Python\learnpython.org\???
-доп(casey): https://www.learnpython.org/en/Hello%2C_World%21
-
 доп(casey): freecodecamp
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
