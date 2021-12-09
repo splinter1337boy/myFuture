@@ -1389,6 +1389,11 @@ Note(casey): Python\dataquest\Data Scientist in Python\???
 доп(casey): https://app.dataquest.io/dashboard
 
 
+->Online курс “Python для сетевых инженеров” 2021 (Диск Е)(pyneng-11)
+->Online курс “Python для сетевых инженеров” 2019 (диск D Open PyNEng)
+->Online курс “Python для сетевых инженеров”(YOUTUBE_CONTINUE)
+
+
 
 YT хирьянов
 Note(casey): 2020 Практика программирования на Python 3, ???
@@ -1397,10 +1402,6 @@ Note(casey): 2020 Практика программирования на Python 3, ???
 Note(casey): 2021 Анализ данных на Python
 доп(casey): 
 
-
-->Online курс “Python для сетевых инженеров” 2021 (Диск Е)(pyneng-11)
-->Online курс “Python для сетевых инженеров” 2019 (диск D Open PyNEng)
-->Online курс “Python для сетевых инженеров”(YOUTUBE_CONTINUE)
 
 Note(casey): Проекты, ???
 доп(casey):
