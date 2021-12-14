@@ -1247,7 +1247,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 
 5. javascript
-Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\03 JavaScript в работе\039 Скрипты и время их выполнения. setTimeout и setInterval
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\03 JavaScript в работе\040 Работа с датами
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
               
 доп(casey): 010 - 011 Как работать с GitHub
