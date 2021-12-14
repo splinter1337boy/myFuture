@@ -3126,6 +3126,7 @@ REST
 english:
 https://puzzle-english.com/plan
 https://www.urbandictionary.com/
+https://www.busuu.com/ru
 
 nihon: 
 https://www.tanoshiijapanese.com/dictionary/
