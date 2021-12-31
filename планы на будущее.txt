@@ -2069,8 +2069,11 @@ Note(casey): kanji brutal
 Note(casey): alphadream
 доп(casey): https://soundcloud.com/alphadream2
 
-Note(casey): 
+Note(casey): ActuallyNotBill
 доп(casey): https://soundcloud.com/actuallynotbill
+
+Note(casey): shambomba 2 
+доп(casey): https://soundcloud.com/shambomba/
 
 
 sc artists(soundcloud):
