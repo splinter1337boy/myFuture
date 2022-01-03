@@ -1172,7 +1172,7 @@ Note(casey): ??? (источник)
 
 flexfrog!!!! proiti
 
-Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\34. Вертикальное выравнивание (vertical-align)
+Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\35. Обтекания (float, clearfix)
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
