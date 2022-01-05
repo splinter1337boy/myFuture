@@ -1172,7 +1172,7 @@ Note(casey): ??? (источник)
 
 flexfrog!!!! proiti
 
-Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\39. Вставка видео и аудио
+Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\01. Основы HTML и CSS\40. Google fonts, локальные шрифты
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
