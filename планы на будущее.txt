@@ -1247,7 +1247,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 
 5. javascript
-Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\03 JavaScript в работе\046 Контекст вызова. This
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\03 JavaScript в работе\047 Классы (ES6)
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
               
 доп(casey): 010 - 011 Как работать с GitHub
