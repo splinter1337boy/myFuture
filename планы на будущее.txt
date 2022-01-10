@@ -70,6 +70,8 @@ tailwind css
 справочники:
 htmlbase.ru
 
+Где брать PSD шаблоны сайтов для вёрстки?
+https://qna.habr.com/q/630631
 
 
 
