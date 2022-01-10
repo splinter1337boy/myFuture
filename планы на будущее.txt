@@ -1176,7 +1176,7 @@ Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\02 Natours Project _ Setup and First Steps (Part 1)\006 Building the Header - Part 1
+Note(casey): [11-2021] advanced-css-and-sass\02 Natours Project _ Setup and First Steps (Part 1)\007 Building the Header - Part 2
 доп(casey): диск Е: [11-2021] advanced-css-and-sass
 
 
