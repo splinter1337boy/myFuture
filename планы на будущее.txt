@@ -1176,7 +1176,7 @@ Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
-Note(casey): курс по [12-2019] advanced-css-and-sass\???
+Note(casey): [11-2021] advanced-css-and-sass\???
 доп(casey): диск Е: [11-2021] advanced-css-and-sass
 
 
