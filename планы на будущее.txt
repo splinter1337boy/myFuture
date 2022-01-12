@@ -204,6 +204,8 @@ Clean Code:
 https://rutracker.net/forum/viewtopic.php?t=5973019(нету)
 Gatsby JS Developer's Guide - Important Parts & Blog App(нету)
 https://rutracker.net/forum/viewtopic.php?t=6054613
+Посадка верстки и создание тем на CMS WordPress
+https://rutracker.net/forum/viewtopic.php?t=5787814
 Практический JavaScript (Продвинутый уровень):
 https://rutracker.net/forum/viewtopic.php?t=5864016(нету)
 Полный курс по JavaScript + React - с нуля до результата:
