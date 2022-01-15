@@ -3130,10 +3130,12 @@ Electron YT:
 ------------------------------------------------------------
 
 english:
+duolingo
 https://www.urbandictionary.com/
 https://www.busuu.com/ru
 
 nihon: 
+duolingo
 https://www.tanoshiijapanese.com/dictionary/
 http://vandal.sdf-eu.org/JapaneseGuide/index.html
 https://www.busuu.com/ru
