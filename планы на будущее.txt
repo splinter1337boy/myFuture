@@ -3138,14 +3138,12 @@ PROGRAMIROVANIE
 REST
 
 english:
-https://puzzle-english.com/plan
 https://www.urbandictionary.com/
 https://www.busuu.com/ru
 
 nihon: 
 https://www.tanoshiijapanese.com/dictionary/
 http://vandal.sdf-eu.org/JapaneseGuide/index.html
-https://www.pixiv.net/en/
 https://www.busuu.com/ru
 
 
