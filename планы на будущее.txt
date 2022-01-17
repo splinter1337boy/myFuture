@@ -1180,7 +1180,7 @@ Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\03 How CSS Works_ A Look Behind the Scenes\012 Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
+Note(casey): [11-2021] advanced-css-and-sass\03 How CSS Works_ A Look Behind the Scenes\016 How CSS is Parsed, Part 2_ Value Processing
 доп(casey): диск Е: [11-2021] advanced-css-and-sass
 
 
