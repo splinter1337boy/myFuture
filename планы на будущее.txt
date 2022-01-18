@@ -1256,7 +1256,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 
 5. javascript
-Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\03 JavaScript в работе\048 Используем классы в реальной работе
+Note(casey): javascript\Полный курс по JavaScript + React - с нуля до результата\03 JavaScript в работе\049 Rest оператор и параметры по умолчанию (ES6)
 доп(casey): диск E: [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
               
 доп(casey): 010 - 011 Как работать с GitHub
