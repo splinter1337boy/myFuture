@@ -1180,7 +1180,7 @@ Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\03 How CSS Works_ A Look Behind the Scenes\019 How CSS Renders a Website_ The Visual Formatting Model
+Note(casey): [11-2021] advanced-css-and-sass\03 How CSS Works_ A Look Behind the Scenes\020 CSS Architecture, Components and BEM
 доп(casey): диск Е: [11-2021] advanced-css-and-sass
 
 
