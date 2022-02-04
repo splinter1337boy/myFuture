@@ -51,6 +51,9 @@ frontend:
 курс по [12-2019] advanced-css-and-sass!!!!!!
 https://rutracker.net/forum/viewtopic.php?t=5898540(диск Е)
 
+Профессиональная, быстрая и комфортная верстка сайтов
+https://rutracker.net/forum/viewtopic.php?t=5775267
+
 Сборка Gulp 4.0
 https://rutracker.net/forum/viewtopic.php?t=5855667
 
