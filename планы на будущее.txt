@@ -1180,7 +1180,7 @@ Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\04 Introduction to Sass and NPM\026 A Brief Introduction to the Command Line
+Note(casey): [11-2021] advanced-css-and-sass\04 Introduction to Sass and NPM\027 NPM Packages_ Let's Install Sass Locally
 доп(casey): диск Е: [11-2021] advanced-css-and-sass
 
 
