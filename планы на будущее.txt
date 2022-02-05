@@ -2954,8 +2954,6 @@ Toon Boom Harmony YT:
 3D(Blender);
 Note(casey): Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners\Chapter 3 - Animation and Final Rendering\7-11
 Note(casey): 10. Preparing for Rendering and Loose Ends
-доп(casey): посмотреть gumroad, Creative Shrimp, Learn Squared, Blender Cloud
-доп(casey): environment досмотреть чо то переделать
 доп(casey): диск D: CGCookie - Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners by Grant Wilk (2019)
 
 
@@ -2964,6 +2962,9 @@ Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\
 Note(casey): 15_transformation_pivot_point
 доп(casey): диск D: CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
+
+доп(casey): посмотреть gumroad, Creative Shrimp, Learn Squared, Blender Cloud
+доп(casey): environment досмотреть чо то переделать
 
 
 
