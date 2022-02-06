@@ -1180,8 +1180,8 @@ Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\05 Natours Project _ Using Advanced CSS and Sass (Part 2)\031 Converting Our CSS Code to Sass_ Variables and Nesting
-доп(casey): диск Е: [11-2021] advanced-css-and-sass
+Note(casey): [11-2021] advanced-css-and-sass\05 Natours Project _ Using Advanced CSS and Sass (Part 2)\032 Implementing the 7-1 CSS Architecture with Sass
+доп(casey): [11-2021] advanced-css-and-sass
 
 
 
