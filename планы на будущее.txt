@@ -3137,7 +3137,6 @@ nihon:
 duolingo
 https://www.tanoshiijapanese.com/dictionary/
 http://vandal.sdf-eu.org/JapaneseGuide/katakana.html
-http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C
 https://www.busuu.com/ru
 
 
