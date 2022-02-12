@@ -1180,7 +1180,7 @@ Note(casey): [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл€ начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\05 Natours Project _ Using Advanced CSS and Sass (Part 2)\042 Building the Stories Section - Part 1
+Note(casey): [11-2021] advanced-css-and-sass\05 Natours Project _ Using Advanced CSS and Sass (Part 2)\043 Building the Stories Section - Part 2
 доп(casey): [11-2021] advanced-css-and-sass
 
 
