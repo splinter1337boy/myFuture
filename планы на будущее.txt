@@ -72,8 +72,10 @@ htmlbase.ru
 
 Где брать PSD шаблоны сайтов для вёрстки?
 https://qna.habr.com/q/630631
+https://colorlib.com/wp/templates/
 
-
+красивые кнопочки:
+https://www.sliderrevolution.com/resources/css-button-hover-effects/
 
 
 
