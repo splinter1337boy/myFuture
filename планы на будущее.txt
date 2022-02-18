@@ -78,6 +78,10 @@ https://colorlib.com/wp/templates/
 https://www.sliderrevolution.com/resources/css-button-hover-effects/
 
 
+resources:
+https://unsplash.com/
+https://coverr.co/
+
 
 Курс по Adobe Photoshop - с нуля до макетного стокера(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5825077
