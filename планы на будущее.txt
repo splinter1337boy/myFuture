@@ -3137,7 +3137,6 @@ Electron YT:
 english:
 duolingo
 https://www.urbandictionary.com/
-https://www.busuu.com/ru
 доп(casey): https://skysmart.ru/articles/english/aktivnyj-i-passivnyj-zalog-v-anglijskom-yazyke
 доп(casey): https://lingua-airlines.ru/articles/modalnie-glagolu-v-passivnom-zaloge/
 
@@ -3146,7 +3145,6 @@ nihon:
 duolingo
 https://www.tanoshiijapanese.com/dictionary/
 http://vandal.sdf-eu.org/JapaneseGuide/kanji.html
-https://www.busuu.com/ru
 
 
 ------------------------------------------------------------------------------
