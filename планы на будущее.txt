@@ -1262,7 +1262,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 
 5. javascript
-Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата\04 Продвинутый JavaScript\062 Создаем слайдер на сайте, вариант 2
+Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата\04 Продвинутый JavaScript\063 Создаем навигацию для слайдов
 доп(casey): [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
               
 доп(casey): 010 - 011 Как работать с GitHub
