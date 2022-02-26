@@ -2965,7 +2965,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\03 - 3D Object Fundamentals
-Note(casey): 17_transformation_randomize_transform
+Note(casey): 18_transforming_the_right_way
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
