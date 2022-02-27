@@ -81,6 +81,7 @@ https://www.sliderrevolution.com/resources/css-button-hover-effects/
 resources:
 https://unsplash.com/
 https://coverr.co/
+https://linea.io/
 
 
 Курс по Adobe Photoshop - с нуля до макетного стокера(диск Е)
