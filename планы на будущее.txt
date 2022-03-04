@@ -3153,35 +3153,7 @@ http://vandal.sdf-eu.org/JapaneseGuide/particles.html
 can't recall the word - kiku 
 
 ------------------------------------------------------------------------------
-UNIVERSITY:
-1. java
-2. javascript
-3. sql server
-4. python(моделирование систем)
-5. OS
-6. TPR
-7. metodi optimization(ИСО)
 
-6. filosofiya
-7. C++
-8. 4islyaki
-9. shemotehnika
-
-
-MAIN:
-1. sql
-2. mobile
-3. css
-4. css YT
-5. javascript
-6. python
-
-EXTRA:
-7. C#
-8. C++
-9. java
-
-10. REST
 
 
 
