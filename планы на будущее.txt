@@ -1187,7 +1187,7 @@ Note(casey): [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл€ начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\06 Natours Project _ Advanced Responsive Design (Part 3)\056 Let's Use the Power of Sass Mixins to Write Media Queries
+Note(casey): [11-2021] advanced-css-and-sass\06 Natours Project _ Advanced Responsive Design (Part 3)\057 Writing Media Queries - Base, Typography and Layout
 доп(casey): [11-2021] advanced-css-and-sass
 
 
