@@ -3149,6 +3149,7 @@ nihon:
 duolingo
 https://www.tanoshiijapanese.com/dictionary/
 http://vandal.sdf-eu.org/JapaneseGuide/adjectives.html
+katakana помалякать
 
 can't recall the word - kiku 
 
