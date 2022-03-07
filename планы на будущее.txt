@@ -82,6 +82,7 @@ resources:
 https://unsplash.com/
 https://coverr.co/
 https://linea.io/
+https://sizzy.co/
 
 
 Курс по Adobe Photoshop - с нуля до макетного стокера(диск Е)
