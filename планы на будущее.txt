@@ -3149,7 +3149,7 @@ https://www.urbandictionary.com/
 nihon: 
 duolingo
 https://www.tanoshiijapanese.com/dictionary/
-http://vandal.sdf-eu.org/JapaneseGuide/adjectives.html
+http://vandal.sdf-eu.org/JapaneseGuide/verbs.html
 katakana помалякать
 повт. звуки а о э у и
 
