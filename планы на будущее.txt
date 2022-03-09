@@ -1264,7 +1264,7 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 
 5. javascript
-Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата\04 Продвинутый JavaScript\071 Webpack. Собираем наш проект
+Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата\04 Продвинутый JavaScript\072 ES6 Modules
 доп(casey): [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
               
 доп(casey): 010 - 011 Как работать с GitHub
