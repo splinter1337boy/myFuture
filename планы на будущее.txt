@@ -2967,7 +2967,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\04 - Modeling Fundamentals
-Note(casey): 07_edit_mode_selection_and_transformation
+Note(casey): 08_edit_mode_adding_and_removing_elements
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
