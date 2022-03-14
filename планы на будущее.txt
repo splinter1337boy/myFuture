@@ -2967,7 +2967,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\04 - Modeling Fundamentals
-Note(casey): 15_edit_mode_knife_tool
+Note(casey): 16_edit_mode_bisect_tool
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
