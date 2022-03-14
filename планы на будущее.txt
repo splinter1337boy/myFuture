@@ -2967,7 +2967,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\04 - Modeling Fundamentals
-Note(casey): 11_edit_mode_extrude_tools
+Note(casey): 12_edit_mode_inset_faces_tool
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
