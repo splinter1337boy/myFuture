@@ -1188,7 +1188,7 @@ Note(casey): [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл€ начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\06 Natours Project _ Advanced Responsive Design (Part 3)\063 Responsive Images in CSS
+Note(casey): [11-2021] advanced-css-and-sass\06 Natours Project _ Advanced Responsive Design (Part 3)\065 Setting up a Simple Build Process with NPM Scripts
 доп(casey): [11-2021] advanced-css-and-sass
 
 
