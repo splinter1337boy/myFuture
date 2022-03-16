@@ -3156,7 +3156,7 @@ https://www.urbandictionary.com/
 nihon: 
 duolingo
 https://www.tanoshiijapanese.com/dictionary/
-http://vandal.sdf-eu.org/JapaneseGuide/verbs.html
+http://vandal.sdf-eu.org/JapaneseGuide/negverb.html
 http://nihongo.monash.edu/cgi-bin/wwwjdic?1C
 
 can't recall the word - kiku 
