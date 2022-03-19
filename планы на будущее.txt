@@ -2970,7 +2970,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\04 - Modeling Fundamentals
-Note(casey): 30_solving_modeling_problems_wrong_normals
+Note(casey): 31_solving_modeling_problems_linked_data
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
