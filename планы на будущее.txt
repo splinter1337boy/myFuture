@@ -2971,7 +2971,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\04 - Modeling Fundamentals
-Note(casey): 38_mirror_modifier
+Note(casey): 39_solidify_modifier
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
