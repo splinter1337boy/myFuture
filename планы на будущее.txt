@@ -1189,7 +1189,7 @@ Note(casey): [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл€ начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\07 Trillo Project _ Master Flexbox!\079 Building the Navigation - Part 2
+Note(casey): [11-2021] advanced-css-and-sass\07 Trillo Project _ Master Flexbox!\080 Building the Hotel Overview - Part 1
 доп(casey): [11-2021] advanced-css-and-sass
 
 
