@@ -774,6 +774,9 @@ Blender 2.8 Launch Pad (Chapters 1-15):(диск D)
 https://rutracker.net/forum/viewtopic.php?t=6067068
 Blender 2.8 Launch Pad (Chapters 16-20):(Нету)
 https://rutracker.net/forum/viewtopic.php?t=6014732
+Mastering Sculpting in Blender:
+https://rutracker.net/forum/viewtopic.php?t=5604994
+
 
 
 
@@ -907,8 +910,6 @@ https://rutracker.net/forum/viewtopic.php?t=5776686
 
 
 Sculpting:
-Mastering Sculpting in Blender:
-https://rutracker.net/forum/viewtopic.php?t=5604994
 Sculpting an Alien in Blender 2.8:
 https://rutracker.net/forum/viewtopic.php?t=5881778
 
