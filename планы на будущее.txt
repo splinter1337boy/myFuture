@@ -3157,7 +3157,7 @@ https://www.urbandictionary.com/
 nihon: 
 duolingo
 https://www.tanoshiijapanese.com/dictionary/
-http://vandal.sdf-eu.org/JapaneseGuide/pastverb.html
+http://vandal.sdf-eu.org/JapaneseGuide/particles2.html
 http://nihongo.monash.edu/cgi-bin/wwwjdic?1C
 
 ------------------------------------------------------------------------------
