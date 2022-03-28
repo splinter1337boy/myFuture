@@ -2974,7 +2974,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\05 - Exercise - Modeling a Sci-fi Car Scene
-Note(casey): 09_car_details_lamps
+Note(casey): 10_car_details_bumpers
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
