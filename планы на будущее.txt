@@ -1192,7 +1192,7 @@ Note(casey): [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл€ начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\08 A Quick Introduction to CSS Grid Layouts\090 Why CSS Grid_ A Whole New Mindset
+Note(casey): [11-2021] advanced-css-and-sass\08 A Quick Introduction to CSS Grid Layouts\091 Quick Setup for This Section
 доп(casey): [11-2021] advanced-css-and-sass
 
 
