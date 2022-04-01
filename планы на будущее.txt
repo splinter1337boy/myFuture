@@ -1192,7 +1192,7 @@ Note(casey): [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл€ начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\08 A Quick Introduction to CSS Grid Layouts\103 Using min-content, max-content and the minmax() function
+Note(casey): [11-2021] advanced-css-and-sass\08 A Quick Introduction to CSS Grid Layouts\104 Responsive Layouts with auto-fit and auto-fill
 доп(casey): [11-2021] advanced-css-and-sass
 
 
