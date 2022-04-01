@@ -124,8 +124,6 @@ gatsby(react based)
 
 
 diodor7:
-JavaScript - The Complete Guide 2021 (Beginner + Advanced):
-https://rutracker.net/forum/viewtopic.php?t=5874667(диск Е)
 
 Understanding TypeScript - 2021 Edition:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5874684
@@ -215,10 +213,15 @@ Gatsby JS Developer's Guide - Important Parts & Blog App(нету)
 https://rutracker.net/forum/viewtopic.php?t=6054613
 Посадка верстки и создание тем на CMS WordPress
 https://rutracker.net/forum/viewtopic.php?t=5787814
+
 Практический JavaScript (Продвинутый уровень):
 https://rutracker.net/forum/viewtopic.php?t=5864016(нету)
+
+JavaScript - The Complete Guide 2021 (Beginner + Advanced):
+https://rutracker.net/forum/viewtopic.php?t=5874667
+
 Полный курс по JavaScript + React - с нуля до результата:
-https://rutracker.net/forum/viewtopic.php?t=5667570(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5667570
 
 
 
