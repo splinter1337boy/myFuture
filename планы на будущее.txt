@@ -127,9 +127,6 @@ diodor7:
 Understanding TypeScript - 2021 Edition:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5874684
 
-React - The Complete Guide (incl. Hooks, React Router, Redux):
-https://rutracker.net/forum/viewtopic.php?t=5874677(диск Е)
-
 NextJS & React - The Complete Guide: (нету)
 https://rutracker.net/forum/viewtopic.php?t=6020597
 
@@ -212,6 +209,10 @@ Gatsby JS Developer's Guide - Important Parts & Blog App(нету)
 https://rutracker.net/forum/viewtopic.php?t=6054613
 Посадка верстки и создание тем на CMS WordPress
 https://rutracker.net/forum/viewtopic.php?t=5787814
+
+
+React - The Complete Guide (incl. Hooks, React Router, Redux):
+https://rutracker.net/forum/viewtopic.php?t=5874677(диск Е)
 
 Практический JavaScript (Продвинутый уровень):
 https://rutracker.net/forum/viewtopic.php?t=5864016
