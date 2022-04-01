@@ -124,7 +124,6 @@ gatsby(react based)
 
 
 diodor7:
-
 Understanding TypeScript - 2021 Edition:(нету)
 https://rutracker.net/forum/viewtopic.php?t=5874684
 
@@ -215,7 +214,7 @@ https://rutracker.net/forum/viewtopic.php?t=6054613
 https://rutracker.net/forum/viewtopic.php?t=5787814
 
 Практический JavaScript (Продвинутый уровень):
-https://rutracker.net/forum/viewtopic.php?t=5864016(нету)
+https://rutracker.net/forum/viewtopic.php?t=5864016
 
 JavaScript - The Complete Guide 2021 (Beginner + Advanced):
 https://rutracker.net/forum/viewtopic.php?t=5874667
