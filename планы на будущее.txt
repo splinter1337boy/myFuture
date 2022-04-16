@@ -1196,7 +1196,7 @@ Note(casey): [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл
 доп(casey): диск E: [Brainscloud] [ƒмитрий ¬алак] ќсновы создани€ сайтов. HTML и CSS дл€ начинающих (2019)
 
 
-Note(casey): [11-2021] advanced-css-and-sass\09 Nexter Project _ Master CSS Grid Layouts!\122 Writing Media Queries - Part 2
+Note(casey): [11-2021] advanced-css-and-sass\09 Nexter Project _ Master CSS Grid Layouts!\123 Browser Support for CSS Grid
 доп(casey): [11-2021] advanced-css-and-sass
 
 
