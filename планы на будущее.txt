@@ -3088,9 +3088,9 @@ Note(casey): Проекты, ???
 доп(casey):
 
 
-Note(casey): p5.js\p5.js Tutorial\Code! Programming with p5.js\папку_называть_по_названию_видоса
-доп(casey): Code! Programming with p5.js
-https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2&ab_channel=TheCodingTrain
+Note(casey): p5.js\nature of code 2.0\???
+доп(casey): 
+https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=1&ab_channel=TheCodingTrain
 
 
 Note(casey): Проекты, ???
@@ -3099,10 +3099,6 @@ Note(casey): Проекты, ???
 
 
 features:
-nature of code 1.0
-https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YVljJvFRCyRM6mmF5wMPeE
-nature of code 2.0
-https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM
 Beginners Guide to Machine Learning in JavaScript
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
 Machine Learning with TensorFlow, ml5.js, and Spell
