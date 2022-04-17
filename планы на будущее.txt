@@ -943,6 +943,9 @@ Houdini:
 [Online VFX] Houdini: 3D Artist [2018, RUS]
 https://rutracker.net/forum/viewtopic.php?t=5915855
 
+[Online VFX] Houdini Procedurals [2017, RUS]:
+https://rutracker.net/forum/viewtopic.php?t=5916028
+
 Houdini FX 17.5.173(229) + Redshift 2.6.41 (рабочая связка)
 https://rutracker.net/forum/viewtopic.php?t=5927611
 
@@ -952,16 +955,13 @@ https://rutracker.net/forum/viewtopic.php?t=5916225
 Частицы в Гудини:
 https://rutracker.net/forum/viewtopic.php?t=5922899
 
+Процедурная анимация в Houdini 17.5:
+https://rutracker.net/forum/viewtopic.php?t=5838179
+
 [CG Masters Academy] CGMA - Mastering Destruction in Houdini [2019, RUS]:
 https://rutracker.net/forum/viewtopic.php?t=5940902
 
 programming:
-Процедурная анимация в Houdini 17.5:
-https://rutracker.net/forum/viewtopic.php?t=5838179
-[Online VFX] Houdini Procedurals [2017, RUS]:
-https://rutracker.net/forum/viewtopic.php?t=5916028
-
-
 Cgninjas:
 https://www.youtube.com/channel/UCnSLHleKhoIQiW88xYMEr3A
 
