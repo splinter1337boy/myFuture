@@ -2108,6 +2108,9 @@ Note(casey): ActuallyNotBill
 Note(casey): shambomba 2 
 доп(casey): https://soundcloud.com/shambomba/
 
+Note(casey): sci1 
+доп(casey): https://soundcloud.com/sci1
+
 
 sc artists(soundcloud):
 
