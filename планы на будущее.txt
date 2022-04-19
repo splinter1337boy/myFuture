@@ -218,8 +218,17 @@ https://rutracker.net/forum/viewtopic.php?t=5787814
 Практический JavaScript (Продвинутый уровень):
 https://rutracker.net/forum/viewtopic.php?t=5864016
 
-JavaScript - The Complete Guide 2021 (Beginner + Advanced):
+The Complete 2022 Web Development Bootcamp(Dr. Angela Yu)
+https://rutracker.net/forum/viewtopic.php?t=5886509
+
+The Web Developer Bootcamp 2021:(Colt Steele)
+https://rutracker.net/forum/viewtopic.php?t=5896967
+
+JavaScript - The Complete Guide 2021 (Beginner + Advanced):(Maximilian Schwarzmuller)
 https://rutracker.net/forum/viewtopic.php?t=5874667
+
+The Complete JavaScript Course 2022: From Zero to Expert!:(Jonas Schmedtmann)
+https://rutracker.net/forum/viewtopic.php?t=5881046
 
 Полный курс по JavaScript + React - с нуля до результата:
 https://rutracker.net/forum/viewtopic.php?t=5667570
@@ -1275,15 +1284,15 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 5. javascript
 Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата\04 Продвинутый JavaScript\080 JS анимации, requestAnimationFrame
-доп(casey): [Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата
+доп(casey): https://rutracker.net/forum/viewtopic.php?t=5667570
               
 доп(casey): 010 - 011 Как работать с GitHub
 доп(casey): githowto -> 21. Подробнее о структуре;
 
-доп(casey): freecodecamp js
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
-JavaScript Algorithms and Data Structures -> Basic JavaScript -> Word Blanks
+Note(casey):  The Complete JavaScript Course 2022: From Zero to Expert!
+доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
+
 
 доп(casey): javascript\learn javascript\???
 https://learn.javascript.ru/js
