@@ -1212,14 +1212,6 @@ Note(casey): [11-2021] advanced-css-and-sass\09 Nexter Project _ Master CSS Grid
 
 
 доп(casey): freecodecamp penguin
-доп(casey): freecodecamp css
-доп(casey): Responsive Web Design -> Basic HTML and HTML5 -> Create a Form Element
-доп(casey): margin in text?
-
-Note(casey): YOUTUBE, Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии (Фрилансер по жизни)
-доп(casey): 
-
-
 
 Note(casey): Проекты, ???
 доп(casey):
