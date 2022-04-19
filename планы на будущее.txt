@@ -220,11 +220,12 @@ https://rutracker.net/forum/viewtopic.php?t=5864016
 
 
 
-The Web Developer Bootcamp 2021:(Colt Steele)
-https://rutracker.net/forum/viewtopic.php?t=5896967
 
 JavaScript - The Complete Guide 2021 (Beginner + Advanced):(Maximilian Schwarzmuller)
 https://rutracker.net/forum/viewtopic.php?t=5874667
+
+The Web Developer Bootcamp 2021:(Colt Steele)
+https://rutracker.net/forum/viewtopic.php?t=5896967
 
 The Complete 2022 Web Development Bootcamp(Dr. Angela Yu)
 https://rutracker.net/forum/viewtopic.php?t=5886509
