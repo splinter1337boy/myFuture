@@ -248,12 +248,6 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 	[Udemy.com / Angela Yu] The Complete 2020 Flutter Development Bootcamp with Dart(диск D):
 	https://rutracker.net/forum/viewtopic.php?t=5736294
 
-	dart metanit.com:
-	https://metanit.com/dart/tutorial/
-
-	flutter metanit.com:
-	https://metanit.com/dart/flutter/
-
 	YT codeandart main:
 	Основы языка программирования Dart
 	https://www.youtube.com/playlist?list=PLQe4pvn2BjxBs48CiW5XNPpFUFFEj3t7g
