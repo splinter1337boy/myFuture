@@ -786,14 +786,21 @@ Blender 2.8 Launch Pad (Chapters 16-20):(Нету)
 https://rutracker.net/forum/viewtopic.php?t=6014732
 Master 3D Sculpting in Blender - Version 2.0 (Chapters 1-8):
 https://rutracker.net/forum/viewtopic.php?t=6150777
+Non-Destructive Hard Surface Modeling in Blender 2.82:
+https://rutracker.net/forum/viewtopic.php?t=5882344
+Substance Painter Launch Pad:
+https://rutracker.net/forum/viewtopic.php?t=6021796
+
+
 Mastering Sculpting in Blender:
 https://rutracker.net/forum/viewtopic.php?t=5604994
 
 
 
 
-Substance Painter Launch Pad:
-https://rutracker.net/forum/viewtopic.php?t=6021796
+
+
+
 Hard Surface Rigging in Blender 2.83:
 https://rutracker.net/forum/viewtopic.php?t=5936542
 Blender 2.79 Intermediate: Crab Bot:
@@ -821,8 +828,6 @@ Blender Motion Graphics:
 https://rutracker.net/forum/viewtopic.php?t=5793925
 Hard Surface Modeling In Blender:
 https://rutracker.net/forum/viewtopic.php?t=5585540
-Non-Destructive Hard Surface Modeling in Blender 2.82:
-https://rutracker.net/forum/viewtopic.php?t=5882344
 NITROX3D Non-Destructive Modeling Course (Blender 2.8):
 https://rutracker.net/forum/viewtopic.php?t=5854704
 encyclopedia:
