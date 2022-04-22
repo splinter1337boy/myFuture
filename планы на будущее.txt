@@ -776,9 +776,6 @@ BLENDER:
 https://rutracker.net/forum/search.php?uid=44297999&search_author
 volkov888
 
-Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners:(диск D)
-https://rutracker.net/forum/viewtopic.php?t=5872958
-
 BLENDER 2.8 LAUNCH PAD:
 Blender 2.8 Launch Pad (Chapters 1-15):(диск D)
 https://rutracker.net/forum/viewtopic.php?t=6067068
