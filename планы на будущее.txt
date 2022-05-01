@@ -776,12 +776,13 @@ Blender 2.8 Launch Pad (Chapters 1-15):(диск D)
 https://rutracker.net/forum/viewtopic.php?t=6067068
 Blender 2.8 Launch Pad (Chapters 16-20):(Нету)
 https://rutracker.net/forum/viewtopic.php?t=6014732
+Substance Painter Launch Pad:
+https://rutracker.net/forum/viewtopic.php?t=6021796
 Master 3D Sculpting in Blender - Version 2.0 (Chapters 1-8):
 https://rutracker.net/forum/viewtopic.php?t=6150777
 Non-Destructive Hard Surface Modeling in Blender 2.82:
 https://rutracker.net/forum/viewtopic.php?t=5882344
-Substance Painter Launch Pad:
-https://rutracker.net/forum/viewtopic.php?t=6021796
+
 
 
 Mastering Sculpting in Blender:
