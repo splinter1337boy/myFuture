@@ -1282,7 +1282,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript\[11-2021] the-complete-javascript-course\02 JavaScript Fundamentals _ Part 1\026 The switch Statement
+Note(casey): javascript\[11-2021] the-complete-javascript-course\02 JavaScript Fundamentals _ Part 1\027 Statements and Expressions
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
