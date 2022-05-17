@@ -3189,7 +3189,7 @@ https://www.urbandictionary.com/
 nihon: 
 duolingo
 https://www.tanoshiijapanese.com/dictionary/
-https://guidetojapanese.org/learn/complete/
+https://guidetojapanese.org/learn/complete/writing
 http://nihongo.monash.edu/cgi-bin/wwwjdic?1C
 
 http://vandal.sdf-eu.org/JapaneseGuide/particles2.html
