@@ -1283,7 +1283,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\05 Developer Skills & Editor Setup\055 Setting up Prettier and VS Code
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\05 Developer Skills & Editor Setup\056 Installing Node.js and Setting Up a Dev Environment
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
