@@ -3115,6 +3115,8 @@ Note(casey): Проекты, ???
 доп(casey):
 
 
+// maybe try coding in p5.js first?
+
 Note(casey): p5.js\nature of code 2.0\???
 доп(casey): 
 https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=1&ab_channel=TheCodingTrain
