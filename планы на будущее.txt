@@ -1914,28 +1914,6 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
-
-
-
-
-
-
-
-
-
-
-Note(casey): java\javaee\
-доп(casey): 
-доп(casey): 
-
-
-Note(casey): YOUTUBE, ???(???)
-доп(casey):
-
-
-
-
-
 minecraft build custom modes:(нету)
 доп(casey): 
 доп(casey): диск
@@ -1949,31 +1927,6 @@ Note(casey): YOUTUBE, ???(???)
 Note(casey): Проекты, ???
 доп(casey):
 
-
-{
-	Note(casey): java.swing
-	доп(casey): https://docs.oracle.com/javase/tutorial/uiswing/TOC.html
-
-	доп(casey): https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html
-
-	доп(casey): https://docs.oracle.com/javase/7/docs/api/java/awt/Polygon.html
-	
-
-	Note(casey): YOUTUBE, ???(???)
-	доп(casey):
-
-
-
-
-
-
-	Note(casey): javadatabase(JDBC):
-	доп(casey): https://metanit.com/java/database/
-
-	Note(casey): YOUTUBE, ???(???)
-	доп(casey):
-
-}
 
 Java YT:
 
