@@ -1283,7 +1283,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\07 JavaScript in the Browser_ DOM and Events Fundamentals\082 PROJECT #3_ Pig Game
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\07 JavaScript in the Browser_ DOM and Events Fundamentals\083 Rolling the Dice
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
