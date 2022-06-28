@@ -253,22 +253,6 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 	Google Developers Training:
 	https://developer.android.com/courses/#for-new-programmers	
 
-	kotlin(https://rutracker.net/forum/viewtopic.php?t=5978669)
-	metanit.com kotlin:
-	https://metanit.com/kotlin/tutorial/
-	
-	books:
-	kotlin(https://rutracker.net/forum/viewtopic.php?t=5791946
-		https://rutracker.net/forum/viewtopic.php?t=5791949
-	)	
-	
-	Android O & Java - Mobile App Development | Beginning to End
-	https://rutracker.net/forum/viewtopic.php?t=5483806
-	java android metanit.com:
-	https://metanit.com/java/android/
-	
-
-
 	metanit.com c# xamarin:
 	https://metanit.com/sharp/xamarin/
 
@@ -305,26 +289,6 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 
 
 
-	
-
-
-
-
-
-
-
-
-
-YOUTUBE links(flutter/dart):
-
-
-YOUTUBE links(react native):
-
-
-YOUTUBE links(java):
-
-
-YOUTUBE links(xamarin):
 
 
 ------------------------------------------------------------------------
@@ -672,10 +636,8 @@ java rush:
 https://javarush.ru/
 java:(диск Е)
 https://rutracker.net/forum/viewtopic.php?t=5885966
-
-javaEE:
-https://metanit.com/java/javaee/
-
+Android O & Java - Mobile App Development | Beginning to End
+https://rutracker.net/forum/viewtopic.php?t=5483806
 
 
 minecraft build custom modes:(нету)
@@ -1506,16 +1468,6 @@ Note(casey): Проекты, ???
 доп(casey):
 
 
-
-->rust(https://metanit.com/rust/tutorial/
-Learn Rust by Building Real Applications:
-https://rutracker.net/forum/viewtopic.php?t=5920339),
-->ruby ruby on rails(
-Build AirBnb with Ruby on Rails, Bootstrap, jQuery and PayPal
-https://rutracker.net/forum/viewtopic.php?t=5480635), 
-->goLang(???),
-
-
 Note(casey): web 2021
 https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
@@ -1916,6 +1868,11 @@ Note(casey): YOUTUBE, ???(???)
 
 
 
+Android O & Java - Mobile App Development | Beginning to End
+https://rutracker.net/forum/viewtopic.php?t=5483806
+
+
+
 
 minecraft build custom modes:(нету)
 доп(casey): 
@@ -1929,6 +1886,10 @@ Note(casey): YOUTUBE, ???(???)
 
 Note(casey): Проекты, ???
 доп(casey):
+
+
+java spring mvc:(нету)
+https://rutracker.net/forum/viewtopic.php?t=6003233
 
 
 Java YT:
