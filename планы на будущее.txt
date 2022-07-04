@@ -1248,7 +1248,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\08 How JavaScript Works Behind the Scenes\096 The this Keyword
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\08 How JavaScript Works Behind the Scenes\097 The this Keyword in Practice
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
