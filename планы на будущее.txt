@@ -1248,7 +1248,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\09 Data Structures, Modern Operators and Strings\110 Coding Challenge #1
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\09 Data Structures, Modern Operators and Strings\111 Looping Arrays_ The for-of Loop
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
