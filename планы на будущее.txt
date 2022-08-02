@@ -2921,7 +2921,7 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\08 - Particle Fundamentals
-Note(casey): 01_what_are_particles
+Note(casey): 02_adding_and_removing_particles
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
