@@ -2920,8 +2920,8 @@ Note(casey): 10. Preparing for Rendering and Loose Ends
 
 
 
-Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\07 - Exercise - Shading a Sci-fi Car Scene
-Note(casey): 05_environment_materials
+Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\08 - Particle Fundamentals
+Note(casey): 01_what_are_particles
 доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
