@@ -1248,7 +1248,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\10 A Closer Look at Functions\129 How Passing Arguments Works_ Value vs. Reference
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\10 A Closer Look at Functions\130 First-Class and Higher-Order Functions
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
