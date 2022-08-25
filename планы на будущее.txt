@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\11 Working With Arrays\165 Summary_ Which Array Method to Use_
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\11 Working With Arrays\166 Array Methods Practice
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
