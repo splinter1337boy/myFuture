@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\11 Working With Arrays\167 Coding Challenge #4
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\11 Working With Arrays\170 Converting and Checking Numbers
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
