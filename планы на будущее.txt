@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\13 Advanced DOM and Events\197 A Better Way_ The Intersection Observer API
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\13 Advanced DOM and Events\198 Revealing Elements on Scroll
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
