@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\14 Object-Oriented Programming (OOP) With JavaScript\210 Prototypal Inheritance and The Prototype Chain
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\14 Object-Oriented Programming (OOP) With JavaScript\211 Prototypal Inheritance on Built-In Objects
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
