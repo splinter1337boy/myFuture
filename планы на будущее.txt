@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\15 Mapty App_ OOP, Geolocation, External Libraries, and More!\234 Displaying a Map Marker
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\15 Mapty App_ OOP, Geolocation, External Libraries, and More!\235 Rendering Workout Input Form
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
