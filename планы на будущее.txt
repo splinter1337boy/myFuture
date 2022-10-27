@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\15 Mapty App_ OOP, Geolocation, External Libraries, and More!\238 Managing Workout Data_ Creating Classes
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\15 Mapty App_ OOP, Geolocation, External Libraries, and More!\239 Creating a New Workout
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
