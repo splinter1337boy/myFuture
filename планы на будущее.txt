@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\16 Asynchronous JavaScript_ Promises, Async_Await, and AJAX\259 Building a Simple Promise
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\16 Asynchronous JavaScript_ Promises, Async_Await, and AJAX\260 Promisifying the Geolocation API
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
