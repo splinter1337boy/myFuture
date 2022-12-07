@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\16 Asynchronous JavaScript_ Promises, Async_Await, and AJAX\265 Running Promises in Parallel
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\16 Asynchronous JavaScript_ Promises, Async_Await, and AJAX\266 Other Promise Combinators_ race, allSettled and any
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
