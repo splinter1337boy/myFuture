@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\[11-2021] the-complete-javascript-course\17 Modern JavaScript Development_ Modules, Tooling, and Functional\276 A Brief Introduction to the Command Line
+Note(casey): javascript courses\[11-2021] the-complete-javascript-course\17 Modern JavaScript Development_ Modules, Tooling, and Functional\277 Introduction to NPM
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
