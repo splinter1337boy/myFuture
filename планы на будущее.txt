@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\the-complete-javascript-course\18 Forkify App_ Building a Modern Application\295 Implementing Search Results - Part 1
+Note(casey): javascript courses\the-complete-javascript-course\18 Forkify App_ Building a Modern Application\296 Implementing Search Results - Part 2
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 
