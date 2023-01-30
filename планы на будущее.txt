@@ -1246,6 +1246,8 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 Note(casey): javascript courses\the-complete-javascript-course\18 Forkify App_ Building a Modern Application\297 Implementing Pagination - Part 1
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
+Note(casey): Master the Coding Interview: Data Structures + Algorithms
+доп(casey): https://rutracker.org/forum/viewtopic.php?t=5888721
 
 доп(casey): javascript\learn javascript\???
 https://learn.javascript.ru/js
