@@ -1243,7 +1243,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\the-complete-javascript-course\18 Forkify App_ Building a Modern Application\303 Implementing Bookmarks - Part 2
+Note(casey): javascript courses\the-complete-javascript-course\18 Forkify App_ Building a Modern Application\304 Storing Bookmarks With localStorage
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 Note(casey): Master the Coding Interview: Data Structures + Algorithms
