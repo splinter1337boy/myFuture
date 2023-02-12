@@ -164,7 +164,8 @@ https://rutracker.net/forum/viewtopic.php?t=5453151
 React Native - The Practical Guide [2021 Edition]:(нету)
 https://rutracker.net/forum/viewtopic.php?t=58746821
 
-
+Note(casey): Master the Coding Interview: Data Structures + Algorithms
+доп(casey): https://rutracker.org/forum/viewtopic.php?t=5888721
 
 
 
@@ -1246,11 +1247,8 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 Note(casey): javascript courses\the-complete-javascript-course\18 Forkify App_ Building a Modern Application\308 Uploading a New Recipe - Part 3
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
-Note(casey): Master the Coding Interview: Data Structures + Algorithms
-доп(casey): https://rutracker.org/forum/viewtopic.php?t=5888721
-
-Svelte ї Sapper ї їїїїїїїї
-https://rutracker.org/forum/viewtopic.php?t=6178345
+Note(casey): javascript courses\04-2022 react-the-complete-guide-incl-redux\
+доп(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
 
 доп(casey): javascript\learn javascript\???
 https://learn.javascript.ru/js
