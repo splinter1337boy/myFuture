@@ -1244,7 +1244,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 доп(casey): githowto -> 21. Подробнее о структуре;
 
 
-Note(casey): javascript courses\the-complete-javascript-course\18 Forkify App_ Building a Modern Application\308 Uploading a New Recipe - Part 3
+Note(casey): javascript courses\the-complete-javascript-course\19 Setting Up Git and Deployment\315 Pushing to GitHub
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
 Note(casey): javascript courses\04-2022 react-the-complete-guide-incl-redux\
