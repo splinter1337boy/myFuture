@@ -1246,7 +1246,7 @@ Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + Re
 Note(casey): javascript courses\the-complete-javascript-course\19 Setting Up Git and Deployment\315 Pushing to GitHub
 доп(casey): https://rutracker.net/forum/viewtopic.php?t=5881046
 
-Note(casey): javascript courses\react-the-complete-guide-incl-redux\10 Advanced_ Handling Side Effects, Using Reducers & Using the Context API\116 Introducing useReducer & Reducers In General
+Note(casey): javascript courses\react-the-complete-guide-incl-redux\10 Advanced_ Handling Side Effects, Using Reducers & Using the Context API\117 Using the useReducer() Hook
 доп(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
 
 доп(casey): javascript\learn javascript\???
