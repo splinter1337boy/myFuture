@@ -1,7 +1,7 @@
 metanit.com php:
 https://metanit.com/php/tutorial/
 
-PHP. Уровни 1-4 (Игорь Борисов)(???)
+PHP. пїЅпїЅпїЅпїЅпїЅпїЅ 1-4 (пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ)(???)
 https://rutracker.net/forum/viewtopic.php?t=5363270
 
 php + react:
@@ -21,13 +21,13 @@ https://rutracker.net/forum/viewtopic.php?t=5310269(???)
 real-time laravel:
 https://rutracker.net/forum/viewtopic.php?t=5229223
 
-  ООП курс 3.0:
+  пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ 3.0:
 https://rutracker.net/forum/viewtopic.php?t=5896988
 
- интернет-магазин на yii2
+ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ yii2
 https://rutracker.net/forum/viewtopic.php?t=5429844
 
-  фреймворк yii2
+  пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ yii2
 https://rutracker.net/forum/viewtopic.php?t=5864979
 
 symphony? https://rutracker.net/forum/viewtopic.php?t=5775309
@@ -45,13 +45,13 @@ YOUTUBE links(php):
 frontend:
 	flexfrog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-курс по [12-2019] advanced-css-and-sass!!!!!!
-https://rutracker.net/forum/viewtopic.php?t=5898540(диск Е)
+пїЅпїЅпїЅпїЅ пїЅпїЅ [12-2019] advanced-css-and-sass!!!!!!
+https://rutracker.net/forum/viewtopic.php?t=5898540(пїЅпїЅпїЅпїЅ пїЅ)
 
-Профессиональная, быстрая и комфортная верстка сайтов
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 https://rutracker.net/forum/viewtopic.php?t=5775267
 
-Сборка Gulp 4.0
+пїЅпїЅпїЅпїЅпїЅпїЅ Gulp 4.0
 https://rutracker.net/forum/viewtopic.php?t=5855667
 
 
@@ -64,14 +64,14 @@ materialize
 material.io
 tailwind css
 
-справочники:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 htmlbase.ru
 
-Где брать PSD шаблоны сайтов для вёрстки?
+пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ PSD пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ?
 https://qna.habr.com/q/630631
 https://colorlib.com/wp/templates/
 
-красивые кнопочки:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://www.sliderrevolution.com/resources/css-button-hover-effects/
 
 
@@ -84,7 +84,7 @@ https://icomoon.io/
 https://nisnom.com/
 
 
-Курс по Adobe Photoshop - с нуля до макетного стокера(диск Е)
+пїЅпїЅпїЅпїЅ пїЅпїЅ Adobe Photoshop - пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5825077
 
 ui ux design (Adobe XD)
@@ -107,9 +107,9 @@ https://rutracker.net/forum/viewtopic.php?t=5858902
 
 
 YOUTUBE links(css):
-Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии (Фрилансер по жизни):
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ 17 пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ):
 https://www.youtube.com/watch?v=HihYQVuH64U
-Responsive web design in 37 minutes + layout. You don’t need Bootstrap!(фрилансер по жизни):
+Responsive web design in 37 minutes + layout. You donпїЅt need Bootstrap!(пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ):
 https://www.youtube.com/watch?v=XbnAKjjlgc4
 
 
@@ -122,16 +122,16 @@ gatsby(react based)
 
 
 diodor7:
-Understanding TypeScript - 2021 Edition:(нету)
+Understanding TypeScript - 2021 Edition:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5874684
 
 React - The Complete Guide (incl. Hooks, React Router, Redux):
-https://rutracker.net/forum/viewtopic.php?t=6066396(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=6066396(пїЅпїЅпїЅпїЅ пїЅ)
 
-NextJS & React - The Complete Guide: (нету)
+NextJS & React - The Complete Guide: (пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=6020597
 
-Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(нету)(посмотреть на всякий, не уверен что нужно)
+Advanced State Management in React Applications (Redux, MobX, sagas, etc.):(пїЅпїЅпїЅпїЅ)(пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5483055
 
 NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL):
@@ -146,26 +146,26 @@ https://rutracker.net/forum/viewtopic.php?t=5873176
 Node.js, Express, MongoDB & More: The Complete Bootcamp (2020)
 https://rutracker.net/forum/viewtopic.php?t=5819465
 
-Node JS: Advanced Concepts(продолжение?, рекомендация от курса выше, но тоже хз нужно ли мне)
+Node JS: Advanced Concepts(пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ?, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5998587
 
-Microservices with Node JS and React:(тесты крутые)
+Microservices with Node JS and React:(пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5953538
 
-nosize: Complete Next.js with React & Node - Beautiful Portfolio App(есть сомнения насчет этого курса, большое содержание, стоит ли?)
+nosize: Complete Next.js with React & Node - Beautiful Portfolio App(пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ?)
 https://rutracker.net/forum/viewtopic.php?t=5924565
 
 Rapid Development on AWS: React, Node.js & GraphQL:
 https://rutracker.net/forum/viewtopic.php?t=5592645
 
-Firebase + React: Real-time, Serverless Web Apps:(нету)
+Firebase + React: Real-time, Serverless Web Apps:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5453151
 
-React Native - The Practical Guide [2021 Edition]:(нету)
+React Native - The Practical Guide [2021 Edition]:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=58746821
 
 Note(casey): Master the Coding Interview: Data Structures + Algorithms
-доп(casey): https://rutracker.org/forum/viewtopic.php?t=5888721
+пїЅпїЅпїЅ(casey): https://rutracker.org/forum/viewtopic.php?t=5888721
 
 
 
@@ -174,12 +174,12 @@ Note(casey): Master the Coding Interview: Data Structures + Algorithms
 
 
 Vue - The Complete Guide (w/ Router, Vuex, Composition API):
-https://rutracker.net/forum/viewtopic.php?t=5874689(диск Е)
+https://rutracker.net/forum/viewtopic.php?t=5874689(пїЅпїЅпїЅпїЅ пїЅ)
 
-vuex for vuejs:(нету)
+vuex for vuejs:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5928682
 
-scaling vue with nuxt.js(нету)
+scaling vue with nuxt.js(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5946767
 
 
@@ -187,10 +187,10 @@ https://rutracker.net/forum/viewtopic.php?t=5946767
 
 
 
-angular:(нету)
+angular:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5775848
 
-frontendmasters:(нету)
+frontendmasters:(пїЅпїЅпїЅпїЅ)
 angular9 fundamentals:
 https://rutracker.net/forum/viewtopic.php?t=5916908
 
@@ -199,12 +199,12 @@ https://rutracker.net/forum/viewtopic.php?t=5916908
 
 
 
-1 иван петриченко
+1 пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 Clean Code:
-https://rutracker.net/forum/viewtopic.php?t=5973019(нету)
-Gatsby JS Developer's Guide - Important Parts & Blog App(нету)
+https://rutracker.net/forum/viewtopic.php?t=5973019(пїЅпїЅпїЅпїЅ)
+Gatsby JS Developer's Guide - Important Parts & Blog App(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=6054613
-Посадка верстки и создание тем на CMS WordPress
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ CMS WordPress
 https://rutracker.net/forum/viewtopic.php?t=5787814
 
 
@@ -212,12 +212,12 @@ https://rutracker.net/forum/viewtopic.php?t=5787814
 
 
 
-React - с нуля до результата:
+React - пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 
 The Web Developer Bootcamp 2021:(Colt Steele)
 https://rutracker.net/forum/viewtopic.php?t=5896967
 
-Практический JavaScript (Продвинутый уровень):
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ JavaScript (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ):
 https://rutracker.net/forum/viewtopic.php?t=5864016
 
 The Complete 2022 Web Development Bootcamp(Dr. Angela Yu)
@@ -226,7 +226,7 @@ https://rutracker.net/forum/viewtopic.php?t=5886509
 The Complete JavaScript Course 2022: From Zero to Expert!:(Jonas Schmedtmann)
 https://rutracker.net/forum/viewtopic.php?t=5881046
 
-Полный курс по JavaScript + React - с нуля до результата:
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ JavaScript + React - пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://rutracker.net/forum/viewtopic.php?t=5667570
 
 
@@ -241,13 +241,13 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 
 	vscode flutter+dart: https://www.youtube.com/watch?v=nILDkRhlLVM&ab_channel=KonstantinKokorin
 	
-	[Udemy.com / Angela Yu] The Complete 2020 Flutter Development Bootcamp with Dart(диск D):
+	[Udemy.com / Angela Yu] The Complete 2020 Flutter Development Bootcamp with Dart(пїЅпїЅпїЅпїЅ D):
 	https://rutracker.net/forum/viewtopic.php?t=5736294
 
 	YT codeandart main:
-	Основы языка программирования Dart
+	пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Dart
 	https://www.youtube.com/playlist?list=PLQe4pvn2BjxBs48CiW5XNPpFUFFEj3t7g
-	Flutter разработка для начинающих. Приложение Quiz.
+	Flutter пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Quiz.
 	https://www.youtube.com/playlist?list=PLQe4pvn2BjxAJNOQzUKdemXZV0-iahuyO
 	
 	
@@ -258,10 +258,10 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
 	https://metanit.com/sharp/xamarin/
 
 
-	Ionic:(нету)
+	Ionic:(пїЅпїЅпїЅпїЅ)
 	https://rutracker.net/forum/viewtopic.php?t=5910449
 
-	ionic and angular:(нету)
+	ionic and angular:(пїЅпїЅпїЅпїЅ)
 	https://rutracker.net/forum/viewtopic.php?t=5480837
 	
 
@@ -310,14 +310,14 @@ LINUX:
 ravesli(linux):
 https://ravesli.com/uroki-po-linux/
 
-Docker & Kubernetes: The Practical Guide:(нету)
+Docker & Kubernetes: The Practical Guide:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5962665
 
-Основы Nginx / Nginx Fundamentals:(нету)
+пїЅпїЅпїЅпїЅпїЅпїЅ Nginx / Nginx Fundamentals:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5651284
 
 TCP/IP:
-Модель OSI и стек протоколов TCP-IP:(диск E)
+пїЅпїЅпїЅпїЅпїЅпїЅ OSI пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ TCP-IP:(пїЅпїЅпїЅпїЅ E)
 https://rutracker.net/forum/viewtopic.php?t=5564604
 
 
@@ -326,31 +326,31 @@ terminux
 vim, linux & unix instrumentals
 
 
-хирьянов:
-2020 Практика программирования на Python 3
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
+2020 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Python 3
 https://www.youtube.com/watch?v=us7y0UhTq0s&list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe
 
-2021 Анализ данных на Python
+2021 пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Python
 https://www.youtube.com/watch?v=Dx2SE4hYy4g&list=PLRDzFCPr95fIgPrFFW-0nXT5YH6ZnjRM6&ab_channel=%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2
 
 
-Online курс “Python для сетевых инженеров” 2021(диск Е)
+Online пїЅпїЅпїЅпїЅ пїЅPython пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2021(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=6106920
-Online курс “Python для сетевых инженеров” 2019(диск D)
+Online пїЅпїЅпїЅпїЅ пїЅPython пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2019(пїЅпїЅпїЅпїЅ D)
 https://rutracker.net/forum/viewtopic.php?t=5750842
-доп. материал(Natasha Samoylenko 3,94 тыс. подписчиков):
+пїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(Natasha Samoylenko 3,94 пїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ):
 https://www.youtube.com/channel/UCbp_f4rb5OR5hSUJW3F2FRg
 
 
 Books(python):
 
-книга Python для сетевых инженеров:
+пїЅпїЅпїЅпїЅпїЅ Python пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://pyneng.readthedocs.io/ru/latest/
 
-Python для сетевых инженеров. Том 2: Продвинутые возможности Python с примерами на сетевой тематике:
+Python пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ 2: пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Python пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://advpyneng.readthedocs.io/ru/latest/
 
-Ansible для сетевых инженеров:
+Ansible пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://ansible-for-network-engineers.readthedocs.io/ru/latest/
 
 
@@ -359,16 +359,16 @@ https://ansible-for-network-engineers.readthedocs.io/ru/latest/
 
 
 
-python django(Нету)
+python django(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5892080
 
-python django braintree:(Нету)
+python django braintree:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5482440
 
-Create UberEats with Python/Django and Swift 3:(Нету)
+Create UberEats with Python/Django and Swift 3:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5482318
 
-Django Girls (бесплатно, есть в сети)
+Django Girls (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ)
 
 python + django metanit.com:
 https://metanit.com/python/django/
@@ -380,15 +380,15 @@ https://metanit.com/python/django/
 
 Books(django):
 
-Django 3.0. Практика создания веб-сайтов на Python(Дронов):
+Django 3.0. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Python(пїЅпїЅпїЅпїЅпїЅпїЅ):
 https://rutracker.net/forum/viewtopic.php?t=5966162
 
-Python 3. Самое необходимое(Дронов):(просто Python)
+Python 3. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅпїЅпїЅпїЅ):(пїЅпїЅпїЅпїЅпїЅпїЅ Python)
 https://rutracker.net/forum/viewtopic.php?t=5886556
 
-python books:(просто Python)
-https://rutracker.net/forum/viewtopic.php?t=5774960 Марк Лутц
-https://rutracker.net/forum/viewtopic.php?t=5838111 Марк Лутц
+python books:(пїЅпїЅпїЅпїЅпїЅпїЅ Python)
+https://rutracker.net/forum/viewtopic.php?t=5774960 пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
+https://rutracker.net/forum/viewtopic.php?t=5838111 пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
 
 
 
@@ -475,7 +475,7 @@ https://www.youtube.com/watch?v=b_N-HAn8zVs&ab_channel=AleksaTamburkovski
 
 ---------------------------------------------------------------
 
-афтер эффектс,
+пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ,
 
 YOUTUBE links(after effects):
 https://www.youtube.com/watch?v=EeEe0ES1umk
@@ -486,7 +486,7 @@ https://www.youtube.com/watch?v=kiG4m8woSFs
 https://www.youtube.com/watch?v=-geTSrv_OvU
 https://www.youtube.com/watch?v=8rB0jsm2lFs&ab_channel=Kyrik
 
-монтаж:
+пїЅпїЅпїЅпїЅпїЅпїЅ:
 https://www.youtube.com/watch?v=e-EjuiRIGew
 
 davinci resolve - YouTube
@@ -497,46 +497,46 @@ othershit:
 
 
 ai:
-Курс по рисованию векторных иллюстраций:(Диск E)
+пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:(пїЅпїЅпїЅпїЅ E)
 https://rutracker.net/forum/viewtopic.php?t=5551027
-Lynda - Logo Design Techniques (2016): (Диск E)
-ссылки нету
+Lynda - Logo Design Techniques (2016): (пїЅпїЅпїЅпїЅ E)
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
 
 sai:
-new art school: (Диск E)
-ссылки нету
+new art school: (пїЅпїЅпїЅпїЅ E)
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
 
-рисование, adobe flash pro, 
-Adobe Flash Professional CS6:(Диск Е)
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, adobe flash pro, 
+Adobe Flash Professional CS6:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.org/forum/viewtopic.php?t=5618500
 
-Adobe Flash Professional CS6 Essential:(Диск Е)
+Adobe Flash Professional CS6 Essential:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.org/forum/viewtopic.php?t=4862263
 
 Adobe Flash Professional CS6: New Features Workshop
-https://rutracker.org/forum/viewtopic.php?t=4191740(Нету)
+https://rutracker.org/forum/viewtopic.php?t=4191740(пїЅпїЅпїЅпїЅ)
 
 
-леттеринг:
-Делай лого:(Диск D)
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
+пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ:(пїЅпїЅпїЅпїЅ D)
 https://rutracker.net/forum/viewtopic.php?t=5553924
 
 -------------------------------------------------------------
 
 
-C++ ravesli уроки:
+C++ ravesli пїЅпїЅпїЅпїЅпїЅ:
 https://ravesli.com/uroki-cpp/#toc-1
 
 C++ ravesli sfml:
 https://ravesli.com/uroki-po-sfml/
 
-С++ ravesli prakticheskie zadaniya:
+пїЅ++ ravesli prakticheskie zadaniya:
 https://ravesli.com/uroki-cpp/#toc-2
 
-С++ ravesli opengl:
+пїЅ++ ravesli opengl:
 https://ravesli.com/uroki-po-opengl/
 
-С++ ravesli prakticheskie zadaniya:
+пїЅ++ ravesli prakticheskie zadaniya:
 https://ravesli.com/uroki-cpp/#toc-2
 
 Unreal Engine
@@ -554,24 +554,24 @@ https://www.youtube.com/watch?v=4-sX-TtRR98&ab_channel=Barji
 
 
 UE:
-Packt Publishing – Learning C++ by Creating Games with Unreal Engine 4:(диск Е)
+Packt Publishing пїЅ Learning C++ by Creating Games with Unreal Engine 4:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5516695
-[Udemy] Learn to Code by Making Games The Unreal Engine Developer Part 1-2-3: (нету)
+[Udemy] Learn to Code by Making Games The Unreal Engine Developer Part 1-2-3: (пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5624739
-4 part: (нету)
+4 part: (пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5629154
-The Art of Lighting for Games. Искусство Освещения в Играх (Unreal Engine 4): (нету)
+The Art of Lighting for Games. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ (Unreal Engine 4): (пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=6052894
 FX for Games:(?????????)
-https://rutracker.net/forum/viewtopic.php?t=5965571 (Нету)
+https://rutracker.net/forum/viewtopic.php?t=5965571 (пїЅпїЅпїЅпїЅ)
 [CGMA] - The Art of Lighting for Games [RUS]:(?????????)
-https://rutracker.net/forum/viewtopic.php?t=5943159(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5943159(пїЅпїЅпїЅпїЅ)
 C++ multiplayer:
-https://rutracker.net/forum/viewtopic.php?t=5502000(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5502000(пїЅпїЅпїЅпїЅ)
 3dMotive:
-https://rutracker.net/forum/viewtopic.php?t=5274157(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5274157(пїЅпїЅпїЅпїЅ)
 vr:
-https://rutracker.net/forum/viewtopic.php?t=5275228(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5275228(пїЅпїЅпїЅпїЅ)
 site:
 https://www.learncpp.com/
 
@@ -590,7 +590,7 @@ https://rutracker.net/forum/viewtopic.php?t=5607980
 https://rutracker.net/forum/viewtopic.php?t=5606347
 
 
-Графикана:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://rutracker.net/forum/viewtopic.php?t=5638325
 https://rutracker.net/forum/viewtopic.php?t=5682818
 https://rutracker.net/forum/viewtopic.php?t=5909329
@@ -605,7 +605,7 @@ https://rutracker.net/forum/viewtopic.php?t=5627680
 3ds MAX: https://www.youtube.com/watch?v=bMzfA38jGJ8&list=PLxt9ZAGPLIpeB8TcHrpzxvEI4Ve3SfZBC&index=5&ab_channel=Arrimus3D
 
 
-спец. эффекты(FX): 
+пїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ(FX): 
 https://rutracker.net/forum/viewtopic.php?t=5930036!!!!!
 https://rutracker.net/forum/viewtopic.php?t=5834153!!!!
 
@@ -621,8 +621,8 @@ YOUTUBE links(3Ds MAX):
 --------------------------------------------------------
 
 
-(EXTRA если что, если по учебе придется)
-java start:(диск Е)
+(EXTRA пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+java start:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5885351
 java.swing:
 https://docs.oracle.com/javase/tutorial/uiswing/index.html
@@ -630,20 +630,20 @@ javadatabase(JDBC):
 https://metanit.com/java/database/
 java rush:
 https://javarush.ru/
-java:(диск Е)
+java:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5885966
 Android O & Java - Mobile App Development | Beginning to End
 https://rutracker.net/forum/viewtopic.php?t=5483806
 
 
-minecraft build custom modes:(нету)
+minecraft build custom modes:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=4969894
 
 
-java spring mvc:(нету)
+java spring mvc:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=6003233
 
-books: Java 8 Полное руководство " Герберта Шилда
+books: Java 8 пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ " пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
 
 
 
@@ -659,11 +659,11 @@ metanit.com c# windows forms:
 https://metanit.com/sharp/windowsforms/
 graphics c#:
 http://grafika.me/node/24
-metanit.com с# патерны проектирования:
+metanit.com пїЅ# пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://metanit.com/sharp/patterns/
-metanit.com c# ado.net работа с базами данных:
+metanit.com c# ado.net пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ:
 https://metanit.com/sharp/adonetcore/
-с# ado.net работа с базами данных:
+пїЅ# ado.net пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ:
 https://rutracker.net/forum/viewtopic.php?t=5889877
 
 
@@ -671,11 +671,11 @@ unity
 
 
 
-metanit.com Руководство по ASP.NET Core 5:
+metanit.com пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ ASP.NET Core 5:
 https://metanit.com/sharp/aspnet5/
 c# asp.net:
 https://rutracker.net/forum/viewtopic.php?t=5334510
-metanit.com c# Сетевое программирование в С# и .NET:
+metanit.com c# пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅ# пїЅ .NET:
 https://metanit.com/sharp/net/
 metanit.com c# wpf:
 https://metanit.com/sharp/wpf/
@@ -692,23 +692,23 @@ UNITY:
 
 
 main:
-Creating Portalethium Part 1: Modeling Modular Game Assets in Blender 2.78:(диск Е)
+Creating Portalethium Part 1: Modeling Modular Game Assets in Blender 2.78:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5910945
-Creating Portalethium Part 2: Level Design with Modular Assets in Unity:(диск Е)
+Creating Portalethium Part 2: Level Design with Modular Assets in Unity:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5910946
-Creating Portalethium Part 3: Developing a Tower Defense Game in Unity:(диск Е)
+Creating Portalethium Part 3: Developing a Tower Defense Game in Unity:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5910947
 
-Unity Game Development Academy: Make 2D & 3D Games(диск Е)
+Unity Game Development Academy: Make 2D & 3D Games(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5357076
-Learn to Code by Making Games The Complete Unity Developer: (диск Е)
+Learn to Code by Making Games The Complete Unity Developer: (пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5254137
 
 extra:
-https://rutracker.net/forum/viewtopic.php?t=5446867(Нету)
-https://rutracker.net/forum/viewtopic.php?t=5443288(Нету)
-https://rutracker.net/forum/viewtopic.php?t=5479665(Нету)
-https://rutracker.net/forum/viewtopic.php?t=5791210(Нету)
+https://rutracker.net/forum/viewtopic.php?t=5446867(пїЅпїЅпїЅпїЅ)
+https://rutracker.net/forum/viewtopic.php?t=5443288(пїЅпїЅпїЅпїЅ)
+https://rutracker.net/forum/viewtopic.php?t=5479665(пїЅпїЅпїЅпїЅ)
+https://rutracker.net/forum/viewtopic.php?t=5791210(пїЅпїЅпїЅпїЅ)
 
 unity vr(book):
 https://rutracker.net/forum/viewtopic.php?t=5815906
@@ -722,14 +722,14 @@ YOUTUBE links(Unity):
 -------------------------------------------------------------
 BLENDER:
 
-хароший парен:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ:
 https://rutracker.net/forum/search.php?uid=44297999&search_author
 volkov888
 
 BLENDER 2.8 LAUNCH PAD:
-Blender 2.8 Launch Pad (Chapters 1-15):(диск D)
+Blender 2.8 Launch Pad (Chapters 1-15):(пїЅпїЅпїЅпїЅ D)
 https://rutracker.net/forum/viewtopic.php?t=6067068
-Blender 2.8 Launch Pad (Chapters 16-20):(Нету)
+Blender 2.8 Launch Pad (Chapters 16-20):(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=6014732
 Substance Painter Launch Pad:
 https://rutracker.net/forum/viewtopic.php?t=6021796
@@ -909,16 +909,16 @@ https://rutracker.net/forum/viewtopic.php?t=5915855
 [Online VFX] Houdini Procedurals [2017, RUS]:
 https://rutracker.net/forum/viewtopic.php?t=5916028
 
-Houdini FX 17.5.173(229) + Redshift 2.6.41 (рабочая связка)
+Houdini FX 17.5.173(229) + Redshift 2.6.41 (пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5927611
 
 Abstract Visuals - Houdini and Redshift
 https://rutracker.net/forum/viewtopic.php?t=5916225
 
-Частицы в Гудини:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ:
 https://rutracker.net/forum/viewtopic.php?t=5922899
 
-Процедурная анимация в Houdini 17.5:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Houdini 17.5:
 https://rutracker.net/forum/viewtopic.php?t=5838179
 
 [CG Masters Academy] CGMA - Mastering Destruction in Houdini [2019, RUS]:
@@ -941,17 +941,17 @@ MAIN:
 
 1.sql
 
-SQL and PostgreSQL The Complete Developer s Guide:(диск D)
+SQL and PostgreSQL The Complete Developer s Guide:(пїЅпїЅпїЅпїЅ D)
 https://rutracker.net/forum/viewtopic.php?t=5962944
 
 
 Note(casey): postgreSQL\SQL and PostgreSQL The Complete Developer s Guide\100-105
-доп(casey): диск D: SQL and PostgreSQL The Complete Developer's Guide
-доп(casey): 25
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ D: SQL and PostgreSQL The Complete Developer's Guide
+пїЅпїЅпїЅ(casey): 25
 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 
@@ -963,13 +963,13 @@ Note(casey): YOUTUBE, ???(???)
 sql metanit.com:
 https://metanit.com/sql/tutorial/
 Note(casey): SQL\sql metanit.com\
-доп(casey): sql metanit.com - параллельно делать c postgreSQL [Илья Фофанов]
+пїЅпїЅпїЅ(casey): sql metanit.com - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ c postgreSQL [пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ]
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 sql YT:
 
@@ -980,18 +980,18 @@ sql YT:
 
 
 
-[Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020):(диск D)
+[Udemy] [пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ SQL пїЅ PostgreSQL (2020):(пїЅпїЅпїЅпїЅ D)
 https://rutracker.net/forum/viewtopic.php?t=5885973
-Note(casey): postgreSQL\[Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)\01 Введение в SQL\001 Основные концепции
-доп(casey): диск D: [Udemy] [Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL (2020)
+Note(casey): postgreSQL\[Udemy] [пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ SQL пїЅ PostgreSQL (2020)\01 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ SQL\001 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ D: [Udemy] [пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ SQL пїЅ PostgreSQL (2020)
 
 
-YOUTUBE, Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.(Диджитализируй!)
+YOUTUBE, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ SQL пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ PostgreSQL пїЅ SELECT, JOIN, GROUP, HAVING, Coalesce пїЅ пїЅпїЅ.(пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ!)
 https://www.youtube.com/watch?v=WpojDncIWOw&list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 postgreSQL YT:
 
@@ -999,33 +999,33 @@ postgreSQL YT:
 
 
 
-MySQL Fundamentals part 1:(диск Е)
+MySQL Fundamentals part 1:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5849881
 Note(casey): mysql\MySQL Fundamentals part 1
-доп(casey): диск Е: Pluralsight - MySQL Fundamentals by Pinal Dave
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ: Pluralsight - MySQL Fundamentals by Pinal Dave
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-MySQL Fundamentals Part 2:(диск Е)
+MySQL Fundamentals Part 2:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5859949
 Note(casey): mysql\MySQL Fundamentals Part 2
-доп(casey): диск Е: Pluralsight - MySQL Fundamentals Part 2 by Pinal Dave
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ: Pluralsight - MySQL Fundamentals Part 2 by Pinal Dave
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 mysql metanit.com:
 https://metanit.com/sql/mysql/
 Note(casey): mysql\mysql metanit.com\
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 mysql YT:
 
@@ -1038,17 +1038,17 @@ mysql YT:
 
 ms sql server metanit.com:
 https://metanit.com/sql/sqlserver/
-Note(casey): ms sql server\ms sql server metanit.com\Глава 3. Основы T-SQL. DDL
-Note(casey): Изменение таблицы
-доп(casey): 
+Note(casey): ms sql server\ms sql server metanit.com\пїЅпїЅпїЅпїЅпїЅ 3. пїЅпїЅпїЅпїЅпїЅпїЅ T-SQL. DDL
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): 
 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 ms sql server YT:
 
@@ -1056,21 +1056,21 @@ ms sql server YT:
  
 
 MongoINTRO:
-Mongo DB ПОЛНЫЙ КУРС
+Mongo DB пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=LNvmI8a9jwY&ab_channel=UlbiTV
 
 
-MongoDB - The Complete Developer's Guide:(Нету)
+MongoDB - The Complete Developer's Guide:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5639171
 Note(casey): 
-доп(casey): диск 
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 mongoDB YT:
 
@@ -1085,12 +1085,12 @@ mongoDB YT:
 2. mobile
 
 Note(casey): flutter_dart\[Udemy.com  Angela Yu] The Complete 2020 Flutter Development Bootcamp with Dart\6. MiCard - How to Build Beautiful UIs with Flutter Widgets
-доп(casey): диск D: [Udemy] The Complete 2020 Flutter Development Bootcamp with Dart (08.2020)
-доп(casey): 6. Tapping into Widget Properties
-доп(casey): повт. cheat-sheet
-доп(casey): попробовать сделать робота в flutter/dart
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ D: [Udemy] The Complete 2020 Flutter Development Bootcamp with Dart (08.2020)
+пїЅпїЅпїЅ(casey): 6. Tapping into Widget Properties
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ. cheat-sheet
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ flutter/dart
 
-доп(casey):
+пїЅпїЅпїЅ(casey):
 	https://icons8.com/illustrations
 	https://www.vecteezy.com/
 	https://www.canva.com/
@@ -1101,44 +1101,44 @@ Note(casey): flutter_dart\[Udemy.com  Angela Yu] The Complete 2020 Flutter Devel
 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 Note(casey): dart metanit.com, ???
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 Note(casey): flutter metanit.com, ???
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 YT codeandart main
-Note(casey): Основы языка программирования Dart, Изучаем язык Dart - Часть 1. Основы, Типы данных, Функции, const и final.
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Dart, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ Dart - пїЅпїЅпїЅпїЅпїЅ 1. пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, const пїЅ final.
+пїЅпїЅпїЅ(casey):
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Flutter разработка для начинающих. Приложение Quiz., Flutter основы для начинающих #1 - Создание проекта, MaterialApp, Scaffold
-доп(casey):
+Note(casey): Flutter пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Quiz., Flutter пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ #1 - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, MaterialApp, Scaffold
+пїЅпїЅпїЅ(casey):
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 flutter/dart YT:
 codeandart main
-Note(casey): ??? (источник)
-доп(casey):
+Note(casey): ??? (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1165,19 +1165,19 @@ Note(casey): ??? (источник)
 
 flexfrog!!!! proiti
 
-Note(casey): [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)\02. Верстка адаптивного сайта с нуля\15. Домен и хостинг. Размещаем сайт в интернете
-доп(casey): диск E: [Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)
+Note(casey): [Brainscloud] [пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. HTML пїЅ CSS пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ (2019)\02. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ\15. пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ E: [Brainscloud] [пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. HTML пїЅ CSS пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ (2019)
 
 
 Note(casey): [11-2021] advanced-css-and-sass\09 Nexter Project _ Master CSS Grid Layouts!\125 See You Next Time, CSS Master!
-доп(casey): [11-2021] advanced-css-and-sass
+пїЅпїЅпїЅ(casey): [11-2021] advanced-css-and-sass
 
 
 
-доп(casey): freecodecamp penguin
+пїЅпїЅпїЅ(casey): freecodecamp penguin
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1193,32 +1193,32 @@ Note(casey): Проекты, ???
 {
 dark code
 Note(casey): css_YOUTUBE\YT channels\darkCode\Build a responsive personal website\Build a responsive personal website - Contact & Footer
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 online tutorials
-Note(casey): Parallax Scrolling Website | How to Make Website using Html CSS & Javascript (источник)
-доп(casey): 
+Note(casey): Parallax Scrolling Website | How to Make Website using Html CSS & Javascript (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey): 
 
 
 code nepal
-Note(casey): ??? (источник)
-доп(casey):
+Note(casey): ??? (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey):
 
 
 code grid
-Note(casey): ??? (источник)
-доп(casey):
+Note(casey): ??? (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey):
 
 
-Дмитрий валак
-Note(casey): https://www.youtube.com/c/BrainsCloud/videos(ссылка)
-Note(casey): ??? (источник)
-доп(casey): verstka brainscloud: https://www.youtube.com/watch?v=YKxua0wkgD8
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+Note(casey): https://www.youtube.com/c/BrainsCloud/videos(пїЅпїЅпїЅпїЅпїЅпїЅ)
+Note(casey): ??? (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey): verstka brainscloud: https://www.youtube.com/watch?v=YKxua0wkgD8
 
 
 Bedimcode
 Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Website Using HTML CSS And JavaScript  DarkLight Mode
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 }
 
@@ -1237,36 +1237,36 @@ Note(casey): css_YOUTUBE\YT channels\Bedimcode\Responsive Personal Portfolio Web
 
 
 5. javascript
-Note(casey): javascript\[Udemy] [Иван Петриченко] Полный курс по JavaScript + React - с нуля до результата\08 (Бонус из Практического курса) Реальный проект на JS в классическом стиле\116 Настраиваем сборку проекта и разбираемся с ТЗ
-доп(casey): https://rutracker.net/forum/viewtopic.php?t=5667570
+Note(casey): javascript\[Udemy] [пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ JavaScript + React - пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\08 (пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ) пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ JS пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ\116 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅ
+пїЅпїЅпїЅ(casey): https://rutracker.net/forum/viewtopic.php?t=5667570
               
-доп(casey): 010 - 011 Как работать с GitHub
-доп(casey): githowto -> 21. Подробнее о структуре;
+пїЅпїЅпїЅ(casey): 010 - 011 пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ GitHub
+пїЅпїЅпїЅ(casey): githowto -> 21. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ;
 
 Note(casey): javascript courses\the-complete-javascript-course\19 Setting Up Git and Deployment\315 Pushing to GitHub
-доп(casey): https://rutracker.org/forum/viewtopic.php?t=5881046
+пїЅпїЅпїЅ(casey): https://rutracker.org/forum/viewtopic.php?t=5881046
 
 Note(casey): javascript courses\react-the-complete-guide-incl-redux\11 Practice Project_ Building a Food Order App\132 Starting Setup
-доп(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
+пїЅпїЅпїЅ(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
 
-Note(casey): javascript courses\complete-react-developer-zero-to-mastery\03 React Basics\049 Monsters Rolodex - CardList Component
-доп(casey): https://rutracker.org/forum/viewtopic.php?t=5904049
+Note(casey): javascript courses\complete-react-developer-zero-to-mastery\03 React Basics\051 Monsters Rolodex - Finishing Touches
+пїЅпїЅпїЅ(casey): https://rutracker.org/forum/viewtopic.php?t=5904049
 
-доп(casey): javascript\learn javascript\???
+пїЅпїЅпїЅ(casey): javascript\learn javascript\???
 https://learn.javascript.ru/js
 
 ??? -> ??? -> ???
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 javascript YT:
-Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
-Git. Большой практический выпуск
+пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
+Git. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=SEvR78OhGtw&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
 
-АйТиРевью(https://www.youtube.com/channel/UCVuN6oJcUJnk2AwAe23jKhQ/videos)
-Основы работы с git
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(https://www.youtube.com/channel/UCVuN6oJcUJnk2AwAe23jKhQ/videos)
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ git
 https://www.youtube.com/watch?v=ZzRSgQ0kqDM&ab_channel=%D0%90%D0%B9%D0%A2%D0%B8%D0%A0%D0%B5%D0%B2%D1%8C%D1%8E
 
  
@@ -1274,19 +1274,19 @@ https://www.youtube.com/watch?v=ZzRSgQ0kqDM&ab_channel=%D0%90%D0%B9%D0%A2%D0%B8%
 
 react
 Note(casey): 
-доп(casey): 
-доп(casey): freecodecamp js
+пїЅпїЅпїЅ(casey): 
+пїЅпїЅпїЅ(casey): freecodecamp js
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 react YT:
-Владилен Минин
-Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React, Node) (источник)
-доп(casey):
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React, Node) (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1296,19 +1296,19 @@ Note(casey): MERN - URL Shortener from Scratch to Deploy (Mongo, Express, React,
 
 react native
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 react native YT:
-Владилен Минин
-Note(casey): Курс React Native. Пишем Мобильное Приложение на JavaScript (источник)
-доп(casey):
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+Note(casey): пїЅпїЅпїЅпїЅ React Native. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ JavaScript (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1325,18 +1325,18 @@ Note(casey): Курс React Native. Пишем Мобильное Приложение на JavaScript (источн
 
 vue
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 Vue YT:
 JavaScript.Ninja
-Note(casey): Обзор курса по Vue.js 3 (автор: Владилен Минин) от Ильи Климова
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Vue.js 3 (пїЅпїЅпїЅпїЅпїЅ: пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ) пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): 
 
 
 
@@ -1347,15 +1347,15 @@ nodejs:
 deno  ? node.js
 
 Note(casey):
-доп(casey): 
-доп(casey): freecodecamp js
+пїЅпїЅпїЅ(casey): 
+пїЅпїЅпїЅ(casey): freecodecamp js
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 Nodejs YT:
 
@@ -1375,60 +1375,60 @@ Nodejs YT:
 
 
 6. python(tcp-ip, linux)
-доп(casey): freecodecamp
+пїЅпїЅпїЅ(casey): freecodecamp
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 ??? -> ??? -> ???
 
 
 Note(casey): Python\dataquest\Data Scientist in Python\???
-доп(casey): https://app.dataquest.io/dashboard
+пїЅпїЅпїЅ(casey): https://app.dataquest.io/dashboard
 
 
-->Online курс “Python для сетевых инженеров” 2021 (Диск Е)(pyneng-11)
-->Online курс “Python для сетевых инженеров” 2019 (диск D Open PyNEng)
-->Online курс “Python для сетевых инженеров”(YOUTUBE_CONTINUE)
+->Online пїЅпїЅпїЅпїЅ пїЅPython пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2021 (пїЅпїЅпїЅпїЅ пїЅ)(pyneng-11)
+->Online пїЅпїЅпїЅпїЅ пїЅPython пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2019 (пїЅпїЅпїЅпїЅ D Open PyNEng)
+->Online пїЅпїЅпїЅпїЅ пїЅPython пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(YOUTUBE_CONTINUE)
 
 
 
-YT хирьянов
-Note(casey): 2020 Практика программирования на Python 3, ???
-доп(casey): 
+YT пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+Note(casey): 2020 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Python 3, ???
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): 2021 Анализ данных на Python
-доп(casey): 
+Note(casey): 2021 пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Python
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 Python YT:
-Диджитализируй!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
-доп(casey): Диджитализируй! playlist python
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ! playlist python
 https://www.youtube.com/watch?v=9AHe6NhLs0s&list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 
 Tech With Tim(https://www.youtube.com/c/TechWithTim)
-Note(casey): ??? (источник)
-доп(casey):
+Note(casey): ??? (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey):
 
 
 
 
 
-python + django(нету на диске)
+python + django(пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ)
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 Python django YT:
-Диджитализируй!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
-Поднимаем Debian сервер для Python/Django — установка и настройка с нуля. Как настроить сервер?
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Debian пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ Python/Django пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ?
 https://www.youtube.com/watch?v=FLiKTJqyyvs&list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&index=6&ab_channel=%D0%94%D0%B8%D0%B4%D0%B6%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B9%21
 
 
@@ -1437,35 +1437,35 @@ python mobile development
 Kivy Tutorials Python
 https://www.youtube.com/watch?v=bMHK6NDVlCM&list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn&ab_channel=TechWithTim
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 
 
 ->YT bots
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 ->AI(artificial intelligence)!!!!!!!!!!!!!!
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 ->YT hackING:D
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 Note(casey): web 2021
@@ -1479,22 +1479,22 @@ https://ravesli.com/vvedenie-v-docker-chto-eto-takoe-i-zachem-ego-ispolzovat/
 
 DOCKER:
 Note(casey): LINUX\Docker\Docker & Kubernetes The Practical Guide\???
-доп(casey): диск : Docker & Kubernetes The Practical Guide
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ : Docker & Kubernetes The Practical Guide
 
 DOCKER YT:
-Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
-Основы Docker. Большой практический выпуск
+пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
+пїЅпїЅпїЅпїЅпїЅпїЅ Docker. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=QF4ZF857m44&t=1s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
 
-АйТиРевью(https://www.youtube.com/channel/UCVuN6oJcUJnk2AwAe23jKhQ/videos)
-Читаем о Docker'e на Хабре #1
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(https://www.youtube.com/channel/UCVuN6oJcUJnk2AwAe23jKhQ/videos)
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Docker'e пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ #1
 https://www.youtube.com/watch?v=3GD2LZQQ9Ug&ab_channel=%D0%90%D0%B9%D0%A2%D0%B8%D0%A0%D0%B5%D0%B2%D1%8C%D1%8E
 
 
 
 NGINX:
-Note(casey): LINUX\NGINX\Основы Nginx  Nginx Fundamentals\???
-доп(casey): диск : Основы Nginx  Nginx Fundamentals
+Note(casey): LINUX\NGINX\пїЅпїЅпїЅпїЅпїЅпїЅ Nginx  Nginx Fundamentals\???
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ : пїЅпїЅпїЅпїЅпїЅпїЅ Nginx  Nginx Fundamentals
 
 
 
@@ -1502,18 +1502,18 @@ Note(casey): LINUX\NGINX\Основы Nginx  Nginx Fundamentals\???
 
 LINUX
 Note(casey): LINUX\ravesli linux\???
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 
 
 
 UnixHost(https://www.youtube.com/c/UnixHost)
-Уроки Linux playlist:
+пїЅпїЅпїЅпїЅпїЅ Linux playlist:
 https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU
 
-Note(casey): LINUX\LINUX YT\YT channels\UnixHost\Уроки Linux\???
-доп(casey):
+Note(casey): LINUX\LINUX YT\YT channels\UnixHost\пїЅпїЅпїЅпїЅпїЅ Linux\???
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1528,8 +1528,8 @@ Awesome Neovim Setup From Scratch - Full Guide
 https://www.youtube.com/watch?v=JWReY93Vl6g&ab_channel=NeuralNine
 
 
-Note(casey): LINUX\LINUX & UNIX\название видоса
-доп(casey):
+Note(casey): LINUX\LINUX & UNIX\пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1541,50 +1541,50 @@ Note(casey): LINUX\LINUX & UNIX\название видоса
 
 
 
-доп(casey): terminux 
+пїЅпїЅпїЅ(casey): terminux 
 https://termux.com/community
 https://wiki.termux.com
 
 setup http server on android with termux:
 https://gist.github.com/vilkoz/73588f8a7b9122a93c369502d61fd922
 
-КАК ПОЛЬЗОВАТЬСЯ CURL
+пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ CURL
 https://losst.ru/kak-polzovatsya-curl
 
-Разработка приложения с использованием Python и OpenCV на Android устройстве:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Python пїЅ OpenCV пїЅпїЅ Android пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:
 https://habr.com/ru/post/528604/
 
 https-server:
 https://github.com/Bhai4You/https-server
  
-Работа с SSH в Windows 10 и Linux. Генерация ключей
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ SSH пїЅ Windows 10 пїЅ Linux. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=H89XkCMJ7_k&ab_channel=%D0%90%D0%B9%D0%A2%D0%B8%D0%A0%D0%B5%D0%B2%D1%8C%D1%8E
 
 
 
 linux YT:
 overbafer1(https://www.youtube.com/c/overbafer1):
-Проникновение в ПК через Termux - без ROOT прав:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ Termux - пїЅпїЅпїЅ ROOT пїЅпїЅпїЅпїЅ:
 https://www.youtube.com/watch?v=YUcQ_pNZr0s&ab_channel=overbafer1
 
 RomNero(https://www.youtube.com/channel/UC6Fa-kIaUelSUPFfHQgVWig):
-Доступ к Домашнему Серверу с Internet. VPS-VDS + VPN (OpenVPN) + SSL (Let'sEncrypt) + Nextcloud:
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Internet. VPS-VDS + VPN (OpenVPN) + SSL (Let'sEncrypt) + Nextcloud:
 https://www.youtube.com/watch?v=7VvWZIz1kB8&ab_channel=RomNero
 
-Артем Матяшов(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
-Как поднять домашний сервер со своим доменом своими руками?
+пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ(https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA)
+пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ?
 https://www.youtube.com/watch?v=avl5rVi-HNo&t=893s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
 
-OpenVPN. Большой практический выпуск
+OpenVPN. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=mVwT4FzvvKc&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
 
-Поднимаем OpenVPN для удаленного доступа к локальным сетям клиентов
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ OpenVPN пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=S358miThwdg&t=110s&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2
 
 
 
 
-Получаем бесплатно vps/vds/rdp сервер. Удаленный рабочий стол на Windows! get a free rdp server.
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ vps/vds/rdp пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ Windows! get a free rdp server.
 https://www.youtube.com/watch?v=LR495-w0UOY&ab_channel=BOUE94
 
 
@@ -1600,7 +1600,7 @@ Learn Hacking Windows 10 Using Metasploit From Scratch:
 https://rutracker.net/forum/viewtopic.php?t=5599804
 
 Note(casey): LINUX\MetaSploit\Learn Hacking Windows 10 Using Metasploit From Scratch
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
 kali metasploit
@@ -1611,7 +1611,7 @@ MetaSploit DOCS:
 https://docs.rapid7.com/metasploit/installing-metasploit-pro
 
 Note(casey): LINUX\MetaSploit\MetaSploit DOCS
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1624,14 +1624,14 @@ https://www.youtube.com/watch?v=vbaJcRxASo0&ab_channel=NetworkChuck
 
 
 TCP-IP
-Note(casey): Модель OSI и стек протоколов TCP-IP, ???
-доп(casey): (диск E)
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ OSI пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ TCP-IP, ???
+пїЅпїЅпїЅ(casey): (пїЅпїЅпїЅпїЅ E)
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 TCP-IP YT:
 
@@ -1647,82 +1647,82 @@ EXTRA:
 
 7. C#
 
-Note(casey): Сергей C#, ???
-доп(casey): не забыть про него
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ C#, ???
+пїЅпїЅпїЅ(casey): пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
 
 
 
 C# -> unity;
-Note(casey): C# tutorials\С#\c# metanit.com .NET\Глава 3. Классы. Объектно-ориентированное программирование\Виртуальные методы и свойства
-доп(casey): Глава 2. Основы программирования на C#. Перечисления enum
+Note(casey): C# tutorials\пїЅ#\c# metanit.com .NET\пїЅпїЅпїЅпїЅпїЅ 3. пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅ 2. пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ C#. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ enum
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
-Note(casey): metanit.com Паттерны проектирования, ???
-доп(casey):
+Note(casey): metanit.com пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 C# unity;
 Note(casey): Creating Portalethium, Creating Portalethium Part 1 Modeling Modular Game Assets in Blender 2.78, 01 - Modeling, 00. Introduction
-доп(casey): диск E
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ E
 
 Note(casey): Creating Portalethium, Creating Portalethium Part 2: Level Design with Modular Assets in Unity, Building a Modular Level, 00. Introduction
-доп(casey): диск Е
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ
 
 Note(casey): Creating Portalethium, Creating Portalethium Part 3: Developing a Tower Defense Game in Unity, 00 - Setup, 00. Developing a Tower Defense Game
-доп(casey): диск Е
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ
 
 Note(casey): Udemy - Unity Game Development Academy Make 2D & 3D Games, Section 1 Intro to Unity course, 07. How to access community & chat in this Unity 3D course
-доп(casey): диск E 
-доп(casey): Monobehaviour
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ E 
+пїЅпїЅпїЅ(casey): Monobehaviour
 
 Note(casey): Udemy - Learn to Code by Making Games - The Complete Unity Developer, 01 Introduction And Setup, 001 Promo Video  Games List
-доп(casey): диск E 
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ E 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 Unity YT:
 
 sebastian lauge
 Note(casey): ???
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 EmeraldPowder
 Note(casey): ???
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Single Sapling Games
 Note(casey): ???
-доп(casey): https://www.youtube.com/channel/UCbvf5o21cb0Ra9pdpkogHYA
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCbvf5o21cb0Ra9pdpkogHYA
 
 
 
 
 
 {
-Note(casey): metanit.com Windows Forms, Глава 4. Элементы управления, ListBox
-доп(casey):
+Note(casey): metanit.com Windows Forms, пїЅпїЅпїЅпїЅпїЅ 4. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ListBox
+пїЅпїЅпїЅ(casey):
 
 Note(casey): graphics c#, ???
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 }
 
 
 
 {
-Note(casey): metanit.com ado.net работа с базами данных, ???
-доп(casey):
+Note(casey): metanit.com ado.net пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
-Note(casey): с# ado.net работа с базами данных, ???
-доп(casey):
+Note(casey): пїЅ# ado.net пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 }
 
 
@@ -1731,20 +1731,20 @@ Note(casey): с# ado.net работа с базами данных, ???
 
 
 {
-Note(casey): metanit.com Руководство по ASP.NET Core 5, ???
-доп(casey):
+Note(casey): metanit.com пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ ASP.NET Core 5, ???
+пїЅпїЅпїЅ(casey):
 
 Note(casey): c# asp.net, ???
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
-Note(casey): metanit.com c# Сетевое программирование в С# и .NET, ???
-доп(casey):
+Note(casey): metanit.com c# пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅ# пїЅ .NET, ???
+пїЅпїЅпїЅ(casey):
 
 Note(casey): metanit.com c# wpf, ???
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): metanit.com c# Entity Framework Core, ???
-доп(casey):
+пїЅпїЅпїЅ(casey):
 }
 
 
@@ -1752,8 +1752,8 @@ Note(casey): metanit.com c# Entity Framework Core, ???
 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 C# YT:
 
 
@@ -1761,82 +1761,82 @@ C# YT:
 8. C++
 
 ->???? C++/C -> UE;
-Note(casey): С++ tutorials\С++\C++ ravesli уроки\ООП С++\Глава №15. Умные указатели и Семантика перемещения в C++\191
-доп(casey): Урок №172. Вывод объектов классов через оператор вывода
+Note(casey): пїЅ++ tutorials\пїЅ++\C++ ravesli пїЅпїЅпїЅпїЅпїЅ\пїЅпїЅпїЅ пїЅ++\пїЅпїЅпїЅпїЅпїЅ пїЅ15. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ C++\191
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ172. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 
 
 Note(casey): ravesli sfml, ???
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 
 Note(casey): ravesli prakticheskie zadaniya, ???
-доп(casey): первая половина
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 
 
 
 
 
-Note(casey): ravesli openGL, Глава №0. Начало работы с OpenGL, Урок №1. Введение в OpenGL
-доп(casey):
+Note(casey): ravesli openGL, пїЅпїЅпїЅпїЅпїЅ пїЅ0. пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ OpenGL, пїЅпїЅпїЅпїЅ пїЅ1. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ OpenGL
+пїЅпїЅпїЅ(casey):
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 
 
 Note(casey): ravesli prakticheskie zadaniya, ???
-доп(casey): вторая половина
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 
 
 
-С++ Unreal Engine;
+пїЅ++ Unreal Engine;
 Note(casey): Learning C++ by Creating Games with Unreal Engine 4, 01. Setting Up Visual Studio for Windows, 01 - The Course Overview
-доп(casey): диск E: Packt Publishing – Learning C++ by Creating Games with Unreal Engine 4
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ E: Packt Publishing пїЅ Learning C++ by Creating Games with Unreal Engine 4
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 Unreal Engine YT:
 
 Stylized Station
 Note(casey): You HAVE to learn Unreal Engine
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Cyberstars - How to create a game
-Note(casey): Unreal Engine 5 Подробно о Nanite - Прорывная технология будущего в UE5
-доп(casey): 
+Note(casey): Unreal Engine 5 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Nanite - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ UE5
+пїЅпїЅпїЅ(casey): 
 
 
 9. JAVA
-Note(casey): java\[foxminded] [Сергей Немчинский] Java Start (2020)\4. Коллекции и управляющие конструкции\4.3 Коллекции
-доп(casey): диск Е: [foxminded] [Сергей Немчинский] Java Start (2020)
-доп(casey): https://javarush.ru/groups/posts/1941-kak-ne-poterjatjhsja-vo-vremeni--datetime-i-calendar
-доп(casey): https://stackoverflow.com/questions/3059333/validating-input-using-java-util-scanner
+Note(casey): java\[foxminded] [пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ] Java Start (2020)\4. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\4.3 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ: [foxminded] [пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ] Java Start (2020)
+пїЅпїЅпїЅ(casey): https://javarush.ru/groups/posts/1941-kak-ne-poterjatjhsja-vo-vremeni--datetime-i-calendar
+пїЅпїЅпїЅ(casey): https://stackoverflow.com/questions/3059333/validating-input-using-java-util-scanner
 
-доп(casey): https://ru.stackoverflow.com/questions/771664/%D0%9A%D0%B0%D0%BA-%D1%81%D0%BF%D0%B0%D1%80%D1%81%D0%B8%D1%82%D1%8C-csv-file-in-java
+пїЅпїЅпїЅ(casey): https://ru.stackoverflow.com/questions/771664/%D0%9A%D0%B0%D0%BA-%D1%81%D0%BF%D0%B0%D1%80%D1%81%D0%B8%D1%82%D1%8C-csv-file-in-java
 
-доп(casey): https://stackoverflow.com/questions/4547453/can-you-write-virtual-functions-methods-in-java
-доп(casey): https://howtodoinjava.com/java/serialization/custom-serialization-readobject-writeobject/
-доп(casey): https://metanit.com/java/tutorial/6.10.php
+пїЅпїЅпїЅ(casey): https://stackoverflow.com/questions/4547453/can-you-write-virtual-functions-methods-in-java
+пїЅпїЅпїЅ(casey): https://howtodoinjava.com/java/serialization/custom-serialization-readobject-writeobject/
+пїЅпїЅпїЅ(casey): https://metanit.com/java/tutorial/6.10.php
 
 Note(casey): YOUTUBE, Java read CSV File(Bro Code)
-доп(casey): https://www.youtube.com/watch?v=zKDmzKaAQro&ab_channel=BroCode
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=zKDmzKaAQro&ab_channel=BroCode
 
 
 
@@ -1845,12 +1845,12 @@ Note(casey): YOUTUBE, Java read CSV File(Bro Code)
 
 
 java rush:
-Note(casey): Дополнительные лекции к уровню(https://javarush.ru/quests/lectures/questsyntaxpro.level23.lecture10)
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ(https://javarush.ru/quests/lectures/questsyntaxpro.level23.lecture10)
+пїЅпїЅпїЅ(casey): 
 
 
 Note(casey): java\java rush\static nested classes\task1
-доп(casey): попробовать сделать статический класс вне родительского класса
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 
 
 
@@ -1858,12 +1858,12 @@ Note(casey): java\java rush\static nested classes\task1
 
 
 
-Note(casey): java\[Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)\1. Вводная часть\3. Подготовка учебной среды
-доп(casey): диск Е: [Udemy] [Игорь Судакевич] Подготовка к сертификации Java 8, Oracle Certified Associate (2019)
+Note(casey): java\[Udemy] [пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Java 8, Oracle Certified Associate (2019)\1. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ\3. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ: [Udemy] [пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ] пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Java 8, Oracle Certified Associate (2019)
 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -1874,21 +1874,21 @@ https://rutracker.net/forum/viewtopic.php?t=5483806
 
 
 
-minecraft build custom modes:(нету)
-доп(casey): 
-доп(casey): диск
+minecraft build custom modes:(пїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey): 
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ
 
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
-java spring mvc:(нету)
+java spring mvc:(пїЅпїЅпїЅпїЅ)
 https://rutracker.net/forum/viewtopic.php?t=6003233
 
 
@@ -1899,19 +1899,19 @@ https://www.youtube.com/watch?v=jma9hFQSCDk
 
 10. REST:
 
-Note(casey): ранобэ, (Легендарный механик(хан сяяяяо), Добро пожаловать в класс превосходства, хёка)
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ, (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ), пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ)
 
 
-Note(casey): манга, (человек-бензопила, domekano перечитать:D, тайные желания отвергнутых)(https://mangalib.me/user/1724969)
-доп(casey): "Судзука", "Город, в котором ты живёшь", "Фуука" и "Хит-ман".
-доп(casey): похожее на дорогу юности
+Note(casey): пїЅпїЅпїЅпїЅпїЅ, (пїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, domekano пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:D, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)(https://mangalib.me/user/1724969)
+пїЅпїЅпїЅ(casey): "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ", "пїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ", "пїЅпїЅпїЅпїЅпїЅ" пїЅ "пїЅпїЅпїЅ-пїЅпїЅпїЅ".
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 https://anime-look.ru/similar_anime/doroga-yunosti/
 
-Note(casey): книга по психологии, философия(этика что-нибудь найти), зарядка для ума, разное
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ), пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey):
 
-Note(casey): аниме, (jojo, april lies, angel beats, токийские мстители, волейбол, тайные желания отвергнутых, Сайт волшебниц, vrata shteina, исчезновение харухи судзумии, mirai nikki, Кровь: Последний вампир, данганронпа, Триплексоголик ТВ-1, Мой сэмпай раздражает!, Mieruko-chan, Хроники непобедимого Бахамута)
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅ, (jojo, april lies, angel beats, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, vrata shteina, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, mirai nikki, пїЅпїЅпїЅпїЅпїЅ: пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ-1, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ!, Mieruko-chan, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey): 
 
 TWITCH:
 vollere1
@@ -1931,235 +1931,235 @@ SOUNDCLOUD~(digicore playlist, 17 seventeen etc.)
 shitmontage(soundcloud):
 
 Note(casey): dj #GORECORE 
-доп(casey): https://soundcloud.com/djgorecore
+пїЅпїЅпїЅ(casey): https://soundcloud.com/djgorecore
 
 Note(casey): cielle 
-доп(casey): https://soundcloud.com/ci-elle-uh
+пїЅпїЅпїЅ(casey): https://soundcloud.com/ci-elle-uh
 
 Note(casey): leroy 
-доп(casey): https://soundcloud.com/c0ncernn
+пїЅпїЅпїЅ(casey): https://soundcloud.com/c0ncernn
 
 Note(casey): dj #DAISY 
-доп(casey): https://soundcloud.com/deejaydaisy
+пїЅпїЅпїЅ(casey): https://soundcloud.com/deejaydaisy
 
 Note(casey): boxkitty 
-доп(casey): https://soundcloud.com/bxktty
+пїЅпїЅпїЅ(casey): https://soundcloud.com/bxktty
 
 Note(casey): dashie 
-доп(casey): https://soundcloud.com/dshie
+пїЅпїЅпїЅ(casey): https://soundcloud.com/dshie
 
 Note(casey): gingus
-доп(casey): https://soundcloud.com/gingaloid
+пїЅпїЅпїЅ(casey): https://soundcloud.com/gingaloid
 
 Note(casey): franzj
-доп(casey): https://soundcloud.com/franzj
+пїЅпїЅпїЅ(casey): https://soundcloud.com/franzj
 
 Note(casey): crafter2011
-доп(casey): https://soundcloud.com/crafter2011
+пїЅпїЅпїЅ(casey): https://soundcloud.com/crafter2011
 
 Note(casey): sltted
-доп(casey): https://soundcloud.com/sltted
+пїЅпїЅпїЅ(casey): https://soundcloud.com/sltted
 
 Note(casey): goodbyex2002
-доп(casey): https://soundcloud.com/goodbyex2002
+пїЅпїЅпїЅ(casey): https://soundcloud.com/goodbyex2002
 
 Note(casey): gloomstone
-доп(casey): https://soundcloud.com/gloomstone
+пїЅпїЅпїЅ(casey): https://soundcloud.com/gloomstone
 
 Note(casey): user-177606669
-доп(casey): https://soundcloud.com/user-177606669
+пїЅпїЅпїЅ(casey): https://soundcloud.com/user-177606669
 
 Note(casey): areywtf
-доп(casey): https://soundcloud.com/areywtf
+пїЅпїЅпїЅ(casey): https://soundcloud.com/areywtf
 
 Note(casey): trndytrndy
-доп(casey): https://soundcloud.com/trndytrndy
+пїЅпїЅпїЅ(casey): https://soundcloud.com/trndytrndy
 
 Note(casey): mondai1112
-доп(casey): https://soundcloud.com/mondai1112
+пїЅпїЅпїЅ(casey): https://soundcloud.com/mondai1112
 
 Note(casey): marshall4 
-доп(casey): https://soundcloud.com/marshall4
+пїЅпїЅпїЅ(casey): https://soundcloud.com/marshall4
 
 Note(casey): elw00d
-доп(casey): https://soundcloud.com/elw00d
+пїЅпїЅпїЅ(casey): https://soundcloud.com/elw00d
 
 Note(casey): celsius2004
-доп(casey): https://soundcloud.com/celsius2004
+пїЅпїЅпїЅ(casey): https://soundcloud.com/celsius2004
 
 Note(casey): svnth 
-доп(casey): https://soundcloud.com/sxth2
+пїЅпїЅпїЅ(casey): https://soundcloud.com/sxth2
 
 Note(casey): mail (@1chainmail)
-доп(casey): https://soundcloud.com/1chainmail
+пїЅпїЅпїЅ(casey): https://soundcloud.com/1chainmail
 
 Note(casey): ta1lsd0ll
-доп(casey): https://soundcloud.com/ta1lsd0ll
+пїЅпїЅпїЅ(casey): https://soundcloud.com/ta1lsd0ll
 
 Note(casey): oil
-доп(casey): https://soundcloud.com/oil_is_stupid
+пїЅпїЅпїЅ(casey): https://soundcloud.com/oil_is_stupid
 
 Note(casey): carbine
-доп(casey): https://soundcloud.com/saycarbine
+пїЅпїЅпїЅ(casey): https://soundcloud.com/saycarbine
 
 Note(casey): bobby
-доп(casey): https://soundcloud.com/bobbycore
+пїЅпїЅпїЅ(casey): https://soundcloud.com/bobbycore
 
 Note(casey): nvrtrst 
-доп(casey): https://soundcloud.com/nvrtrstt/tracks
+пїЅпїЅпїЅ(casey): https://soundcloud.com/nvrtrstt/tracks
 
 Note(casey): kanji brutal
-доп(casey): https://soundcloud.com/kanjibrutal
+пїЅпїЅпїЅ(casey): https://soundcloud.com/kanjibrutal
 
 Note(casey): alphadream
-доп(casey): https://soundcloud.com/alphadream2
+пїЅпїЅпїЅ(casey): https://soundcloud.com/alphadream2
 
 Note(casey): ActuallyNotBill
-доп(casey): https://soundcloud.com/actuallynotbill
+пїЅпїЅпїЅ(casey): https://soundcloud.com/actuallynotbill
 
 Note(casey): shambomba 2 
-доп(casey): https://soundcloud.com/shambomba/
+пїЅпїЅпїЅ(casey): https://soundcloud.com/shambomba/
 
 Note(casey): sci1 
-доп(casey): https://soundcloud.com/sci1
+пїЅпїЅпїЅ(casey): https://soundcloud.com/sci1
 
 Note(casey): TwerkNation28 
-доп(casey): https://soundcloud.com/twerknation28/tracks
+пїЅпїЅпїЅ(casey): https://soundcloud.com/twerknation28/tracks
 
 Note(casey): noname
-доп(casey): https://soundcloud.com/xaav1er
+пїЅпїЅпїЅ(casey): https://soundcloud.com/xaav1er
 
 Note(casey): noname
-доп(casey): https://soundcloud.com/vonila
+пїЅпїЅпїЅ(casey): https://soundcloud.com/vonila
 
 Note(casey): noname
-доп(casey): https://soundcloud.com/answer3dd
+пїЅпїЅпїЅ(casey): https://soundcloud.com/answer3dd
 
 Note(casey): noname
-доп(casey): https://soundcloud.com/qt91
+пїЅпїЅпїЅ(casey): https://soundcloud.com/qt91
 
 Note(casey): taylor
-доп(casey): https://soundcloud.com/valuebawl
+пїЅпїЅпїЅ(casey): https://soundcloud.com/valuebawl
 
 
 sc artists(soundcloud):
 
 Note(casey): kurai
-доп(casey): https://soundcloud.com/kuraiiii
+пїЅпїЅпїЅ(casey): https://soundcloud.com/kuraiiii
 
 Note(casey): bb
-доп(casey): https://soundcloud.com/h45
+пїЅпїЅпїЅ(casey): https://soundcloud.com/h45
 
 Note(casey): wonder-girl
-доп(casey): https://soundcloud.com/wonder-girl-424589966
+пїЅпїЅпїЅ(casey): https://soundcloud.com/wonder-girl-424589966
 
 Note(casey): 50landing
-доп(casey): https://soundcloud.com/50landing
+пїЅпїЅпїЅ(casey): https://soundcloud.com/50landing
 
 Note(casey): starfall
-доп(casey): https://soundcloud.com/starfall
+пїЅпїЅпїЅ(casey): https://soundcloud.com/starfall
 
 Note(casey): ketsai
-доп(casey): https://soundcloud.com/ketsai
+пїЅпїЅпїЅ(casey): https://soundcloud.com/ketsai
 
 Note(casey): arid
-доп(casey): https://soundcloud.com/0arid
+пїЅпїЅпїЅ(casey): https://soundcloud.com/0arid
 
 Note(casey): beanie jane 
-доп(casey): https://soundcloud.com/beaniejane
+пїЅпїЅпїЅ(casey): https://soundcloud.com/beaniejane
 
 Note(casey): grimori
-доп(casey): https://soundcloud.com/grimorixo
+пїЅпїЅпїЅ(casey): https://soundcloud.com/grimorixo
 
 Note(casey): webcage
-доп(casey): https://soundcloud.com/webcage
+пїЅпїЅпїЅ(casey): https://soundcloud.com/webcage
 
 Note(casey): Deadfish
-доп(casey): https://www.youtube.com/channel/UCHx5CvtViPFaBL9TQqVeKGQ
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCHx5CvtViPFaBL9TQqVeKGQ
 
 Note(casey): ashes
-доп(casey): https://soundcloud.com/ilyaxhes
+пїЅпїЅпїЅ(casey): https://soundcloud.com/ilyaxhes
 
 Note(casey): roix
-доп(casey): https://soundcloud.com/roixofficial
+пїЅпїЅпїЅ(casey): https://soundcloud.com/roixofficial
 
 Note(casey): BELLEfm 
-доп(casey): https://soundcloud.com/bellefm
+пїЅпїЅпїЅ(casey): https://soundcloud.com/bellefm
 
 Note(casey): alaska belle
-доп(casey): https://soundcloud.com/alaskabelle
+пїЅпїЅпїЅ(casey): https://soundcloud.com/alaskabelle
 
 Note(casey): kimj
-доп(casey): https://soundcloud.com/kimj-874358769
+пїЅпїЅпїЅ(casey): https://soundcloud.com/kimj-874358769
 
 
 hypershit(YT):
 
 Note(casey): Itai
-доп(casey): https://www.youtube.com/channel/UCVODIIpWL8yKKJGhMoslyMw
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCVODIIpWL8yKKJGhMoslyMw
 
 Note(casey): Biteki
-доп(casey): https://www.youtube.com/channel/UCsUeNbrb8t2Td1faP1VbK2g
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCsUeNbrb8t2Td1faP1VbK2g
 
 Note(casey): Virus
-доп(casey): https://www.youtube.com/channel/UCebfLo-sL0L7VrhJohrtw8A
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCebfLo-sL0L7VrhJohrtw8A
 
 Note(casey): Needle
-доп(casey): https://www.youtube.com/channel/UC7DRbMbpHNR_3ru8XIiuEqQ
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UC7DRbMbpHNR_3ru8XIiuEqQ
 
 Note(casey): digimonhyperpl0x -
-доп(casey): https://www.youtube.com/channel/UCaP5UrCOS8ovp3gxzrhEawQ
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCaP5UrCOS8ovp3gxzrhEawQ
 
 Note(casey): SoundCloud
-доп(casey): https://www.youtube.com/c/SoundCloud
+пїЅпїЅпїЅ(casey): https://www.youtube.com/c/SoundCloud
 
 Note(casey): brokeboys
-доп(casey): https://www.youtube.com/channel/UCm-MipQY5dNaO4LfeYdgKWQ
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCm-MipQY5dNaO4LfeYdgKWQ
 
 Note(casey): Static
-доп(casey): https://www.youtube.com/channel/UCZfViim1TvW38baaM4e6aew
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCZfViim1TvW38baaM4e6aew
 
 
 russian hyperpop:
 
 Note(casey): rizza
-доп(casey): https://soundcloud.com/sloweyesclose
+пїЅпїЅпїЅ(casey): https://soundcloud.com/sloweyesclose
 
 Note(casey): woee33
-доп(casey): https://soundcloud.com/woee33
+пїЅпїЅпїЅ(casey): https://soundcloud.com/woee33
 
 Note(casey): sadkawaii
-доп(casey): https://soundcloud.com/sadkawaiibaby
+пїЅпїЅпїЅ(casey): https://soundcloud.com/sadkawaiibaby
 
 Note(casey): retardeadshit
-доп(casey): https://vk.com/retardeadshit
+пїЅпїЅпїЅ(casey): https://vk.com/retardeadshit
 
 Note(casey): lm4o3
-доп(casey): https://vk.com/lm4o3
+пїЅпїЅпїЅ(casey): https://vk.com/lm4o3
 
 Note(casey): Robopup
-доп(casey): https://soundcloud.com/robopupp
+пїЅпїЅпїЅ(casey): https://soundcloud.com/robopupp
 
 
 other(YT):
 
 Note(casey): Blurred
-доп(casey): https://www.youtube.com/c/Blurredlofi
+пїЅпїЅпїЅ(casey): https://www.youtube.com/c/Blurredlofi
 
 Note(casey): Dreamy
-доп(casey): https://www.youtube.com/channel/UCYVyQv2rUtCMxJAFSuOSpmg
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCYVyQv2rUtCMxJAFSuOSpmg
 
 Note(casey): xKito Music 
-доп(casey): https://www.youtube.com/channel/UCMOgdURr7d8pOVlc-alkfRg
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCMOgdURr7d8pOVlc-alkfRg
 
 Note(casey): Diversity
-доп(casey): https://www.youtube.com/channel/UC7tD6Ifrwbiy-BoaAHEinmQ
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UC7tD6Ifrwbiy-BoaAHEinmQ
 
 Note(casey): DECO*27
-доп(casey): https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg
 
 Note(casey): cherry
-доп(casey): https://www.youtube.com/channel/UCrG8mytOLrC_t5vu7To4ajA
+пїЅпїЅпїЅ(casey): https://www.youtube.com/channel/UCrG8mytOLrC_t5vu7To4ajA
 
 
 VK GROUPS(cursed)~
@@ -2168,281 +2168,281 @@ REDDIT~
 
 YOUTUBE:
 Note(casey): toples
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): utopia show 
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Japan explorer(https://www.youtube.com/channel/UCGfM15CKSjHl8bGp16P6P8g)
-доп(casey): Cute Japanese Girl CARRIES ME Around In Tokyo| Rickshaw Ride and Talk
+пїЅпїЅпїЅ(casey): Cute Japanese Girl CARRIES ME Around In Tokyo| Rickshaw Ride and Talk
 https://www.youtube.com/watch?v=eFSeq0lAfnk&ab_channel=Japanexplorer
 
 
 Note(casey): rinrin doll life in japan(https://www.youtube.com/c/rinrindolljapan)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Japan Walk [Together Walk](https://www.youtube.com/c/makimakiwalk)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Artur Sharifov
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): PewDiePie
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
-Note(casey): ЮРИСТ
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey):
 
-Note(casey): Вася ворон
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Trich tv
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Velaskes
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
-Note(casey): СЕРЕГА ПИРАТ 
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ 
+пїЅпїЅпїЅ(casey):
 
 Note(casey): GODOTA(https://www.youtube.com/channel/UCMG80rfPbA_ua-AdiPrupdA)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): ASeR
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): SeregaPirat.mp4
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): SHAPKA
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Maddy MURK
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): ROZEN
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): slidan
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
-Note(casey): Россия23
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ23
+пїЅпїЅпїЅ(casey):
 
 Note(casey): xQcOW(https://www.youtube.com/c/xQcOW)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): The Saga of xQc(https://www.youtube.com/c/TheSagaofxQc)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Bozzeh(https://www.youtube.com/c/Bozzeh)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): xQc Reacts(https://www.youtube.com/channel/UC_TXnOFYId0GN0yDrqZbt-Q)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): xQc Reacts(https://www.youtube.com/channel/UC5WEyghnbnTTnMtNU4fqYvQ)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): xQc Clips(https://www.youtube.com/channel/UCTBGvu3A26jOpQ-knB-Kx4Q)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): xqcL(https://www.youtube.com/channel/UC3Oe3sWSHKytoi7DrY1naZQ)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): xQc Gaming(https://www.youtube.com/channel/UCFE9IFdVxGKF9Z9Q9kMNwWA)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): forsen
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): FeelsOkayMan(https://www.youtube.com/channel/UCnSC6CAOHdmtIKDXnwT7gtA)
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Anomeme
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): azazlo
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): QCH
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): kinkstou
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): FranzJ
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): kriper2004
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): J utah
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
 Note(casey): Joma Tech
-доп(casey): Coding a whole web app ONLY using my Phone.
-доп(casey): Can you solve my favorite interview question? (math + cs)
+пїЅпїЅпїЅ(casey): Coding a whole web app ONLY using my Phone.
+пїЅпїЅпїЅ(casey): Can you solve my favorite interview question? (math + cs)
 
 Note(casey): Better Ideas
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): PURIJIT
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): FlynnFlyTaggart
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Give my Oscar
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Optimus Gang
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Nimbo
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): WeatherNewFans
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): hololive
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): ponyaaaa.mp4
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): 39daph vods
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Chotto.translate Vtubers RU
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Грустный Пакет
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): macaroni
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): j3remym3mes
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): manadaiari
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): BORCH
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Kopla Vtuber Clips
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Kazuma Sensei
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Shrimp Subs
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Mistrin
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Hensei Productions
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Бустер
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Ragones
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): mafumafuchaneru
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): kyaami 
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Vert Dider 
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Elegant Sister
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
-Note(casey): апвоут 
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅ 
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Marine Ch.
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): adidas Korea
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Nexpo
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): qAkasha
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): HoneyMad
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Mad Highlights(https://www.youtube.com/c/MadHighlights)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): мысли папича
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Subber Vitalya
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): s7ptember
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): GMHikaru
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): GothamChess
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): EgorXD
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Ruby_
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Note(casey): Nifty(https://www.youtube.com/channel/UCxusVwOOZwPD5EEcZHY2w6A)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 
 
 Note(casey): Over Engineer(https://www.youtube.com/c/OverEngineer)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Sebastian Lague(https://www.youtube.com/c/SebastianLague)
-доп(casey): Coding Adventure: Chess AI
+пїЅпїЅпїЅ(casey): Coding Adventure: Chess AI
 
-Note(casey): Диджитализируй!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ!(https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
+пїЅпїЅпїЅ(casey): 
 
 Note(casey): Visual Studio Code(https://www.youtube.com/c/Code)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-Note(casey): Лёша Корепанов(https://www.youtube.com/c/aocore)
-доп(casey): 12 вещей о ПРОГРАММИРОВАНИИ, которые я хотел бы знать в 20 лет
+Note(casey): ЛёпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(https://www.youtube.com/c/aocore)
+пїЅпїЅпїЅ(casey): 12 пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ 20 пїЅпїЅпїЅ
 https://www.youtube.com/watch?v=Z9FvlPpSS3U&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2
-доп(casey): Самые востребованные языки программирования для начинающих
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=FLy0LEis5Hs&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2
-доп(casey): Без ЭТОГО не стать ХОРОШИМ программистом
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 https://www.youtube.com/watch?v=Aj2uhPrGvK8&ab_channel=%D0%9B%D1%91%D1%88%D0%B0%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2
 
 Note(casey): Sergey Nemchinskiy(https://www.youtube.com/c/SergeyNemchinskiy)
-доп(casey): Как ВЫДЕРЖАТЬ учебу на программиста и не потерять мотивацию?
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ?
 
 
 
 GAMES:
 osu
 minecraft
-шахматы
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 cs go
 clevver.me
 rotmg
@@ -2468,7 +2468,7 @@ https://nekto.me/audiochat#/
 
 sony vegas pro
 Note(casey):
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 svp playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphKdK7QENo1YFvaYCS3mlMVF
@@ -2477,36 +2477,36 @@ HOW TO MAKE A CONTENT AWARE SCALE + SHAKY VOICE MEME TUTORIAL!
 https://www.youtube.com/watch?v=ZrncX033cvE&ab_channel=StephenClark
 
 
-Note(casey): Проекты, minecraftparasha.veg домонтировать
-доп(casey): geist (31sentinel)
-доп(casey): jojo orchestral, matrix :D;
-доп(casey): голосование тундц
-доп(casey): devilcrybaby song etc.
-доп(casey): tik tok shit
-доп(casey): presets for svp sapphire
-доп(casey): flicker effect
-доп(casey): rsmb
-доп(casey): ghost effect
-доп(casey): datamosh effect
-доп(casey): zavokod effect
-доп(casey): lofi hip hop nostalgic awesome moments insane
-доп(casey): kinkstou!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-доп(casey): pinch/punch
-доп(casey): shake effect
-доп(casey): nikita viseri
-доп(casey): geshka genadi gorin
-доп(casey): hikaru montage
-доп(casey): GORESET
-доп(casey): xQc INTRO
-доп(casey): what the dog doing
-доп(casey): initial d
-доп(casey): troll
-доп(casey): detroit soundtracks
-доп(casey): shitmontage soundclouds songs
-доп(casey): Gnossienne no 3
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, minecraftparasha.veg пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): geist (31sentinel)
+пїЅпїЅпїЅ(casey): jojo orchestral, matrix :D;
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): devilcrybaby song etc.
+пїЅпїЅпїЅ(casey): tik tok shit
+пїЅпїЅпїЅ(casey): presets for svp sapphire
+пїЅпїЅпїЅ(casey): flicker effect
+пїЅпїЅпїЅ(casey): rsmb
+пїЅпїЅпїЅ(casey): ghost effect
+пїЅпїЅпїЅ(casey): datamosh effect
+пїЅпїЅпїЅ(casey): zavokod effect
+пїЅпїЅпїЅ(casey): lofi hip hop nostalgic awesome moments insane
+пїЅпїЅпїЅ(casey): kinkstou!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+пїЅпїЅпїЅ(casey): pinch/punch
+пїЅпїЅпїЅ(casey): shake effect
+пїЅпїЅпїЅ(casey): nikita viseri
+пїЅпїЅпїЅ(casey): geshka genadi gorin
+пїЅпїЅпїЅ(casey): hikaru montage
+пїЅпїЅпїЅ(casey): GORESET
+пїЅпїЅпїЅ(casey): xQc INTRO
+пїЅпїЅпїЅ(casey): what the dog doing
+пїЅпїЅпїЅ(casey): initial d
+пїЅпїЅпїЅ(casey): troll
+пїЅпїЅпїЅ(casey): detroit soundtracks
+пїЅпїЅпїЅ(casey): shitmontage soundclouds songs
+пїЅпїЅпїЅ(casey): Gnossienne no 3
 
 
-Я ТАК ЕЩЕ НЕ ПУГАЛСЯ! ГЛАД ВАЛАКАС (5:58 - пена)
+пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ! пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ (5:58 - пїЅпїЅпїЅпїЅ)
 https://www.youtube.com/watch?v=tZsTCFbo_IE&t=401s&ab_channel=%D0%A0%D0%BE%D1%84%D0%BB%D1%8B%D0%94%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0
 
 Crab Game is better than Squid Game(16:50 - the kid)
@@ -2525,33 +2525,33 @@ xQc Plays CRAB GAME ft. Pokimane, Ludwig, Valkyrae, Sykunno(39:05)
 https://www.youtube.com/watch?v=tYDjzV9cEDA&t=619s&ab_channel=xQcGaming
 
 
-Note(casey): Проекты, свин
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, heylog
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, heylog
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, minecraft
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, minecraft
+пїЅпїЅпїЅ(casey): 
 
 
 sony vegas pro YT:
 
 LaNNeR(https://www.youtube.com/c/LaNNeRMVM)
-Note(casey): Туториал 2021 LaNNeR
-доп(casey): https://www.youtube.com/watch?v=8qi3zD0CLNQ&t=2843s&ab_channel=LaNNeR
-Note(casey): КАК сделать ЗВУКОВЫЕ ЭФФЕКТЫ для МУВИКА CSGO
-доп(casey): https://www.youtube.com/watch?v=3tlNbpHBch4&t=4s&ab_channel=LaNNeR
-Note(casey): Как сделать мувик в кс го? Editing/flicker/render settings/vfx/cc tutorial 
-доп(casey): https://www.youtube.com/watch?v=D3KAIJF-3_U&ab_channel=LaNNeR
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2021 LaNNeR
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=8qi3zD0CLNQ&t=2843s&ab_channel=LaNNeR
+Note(casey): пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ CSGO
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=3tlNbpHBch4&t=4s&ab_channel=LaNNeR
+Note(casey): пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅ пїЅпїЅ? Editing/flicker/render settings/vfx/cc tutorial 
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=D3KAIJF-3_U&ab_channel=LaNNeR
 
 Lebanese Lizard(https://www.youtube.com/c/LebaneseLizard)
 Note(casey): How to Datamosh with 1-click in VEGAS (EASY)
-доп(casey): https://www.youtube.com/watch?v=o-KWRoCiHz0&t=2s&ab_channel=LebaneseLizard
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=o-KWRoCiHz0&t=2s&ab_channel=LebaneseLizard
 
-Сэр Сыр(https://www.youtube.com/channel/UCIsa1glRjkvCUaRn-IIjKqQ)
+пїЅпїЅпїЅ пїЅпїЅпїЅ(https://www.youtube.com/channel/UCIsa1glRjkvCUaRn-IIjKqQ)
 
 VANROY(https://www.youtube.com/channel/UCgz9aWb8LrKx52r5PZfsJ3w)
 
@@ -2566,11 +2566,11 @@ Memecious(https://www.youtube.com/c/Memecious)
 
 
 
-after effects(гибр. && ae tutorials);
+after effects(пїЅпїЅпїЅпїЅ. && ae tutorials);
 SUPER SILA 1.0:
 https://rutracker.net/forum/viewtopic.php?t=5917203
 
-Вольница | Супер Сила 2: Школа моушен дизайна (2019) WEB-DL
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ | пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ 2: пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ (2019) WEB-DL
 https://rutracker.net/forum/viewtopic.php?t=6078409
 
 10 MUST HAVE Glitch Plugins For Adobe After Effects:
@@ -2631,29 +2631,29 @@ https://www.youtube.com/watch?v=UBD-8ms-eIE&ab_channel=EdoIrfanM
 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 after effects YT:
 
 leolide(https://www.youtube.com/c/leolide0)
 Note(casey):
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 Jarxdd(https://www.youtube.com/channel/UCEmv84lt0IhGPPiyPSFxFCg)
 Note(casey): Smooth Position Shake After Effects AMV Tutorial
-доп(casey): https://www.youtube.com/watch?v=tu0c2RUnHsc&ab_channel=Jarxdd
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=tu0c2RUnHsc&ab_channel=Jarxdd
 
 
 Kyrik(https://www.youtube.com/c/Kyrik/videos)
 Note(casey):
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Crepling(https://www.youtube.com/c/Crepling%E8%AE%B2%E8%A7%A3/videos)
 Note(casey):
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
-закончить сверху ыыыы
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
 
 
 
@@ -2664,7 +2664,7 @@ Note(casey):
 
 live2d
 Note(casey):
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 live2d playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphI9TSwduXtjd_ybWGT9cLzr
@@ -2674,14 +2674,14 @@ How to animate using live2d cubism! - Part 1 (basics)
 https://www.youtube.com/watch?v=w5htysrkUyk&ab_channel=GachaEmika
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 live2d YT:
 Gacha Emika(https://www.youtube.com/c/GachaEmika)
 Note(casey): 
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -2691,11 +2691,11 @@ Note(casey):
 
 
 
-othershit(ai(Диск E), sai(диск Е), adobe flash pro, леттеринг(диск D)); 
+othershit(ai(пїЅпїЅпїЅпїЅ E), sai(пїЅпїЅпїЅпїЅ пїЅ), adobe flash pro, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅпїЅ D)); 
 
 beats
 Note(casey):
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 FL Studio 20 playlist
@@ -2716,8 +2716,8 @@ https://www.youtube.com/playlist?list=PL-2XD_2BzphLJYMXO-9WomjDSsE05vm7X
 
 find some dariacore tutorials on YT
 
-Note(casey): Проекты, ???
-доп(casey): 
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey): 
 
 beats YT:
 
@@ -2731,7 +2731,7 @@ beats YT:
 
 adobe flash pro
 Note(casey): Adobe Flash Professional CS6 Essential\06. The Basics of Animation\07. Using Inverse Kinematics
-доп(casey): диск Е: Total Training - Adobe Flash Professional CS6 Essential
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ: Total Training - Adobe Flash Professional CS6 Essential
 
 
 flash pro cs6 playlist
@@ -2741,14 +2741,14 @@ Create a zoom and fade effect in Adobe Flash
 https://www.youtube.com/watch?v=joi6AZsF0X4&ab_channel=DanielWood
 
 
-Note(casey): Проекты, heylog
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, heylog
+пїЅпїЅпїЅ(casey):
 
 adobe flash pro YT:
 
 Jesse J. Jones(https://www.youtube.com/c/JesseJJones)
 Note(casey): How To Animate in Flash for Beginners (Part 2) | Motion Tweens(Jesse J. Jones)
-доп(casey): https://www.youtube.com/watch?v=E4ETFOU40i8&ab_channel=JesseJ.Jones
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=E4ETFOU40i8&ab_channel=JesseJ.Jones
 
 
 
@@ -2759,29 +2759,29 @@ Note(casey): How To Animate in Flash for Beginners (Part 2) | Motion Tweens(Jess
 
 
 illustrator
-Note(casey): Курс по рисованию векторных иллюстраций\1. Работа с пером\1. Интерфейс Adobe Illustrator
-доп(casey): диск E: risovan.vektor.ill
+Note(casey): пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\1. пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ\1. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Adobe Illustrator
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ E: risovan.vektor.ill
 
 illustrator playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphLX8l76qmMhs5H4Cis3JVzy
 
-Простая и эффективная техника рисования в Adobe Illustrator
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Adobe Illustrator
 https://www.youtube.com/watch?v=Kzwvc-0O1jA&ab_channel=Atlantis
 
 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 illustrator YT:
 
 Atlantis(https://www.youtube.com/c/Atlantis_art_project)
-Note(casey): Простая и эффективная техника рисования в Adobe Illustrator
-доп(casey): https://www.youtube.com/watch?v=Kzwvc-0O1jA&ab_channel=Atlantis
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Adobe Illustrator
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=Kzwvc-0O1jA&ab_channel=Atlantis
 
-Note(casey): Универсальная техника рисования в Adobe Illustrator
-доп(casey): https://www.youtube.com/watch?v=FHhVznQp754&t=5s&ab_channel=Atlantis
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Adobe Illustrator
+пїЅпїЅпїЅ(casey): https://www.youtube.com/watch?v=FHhVznQp754&t=5s&ab_channel=Atlantis
 
 
 
@@ -2799,7 +2799,7 @@ Note(casey): Универсальная техника рисования в Adobe Illustrator
 
 photoshop
 Note(casey): ???
-доп(casey): диск
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ
 
 
 photoshop playlist
@@ -2816,8 +2816,8 @@ https://www.youtube.com/watch?v=UThUUvmsmq0&ab_channel=DanielJayRobinson
 
 find something relative to hyperpop
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 photoshop YT:
 
@@ -2827,17 +2827,17 @@ photoshop YT:
 
 
 sai
-Note(casey): new art school\1. Введение\1
-доп(casey): диск Е: newartschool sketching
+Note(casey): new art school\1. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\1
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ: newartschool sketching
 
 sai playlist????
 
 Note(casey): YOUTUBE, ???(???)
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 sai YT:
 
@@ -2847,15 +2847,15 @@ sai YT:
 
 
 
-леттеринг
-Note(casey): Делай лого\Урок1\Урок 1 Теория
-доп(casey): диск D: delai.logo
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+Note(casey): пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ\пїЅпїЅпїЅпїЅ1\пїЅпїЅпїЅпїЅ 1 пїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ D: delai.logo
 
 
-Note(casey): Проекты, ???
-доп(casey): а нужно ли?
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey): пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ?
 
-леттеринг YT:
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ YT:
 
 
 
@@ -2865,7 +2865,7 @@ Note(casey): Проекты, ???
 
 clip studio paint
 Note(casey):
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 clip studio paint playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphLhFJmtrTbdDsiCIlCop9X-
@@ -2873,8 +2873,8 @@ https://www.youtube.com/playlist?list=PL-2XD_2BzphLhFJmtrTbdDsiCIlCop9X-
 How to Animate in Clip Studio Paint for Beginners
 https://www.youtube.com/watch?v=KdPkP0boBOo&ab_channel=WhytManga
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 clip studio paint YT:
 
@@ -2885,7 +2885,7 @@ clip studio paint YT:
 
 Toon Boom Harmony
 Note(casey):
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 Toon Boom Harmony playlist
 https://www.youtube.com/playlist?list=PL-2XD_2BzphK5dN7bOgR5U4jY5JmJyB-w
@@ -2897,8 +2897,8 @@ Toon Boom Harmony Tutorial for Beginners: How To Make a Cartoon!(Jesse J. Jones)
 https://www.youtube.com/watch?v=MI65MRdKfIY&ab_channel=JesseJ.Jones
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 Toon Boom Harmony YT:
@@ -2918,17 +2918,17 @@ Toon Boom Harmony YT:
 3D(Blender);
 Note(casey): Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners\Chapter 3 - Animation and Final Rendering\7-11
 Note(casey): 10. Preparing for Rendering and Loose Ends
-доп(casey): диск D: CGCookie - Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners by Grant Wilk (2019)
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ D: CGCookie - Build and Animate a Low Poly Rocket in Blender 2.8 for Beginners by Grant Wilk (2019)
 
 
 
 Note(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]\08 - Particle Fundamentals
 Note(casey): 05_hair_particles
-доп(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
+пїЅпїЅпїЅ(casey): CGBoost - Blender 2.8 Launch Pad (Chapters 1-15) (2019) [RUS, ENG]
 
 
-доп(casey): посмотреть gumroad, Creative Shrimp, Learn Squared, Blender Cloud
-доп(casey): environment досмотреть чо то переделать
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ gumroad, Creative Shrimp, Learn Squared, Blender Cloud
+пїЅпїЅпїЅ(casey): environment пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 
 
@@ -2941,36 +2941,36 @@ https://www.youtube.com/playlist?list=PL-2XD_2BzphLzw0YEnyqZgDY70vg6706F
 ???
 ???
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 3D Blender YT:
 
 
 CG GEEK(https://www.youtube.com/c/CGGeek)
 Note(casey): 
-доп(casey): 
-доп(casey): check explosion
+пїЅпїЅпїЅ(casey): 
+пїЅпїЅпїЅ(casey): check explosion
 
 
 Andrew Florya(https://www.youtube.com/channel/UCeflP1goa7XgO-6KHFXYGxA)
 Note(casey): 
-доп(casey):
+пїЅпїЅпїЅ(casey):
 
 
 William Landgren(https://www.youtube.com/channel/UC_v-Rg-FYBUfkF4GLcMDEcg)
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 Polyfjord(https://www.youtube.com/c/Polyfjord)
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 hyper(https://www.youtube.com/channel/UCSezUnbvCLYBXuUlPcXU_QQ)
 Note(casey): 
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 
 
 
@@ -2999,9 +2999,9 @@ https://www.biteki.com/hair/style/227929
 
 
 3D(Houdini);
-Note(casey): [Online VFX] Houdini 3D Artist [2018, RUS]\Block 1\1\3D17_OVFX_0101_29_09_01(время)
-доп(casey): расписать всех челиков по houdini;
-доп(casey): диск D: OnlineVFX_Houdini_Artist
+Note(casey): [Online VFX] Houdini 3D Artist [2018, RUS]\Block 1\1\3D17_OVFX_0101_29_09_01(пїЅпїЅпїЅпїЅпїЅ)
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ houdini;
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ D: OnlineVFX_Houdini_Artist
 
 3D Houdini playlist????
 
@@ -3010,8 +3010,8 @@ Note(casey): [Online VFX] Houdini 3D Artist [2018, RUS]\Block 1\1\3D17_OVFX_0101
 ???
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 3D Houdini YT:
 
@@ -3027,23 +3027,23 @@ Note(casey): Проекты, ???
 maybe try p5.js(codetrain)
 
 Note(casey): p5.js\Programming with Text(A-Z)\Session 1 p5.js, JavaScript and Strings - Programming with Text\1.4 Getting Text from User Loading a Text File - Programming with Text
-доп(casey): Session 1: p5.js, JavaScript and Strings - Programming with Text
+пїЅпїЅпїЅ(casey): Session 1: p5.js, JavaScript and Strings - Programming with Text
 https://www.youtube.com/watch?v=0Mq2CxspF5s&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=4&ab_channel=TheCodingTrain
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 // maybe try coding in p5.js first?
 
 Note(casey): p5.js\nature of code 2.0\???
-доп(casey): 
+пїЅпїЅпїЅ(casey): 
 https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=1&ab_channel=TheCodingTrain
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -3066,14 +3066,12 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bePNiZLnglXUp2LXIjlCdb
 
 
 coding challenges
-Note(casey): p5.js\coding challenges\coding challenges\папку_называть_по_названию_видоса
-доп(casey): название видоса
-ссылка на видос
+Note(casey): p5.js\coding challenges\coding challenges\пїЅпїЅпїЅпїЅпїЅ_пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ_пїЅпїЅ_пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ_пїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
 
-Note(casey): Проекты, ???
-доп(casey):
-
-
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 
 
@@ -3082,10 +3080,12 @@ Note(casey): Проекты, ???
 
 
 
-Build Cross-Platform Desktop Apps with Electron:(диск Е)
+
+
+Build Cross-Platform Desktop Apps with Electron:(пїЅпїЅпїЅпїЅ пїЅ)
 https://rutracker.net/forum/viewtopic.php?t=5448417
 Note(casey): electron.js\Build Cross-Platform Desktop Apps with Electron\
-доп(casey): диск Е: Build Cross-Platform Desktop Apps with Electron
+пїЅпїЅпїЅ(casey): пїЅпїЅпїЅпїЅ пїЅ: Build Cross-Platform Desktop Apps with Electron
 
 electron playlist???
 
@@ -3094,8 +3094,8 @@ electron playlist???
 ???
 
 
-Note(casey): Проекты, ???
-доп(casey):
+Note(casey): пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, ???
+пїЅпїЅпїЅ(casey):
 
 Electron YT:
 
@@ -3106,7 +3106,7 @@ english:
 duolingo
 english 20 minutes a day
 https://www.urbandictionary.com/
-активный и пассивный залог
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
 
 
 nihon: 
@@ -3124,6 +3124,6 @@ https://guidetojapanese.org/learn/complete/hiragana
 
 
 
-Жалеть о чем то - очень бесполезное занятие, и нужно уважать то что ты в этой жизни увидел и смог сделать, потому что каждый твой выбор он правильный , потому что другого выбора у тебя никогда может и не быть. поэтому я считаю что наши годы это всего лишь - время которое нам суждено жить в этом свете, поэтому не нужно смотреть назад. Еще я скажу так, Я никогда не задумываюсь ни о чем наперед, Я думаю только сегодня, зачем думать о том, что будет через 5 лет, если завтра может никогда не настать.
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ пїЅпїЅ - пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ , пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ 5 пїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
 
 
