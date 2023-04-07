@@ -143,20 +143,8 @@ https://rutracker.net/forum/viewtopic.php?t=5638529
 Fullstack Social iOS NodeJS REST:
 https://rutracker.net/forum/viewtopic.php?t=5873176 
 
-Node.js, Express, MongoDB & More: The Complete Bootcamp (2020)
-https://rutracker.net/forum/viewtopic.php?t=5819465
-
-Node JS: Advanced Concepts(�����������?, ������������ �� ����� ����, �� ���� �� ����� �� ���)
-https://rutracker.net/forum/viewtopic.php?t=5998587
-
 Microservices with Node JS and React:(����� ������)
 https://rutracker.net/forum/viewtopic.php?t=5953538
-
-nosize: Complete Next.js with React & Node - Beautiful Portfolio App(���� �������� ������ ����� �����, ������� ����������, ����� ��?)
-https://rutracker.net/forum/viewtopic.php?t=5924565
-
-Rapid Development on AWS: React, Node.js & GraphQL:
-https://rutracker.net/forum/viewtopic.php?t=5592645
 
 Firebase + React: Real-time, Serverless Web Apps:(����)
 https://rutracker.net/forum/viewtopic.php?t=5453151
@@ -225,6 +213,9 @@ https://rutracker.net/forum/viewtopic.php?t=5886509
 
 The Complete JavaScript Course 2022: From Zero to Expert!:(Jonas Schmedtmann)
 https://rutracker.net/forum/viewtopic.php?t=5881046
+
+Node.js, Express, MongoDB & More: The Complete Bootcamp 2021
+https://rutracker.org/forum/viewtopic.php?t=6060278
 
 ������ ���� �� JavaScript + React - � ���� �� ����������:
 https://rutracker.net/forum/viewtopic.php?t=5667570
@@ -1251,6 +1242,10 @@ Note(casey): javascript courses\react-the-complete-guide-incl-redux\11 Practice 
 
 Note(casey): javascript courses\complete-react-developer-zero-to-mastery\03 React Basics\059 Monsters Rolodex - Hooks_ useEffect
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=5904049
+
+Note(casey): javascript courses\jonas node.js
+
+���(casey): https://rutracker.org/forum/viewtopic.php?t=6060278
 
 ���(casey): javascript\learn javascript\???
 https://learn.javascript.ru/js
