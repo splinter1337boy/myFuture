@@ -1240,7 +1240,7 @@ Note(casey): javascript courses\the-complete-javascript-course\19 Setting Up Git
 Note(casey): javascript courses\react-the-complete-guide-incl-redux\11 Practice Project_ Building a Food Order App\132 Starting Setup
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
 
-Note(casey): javascript courses\complete-react-developer-zero-to-mastery\14 Redux\163 Migrating Cart Context to Redux Pt. 2
+Note(casey): javascript courses\complete-react-developer-zero-to-mastery\14 Redux\164 Migrating Cart Context to Redux Pt. 3
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=5904049
 
 Note(casey): javascript courses\jonas node.js
