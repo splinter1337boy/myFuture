@@ -1240,7 +1240,7 @@ Note(casey): javascript courses\the-complete-javascript-course\19 Setting Up Git
 Note(casey): javascript courses\react-the-complete-guide-incl-redux\11 Practice Project_ Building a Food Order App\132 Starting Setup
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
 
-Note(casey): javascript courses\complete-react-developer-zero-to-mastery\17 Asynchronous Redux_ Redux-Saga\173 Redux-Saga_ fetchCategoriesAsync Thunk to Saga
+Note(casey): javascript courses\complete-react-developer-zero-to-mastery\17 Asynchronous Redux_ Redux-Saga\174 Redux-Saga_ Converting onAuthStateChanged Listener to Promise
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=5904049
 
 Note(casey): javascript courses\jonas node.js
