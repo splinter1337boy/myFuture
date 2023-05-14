@@ -1240,7 +1240,7 @@ Note(casey): javascript courses\the-complete-javascript-course\19 Setting Up Git
 Note(casey): javascript courses\react-the-complete-guide-incl-redux\11 Practice Project_ Building a Food Order App\132 Starting Setup
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
 
-Note(casey): javascript courses\complete-react-developer-zero-to-mastery\19 Typescript Basics_ Typing Monsters-Rolodex\190 Starting our Typing
+Note(casey): javascript courses\complete-react-developer-zero-to-mastery\19 Typescript Basics_ Typing Monsters-Rolodex\191 Typescript Interfaces
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=5904049
 
 Note(casey): javascript courses\jonas node.js
