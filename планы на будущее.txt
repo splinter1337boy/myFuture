@@ -1246,6 +1246,9 @@ Note(casey): javascript courses\complete-react-developer-zero-to-mastery\24 Type
 Note(casey): javascript courses\jonas node.js
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=6060278
 
+The Ultimate React Course 2023
+https://rutracker.org/forum/viewtopic.php?t=6372975
+
 ���(casey): javascript\learn javascript\???
 https://learn.javascript.ru/js
 
