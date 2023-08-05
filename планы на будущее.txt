@@ -1240,7 +1240,7 @@ Note(casey): javascript courses\the-complete-javascript-course\19 Setting Up Git
 Note(casey): javascript courses\react-the-complete-guide-incl-redux\11 Practice Project_ Building a Food Order App\132 Starting Setup
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=6066396
 
-Note(casey): javascript courses\complete-react-developer-zero-to-mastery\24 Typescript Advanced_ Typing Our Crwn-Clothing Components\219 Typing Our Payment Form
+Note(casey): javascript courses\complete-react-developer-zero-to-mastery\25 GraphQL + Apollo Client\225 Variables in useQuery & Caching
 ���(casey): https://rutracker.org/forum/viewtopic.php?t=5904049
 
 Note(casey): javascript courses\jonas node.js
